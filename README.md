@@ -2,7 +2,7 @@
 
 # AUTONOMOUS SKILL ARCHITECTURE
 <p align="center">
-  <em>The universal orchestration layer for Antigravity, Claude, ChatGPT, and independent agent frameworks.</em>
+  <em>The universal orchestration layer for Claude Code, Cursor, Gemini CLI, Antigravity, and independent agent ecosystems.</em>
 </p>
 
 [![Architecture: 3-Tier Routing](https://img.shields.io/badge/Architecture-3--Tier%20Routing-zinc?style=for-the-badge)](#)
@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://picsum.photos/seed/architecture/1920/600?grayscale&mix-blend-luminosity&contrast=125" width="100%" alt="Architecture Topology">
+<img src="assets/github_repo_cover.png" width="100%" alt="Autonomous Skill Architecture Topology">
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## UNIVERSAL INTELLIGENCE
 
-This repository is an OS-level orchestration layer designed to scale autonomous execution. It is built natively for Antigravity but engineered to serve **any agent ecosystem**.
+This repository is an OS-level orchestration layer designed to scale autonomous execution. It is built natively for modern agent environments (Cursor, Claude, Kiro, Antigravity) to serve **any agent ecosystem**.
 
 Standard LLM workflows degrade when exposed to thousands of prompts. This architecture utilizes a strict 3-Tier indexing algorithm (Manifest → Category → Skill) to ensure surgical execution, zero token waste, and absolute routing reliability.
 
@@ -47,11 +47,13 @@ The foundational primitives that power autonomous workflows.
 
 This library is agnostic. Whether you are using Antigravity, Claude, OpenAI wrappers, or custom terminal agents, the invocation syntax adapts to your environment.
 
-### Antigravity Native
-Antigravity utilizes command symbols to directly hook into the file system index.
+### Core Invocation Patterns
+Agent environments utilize command symbols or natural language to directly hook into the file system index.
 ```bash
+# Example syntax across various tools
 @master-skill
 /defender-agent
+Use brainstorming to plan a feature
 ```
 
 ### Skills — Tool × Local Skills Path × First Use
@@ -131,14 +133,11 @@ Reference the physical markdown files directly in your terminal or chat panel co
 
 ## SYSTEM INITIALIZATION
 
-Deploy the routing architecture on your local hardware.
+Deploy the routing architecture on your local hardware. Ensure you have cloned the repository into your preferred tool's path (as defined in the Universal Manual Clone section).
 
 ```bash
-# Clone the foundational repository
-git clone https://github.com/your-username/antigravity-skills.git ~/.gemini/antigravity/skills
-
-# Enter the orchestration directory
-cd ~/.gemini/antigravity/skills
+# Navigate to the target orchestration directory (example shown)
+cd ~/.agents/skills
 
 # Compile the 3-Tier Routing Matrix
 python generate_indexes.py
