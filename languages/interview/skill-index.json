@@ -1,0 +1,11 @@
+{
+  "sub_category": "interview",
+  "skills": [
+    {
+      "id": "interview-coach",
+      "name": "interview-coach",
+      "description": "\"Full job search coaching system \u2014 JD decoding, resume, storybank, mock interviews, transcript analysis, comp negotiation. 23 commands, persistent state.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\interview-coach\\SKILL.md"
+    }
+  ]
+}

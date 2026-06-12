@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_18",
+  "skills": [
+    {
+      "id": "gsd-ns-context",
+      "name": "gsd-ns-context",
+      "description": "\"codebase intelligence | map graphify docs learnings\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-context\\SKILL.md"
+    },
+    {
+      "id": "gsd-ns-ideate",
+      "name": "gsd-ns-ideate",
+      "description": "\"exploration capture | explore sketch spike spec capture\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-ideate\\SKILL.md"
+    },
+    {
+      "id": "gsd-ns-manage",
+      "name": "gsd-ns-manage",
+      "description": "\"config workspace | workstreams thread update ship inbox\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-manage\\SKILL.md"
+    },
+    {
+      "id": "gsd-ns-project",
+      "name": "gsd-ns-project",
+      "description": "\"project lifecycle | milestones audits summary\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-project\\SKILL.md"
+    },
+    {
+      "id": "gsd-ns-review",
+      "name": "gsd-ns-review",
+      "description": "\"quality gates | code review debug audit security eval ui\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-ns-workflow",
+      "name": "gsd-ns-workflow",
+      "description": "\"workflow | discuss plan execute verify phase progress\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ns-workflow\\SKILL.md"
+    },
+    {
+      "id": "gsd-pause-work",
+      "name": "gsd-pause-work",
+      "description": "\"Create context handoff when pausing work mid-phase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-pause-work\\SKILL.md"
+    },
+    {
+      "id": "gsd-phase",
+      "name": "gsd-phase",
+      "description": "\"CRUD for phases in ROADMAP.md \u2014 add, insert, remove, or edit phases\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-plan-phase",
+      "name": "gsd-plan-phase",
+      "description": "\"Create detailed phase plan (PLAN.md) with verification loop\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-plan-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-plan-review-convergence",
+      "name": "gsd-plan-review-convergence",
+      "description": "\"Cross-AI plan convergence loop \u2014 replan with review feedback until no HIGH concerns remain.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-plan-review-convergence\\SKILL.md"
+    },
+    {
+      "id": "gsd-pr-branch",
+      "name": "gsd-pr-branch",
+      "description": "\"Create a clean PR branch by filtering out .planning/ commits \u2014 ready for code review\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-pr-branch\\SKILL.md"
+    },
+    {
+      "id": "gsd-profile-user",
+      "name": "gsd-profile-user",
+      "description": "\"Generate developer behavioral profile and create Claude-discoverable artifacts\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-profile-user\\SKILL.md"
+    },
+    {
+      "id": "gsd-progress",
+      "name": "gsd-progress",
+      "description": "\"Check progress, advance workflow, or dispatch freeform intent \u2014 the unified GSD situational command\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-progress\\SKILL.md"
+    },
+    {
+      "id": "gsd-quick",
+      "name": "gsd-quick",
+      "description": "\"Execute a quick task with GSD guarantees (atomic commits, state tracking) but skip optional agents\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-quick\\SKILL.md"
+    },
+    {
+      "id": "gsd-resume-work",
+      "name": "gsd-resume-work",
+      "description": "\"Resume work from previous session with full context restoration\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-resume-work\\SKILL.md"
+    },
+    {
+      "id": "gsd-review",
+      "name": "gsd-review",
+      "description": "\"Request cross-AI peer review of phase plans from external AI CLIs\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-review-backlog",
+      "name": "gsd-review-backlog",
+      "description": "\"Review and promote backlog items to active milestone\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-review-backlog\\SKILL.md"
+    },
+    {
+      "id": "gsd-secure-phase",
+      "name": "gsd-secure-phase",
+      "description": "\"Retroactively verify threat mitigations for a completed phase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-secure-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-settings",
+      "name": "gsd-settings",
+      "description": "\"Configure GSD workflow toggles and model profile\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-settings\\SKILL.md"
+    },
+    {
+      "id": "gsd-ship",
+      "name": "gsd-ship",
+      "description": "\"Create PR, run review, and prepare for merge after verification passes\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ship\\SKILL.md"
+    },
+    {
+      "id": "gsd-spec-phase",
+      "name": "gsd-spec-phase",
+      "description": "\"Clarify WHAT a phase delivers with ambiguity scoring; produces a SPEC.md before discuss-phase.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-spec-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-stats",
+      "name": "gsd-stats",
+      "description": "\"Display project statistics \u2014 phases, plans, requirements, git metrics, and timeline\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-stats\\SKILL.md"
+    },
+    {
+      "id": "gsd-surface",
+      "name": "gsd-surface",
+      "description": "\"Toggle which skills are surfaced \u2014 apply a profile, list, or disable a cluster without reinstall\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-surface\\SKILL.md"
+    },
+    {
+      "id": "gsd-thread",
+      "name": "gsd-thread",
+      "description": "\"Manage persistent context threads for cross-session work\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-thread\\SKILL.md"
+    },
+    {
+      "id": "gsd-ui-phase",
+      "name": "gsd-ui-phase",
+      "description": "\"Generate UI design contract (UI-SPEC.md) for frontend phases\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ui-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-ui-review",
+      "name": "gsd-ui-review",
+      "description": "\"Retroactive 6-pillar visual audit of implemented frontend code\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ui-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-ultraplan-phase",
+      "name": "gsd-ultraplan-phase",
+      "description": "\"[BETA] Offload plan phase to Claude Code's ultraplan cloud; review in browser and import back.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ultraplan-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-undo",
+      "name": "gsd-undo",
+      "description": "\"Safe git revert. Roll back phase or plan commits using the phase manifest with dependency checks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-undo\\SKILL.md"
+    },
+    {
+      "id": "gsd-update",
+      "name": "gsd-update",
+      "description": "\"Update GSD to latest version with changelog display\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-update\\SKILL.md"
+    },
+    {
+      "id": "gsd-validate-phase",
+      "name": "gsd-validate-phase",
+      "description": "\"Retroactively audit and fill Nyquist validation gaps for a completed phase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-validate-phase\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_1",
+  "skills": [
+    {
+      "id": "ai-md",
+      "name": "ai-md",
+      "description": "\"Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested across 4 models. Same rules, fewer tokens, higher compliance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-md\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-document-intelligence-dotnet",
+      "name": "azure-ai-document-intelligence-dotnet",
+      "description": "Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-document-intelligence-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-document-intelligence-ts",
+      "name": "azure-ai-document-intelligence-ts",
+      "description": "\"Extract text, tables, and structured data from documents using prebuilt and custom models.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-document-intelligence-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-postgresql-dotnet",
+      "name": "azure-resource-manager-postgresql-dotnet",
+      "description": "Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-postgresql-dotnet\\SKILL.md"
+    },
+    {
+      "id": "bdi-mental-states",
+      "name": "bdi-mental-states",
+      "description": "This skill should be used when the user asks to \"model agent mental states\", \"implement BDI architecture\", \"create belief-desire-intention models\", \"transform RDF to beliefs\", \"build cognitive agent\", or mentions BDI ontology, mental state modeling, rational agency, or neuro-symbolic AI integration.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bdi-mental-states\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-clickhouse-io",
+      "name": "cc-skill-clickhouse-io",
+      "description": "\"ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-clickhouse-io\\SKILL.md"
+    },
+    {
+      "id": "coda-automation",
+      "name": "coda-automation",
+      "description": "\"Automate Coda tasks via Rube MCP (Composio): manage docs, pages, tables, rows, formulas, permissions, and publishing. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\coda-automation\\SKILL.md"
+    },
+    {
+      "id": "context-degradation",
+      "name": "context-degradation",
+      "description": "\"Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\context-degradation\\SKILL.md"
+    },
+    {
+      "id": "cqrs-implementation",
+      "name": "cqrs-implementation",
+      "description": "\"Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cqrs-implementation\\SKILL.md"
+    },
+    {
+      "id": "database-design",
+      "name": "database-design",
+      "description": "\"Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-design\\SKILL.md"
+    },
+    {
+      "id": "database-migration",
+      "name": "database-migration",
+      "description": "\"Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-migration\\SKILL.md"
+    },
+    {
+      "id": "database-migrations-sql-migrations",
+      "name": "database-migrations-sql-migrations",
+      "description": "\"SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-migrations-sql-migrations\\SKILL.md"
+    },
+    {
+      "id": "database-optimizer",
+      "name": "database-optimizer",
+      "description": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-optimizer\\SKILL.md"
+    },
+    {
+      "id": "dbt-transformation-patterns",
+      "name": "dbt-transformation-patterns",
+      "description": "\"Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dbt-transformation-patterns\\SKILL.md"
+    },
+    {
+      "id": "fal-generate",
+      "name": "fal-generate",
+      "description": "\"Generate images and videos using fal.ai AI models\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-generate\\SKILL.md"
+    },
+    {
+      "id": "fal-platform",
+      "name": "fal-platform",
+      "description": "\"Platform APIs for model management, pricing, and usage tracking\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-platform\\SKILL.md"
+    },
+    {
+      "id": "food-database-query",
+      "name": "food-database-query",
+      "description": "Food Database Query",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\food-database-query\\SKILL.md"
+    },
+    {
+      "id": "framework-migration-code-migrate",
+      "name": "framework-migration-code-migrate",
+      "description": "\"You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\framework-migration-code-migrate\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-datasets",
+      "name": "hugging-face-datasets",
+      "description": "Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-datasets\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-evaluation",
+      "name": "hugging-face-evaluation",
+      "description": "Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom model evaluations with vLLM/lighteval. Works with the model-index metadata format.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-evaluation\\SKILL.md"
+    },
+    {
+      "id": "internal-comms",
+      "name": "internal-comms",
+      "description": "\"Write internal communications such as status reports, leadership updates, 3P updates, newsletters, FAQs, incident reports, and project updates using repeatable internal formats.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\internal-comms\\SKILL.md"
+    },
+    {
+      "id": "makepad-platform",
+      "name": "makepad-platform",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-platform\\SKILL.md"
+    },
+    {
+      "id": "mmx-cli",
+      "name": "mmx-cli",
+      "description": "\"Use mmx to generate text, images, video, speech, and music via the MiniMax AI platform. Use when the user wants to create media content, chat with MiniMax models, perform web search, or manage MiniMax API resources from the terminal.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mmx-cli\\SKILL.md"
+    },
+    {
+      "id": "nosql-expert",
+      "name": "nosql-expert",
+      "description": "\"Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nosql-expert\\SKILL.md"
+    },
+    {
+      "id": "obsidian-bases",
+      "name": "obsidian-bases",
+      "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\obsidian-bases\\SKILL.md"
+    },
+    {
+      "id": "odoo-docker-deployment",
+      "name": "odoo-docker-deployment",
+      "description": "\"Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-docker-deployment\\SKILL.md"
+    },
+    {
+      "id": "odoo-module-developer",
+      "name": "odoo-module-developer",
+      "description": "\"Expert guide for creating custom Odoo modules. Covers __manifest__.py, model inheritance, ORM patterns, and module structure best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-module-developer\\SKILL.md"
+    },
+    {
+      "id": "odoo-orm-expert",
+      "name": "odoo-orm-expert",
+      "description": "\"Master Odoo ORM patterns: search, browse, create, write, domain filters, computed fields, and performance-safe query techniques.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-orm-expert\\SKILL.md"
+    },
+    {
+      "id": "odoo-performance-tuner",
+      "name": "odoo-performance-tuner",
+      "description": "\"Expert guide for diagnosing and fixing Odoo performance issues: slow queries, worker configuration, memory limits, PostgreSQL tuning, and profiling tools.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-performance-tuner\\SKILL.md"
+    },
+    {
+      "id": "postgres-best-practices",
+      "name": "postgres-best-practices",
+      "description": "\"Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\postgres-best-practices\\SKILL.md"
+    }
+  ]
+}

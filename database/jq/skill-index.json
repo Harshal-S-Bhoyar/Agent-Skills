@@ -1,0 +1,11 @@
+{
+  "sub_category": "jq",
+  "skills": [
+    {
+      "id": "jq",
+      "name": "jq",
+      "description": "\"Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\jq\\SKILL.md"
+    }
+  ]
+}

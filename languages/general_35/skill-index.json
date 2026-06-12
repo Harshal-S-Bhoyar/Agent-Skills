@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_35",
+  "skills": [
+    {
+      "id": "threejs-skills",
+      "name": "threejs-skills",
+      "description": "\"Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\threejs-skills\\SKILL.md"
+    },
+    {
+      "id": "threejs-textures",
+      "name": "threejs-textures",
+      "description": "Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\threejs-textures\\SKILL.md"
+    },
+    {
+      "id": "tiktok-automation",
+      "name": "tiktok-automation",
+      "description": "\"Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tiktok-automation\\SKILL.md"
+    },
+    {
+      "id": "todoist-automation",
+      "name": "todoist-automation",
+      "description": "\"Automate Todoist task management, projects, sections, filtering, and bulk operations via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\todoist-automation\\SKILL.md"
+    },
+    {
+      "id": "top-web-vulnerabilities",
+      "name": "top-web-vulnerabilities",
+      "description": "\"Provide a comprehensive, structured reference for the 100 most critical web application vulnerabilities organized by category. This skill enables systematic vulnerability identification, impact assessment, and remediation guidance across the full spectrum of web security threats.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\top-web-vulnerabilities\\SKILL.md"
+    },
+    {
+      "id": "track-management",
+      "name": "track-management",
+      "description": "Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\track-management\\SKILL.md"
+    },
+    {
+      "id": "transformers-js",
+      "name": "transformers-js",
+      "description": "Run Hugging Face models in JavaScript or TypeScript with Transformers.js in Node.js or the browser.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\transformers-js\\SKILL.md"
+    },
+    {
+      "id": "travel-health-analyzer",
+      "name": "travel-health-analyzer",
+      "description": "\u5206\u6790\u65c5\u884c\u5065\u5eb7\u6570\u636e\u3001\u8bc4\u4f30\u76ee\u7684\u5730\u5065\u5eb7\u98ce\u9669\u3001\u63d0\u4f9b\u75ab\u82d7\u63a5\u79cd\u5efa\u8bae\u3001\u751f\u6210\u591a\u8bed\u8a00\u7d27\u6025\u533b\u7597\u4fe1\u606f\u5361\u7247\u3002\u652f\u6301WHO/CDC\u6570\u636e\u96c6\u6210\u7684\u4e13\u4e1a\u7ea7\u65c5\u884c\u5065\u5eb7\u98ce\u9669\u8bc4\u4f30\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\travel-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "trello-automation",
+      "name": "trello-automation",
+      "description": "\"Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\trello-automation\\SKILL.md"
+    },
+    {
+      "id": "trigger-dev",
+      "name": "trigger-dev",
+      "description": "Trigger.dev expert for background jobs, AI workflows, and reliable",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\trigger-dev\\SKILL.md"
+    },
+    {
+      "id": "trust-calibrator",
+      "name": "trust-calibrator",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\trust-calibrator\\SKILL.md"
+    },
+    {
+      "id": "tutorial-engineer",
+      "name": "tutorial-engineer",
+      "description": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tutorial-engineer\\SKILL.md"
+    },
+    {
+      "id": "twilio-communications",
+      "name": "twilio-communications",
+      "description": "\"Build communication features with Twilio: SMS messaging, voice",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\twilio-communications\\SKILL.md"
+    },
+    {
+      "id": "twitter-automation",
+      "name": "twitter-automation",
+      "description": "\"Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\twitter-automation\\SKILL.md"
+    },
+    {
+      "id": "typescript-advanced-types",
+      "name": "typescript-advanced-types",
+      "description": "\"Comprehensive guidance for mastering TypeScript's advanced type system including generics, conditional types, mapped types, template literal types, and utility types for building robust, type-safe applications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\typescript-advanced-types\\SKILL.md"
+    },
+    {
+      "id": "typescript-expert",
+      "name": "typescript-expert",
+      "description": "TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\typescript-expert\\SKILL.md"
+    },
+    {
+      "id": "typescript-pro",
+      "name": "typescript-pro",
+      "description": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\typescript-pro\\SKILL.md"
+    },
+    {
+      "id": "ui-skills",
+      "name": "ui-skills",
+      "description": "\"Opinionated, evolving constraints to guide agents when building interfaces\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-skills\\SKILL.md"
+    },
+    {
+      "id": "ui-ux-designer",
+      "name": "ui-ux-designer",
+      "description": "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-ux-designer\\SKILL.md"
+    },
+    {
+      "id": "ui-visual-validator",
+      "name": "ui-visual-validator",
+      "description": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-visual-validator\\SKILL.md"
+    },
+    {
+      "id": "uniprot-database",
+      "name": "uniprot-database",
+      "description": "Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\uniprot-database\\SKILL.md"
+    },
+    {
+      "id": "unity-ecs-patterns",
+      "name": "unity-ecs-patterns",
+      "description": "\"Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including Entity Component System, Job System, and Burst Compiler.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\unity-ecs-patterns\\SKILL.md"
+    },
+    {
+      "id": "unreal-engine-cpp-pro",
+      "name": "unreal-engine-cpp-pro",
+      "description": "\"Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\unreal-engine-cpp-pro\\SKILL.md"
+    },
+    {
+      "id": "unsplash-integration",
+      "name": "unsplash-integration",
+      "description": "Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\unsplash-integration\\SKILL.md"
+    },
+    {
+      "id": "upstash-qstash",
+      "name": "upstash-qstash",
+      "description": "Upstash QStash expert for serverless message queues, scheduled",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\upstash-qstash\\SKILL.md"
+    },
+    {
+      "id": "using-git-worktrees",
+      "name": "using-git-worktrees",
+      "description": "\"Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\using-git-worktrees\\SKILL.md"
+    },
+    {
+      "id": "using-superpowers",
+      "name": "using-superpowers",
+      "description": "\"Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\using-superpowers\\SKILL.md"
+    },
+    {
+      "id": "uv-package-manager",
+      "name": "uv-package-manager",
+      "description": "\"Comprehensive guide to using uv, an extremely fast Python package installer and resolver written in Rust, for modern Python project management and dependency workflows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\uv-package-manager\\SKILL.md"
+    },
+    {
+      "id": "ux-persuasion-engineer",
+      "name": "ux-persuasion-engineer",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ux-persuasion-engineer\\SKILL.md"
+    },
+    {
+      "id": "variant-analysis",
+      "name": "variant-analysis",
+      "description": "Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzing security vulnerabilities, or performing systematic code audits after finding an initial issue.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\variant-analysis\\SKILL.md"
+    }
+  ]
+}

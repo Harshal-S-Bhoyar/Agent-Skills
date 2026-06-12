@@ -1,0 +1,143 @@
+{
+  "sub_category": "general_2",
+  "skills": [
+    {
+      "id": "docker-expert",
+      "name": "docker-expert",
+      "description": "\"You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\docker-expert\\SKILL.md"
+    },
+    {
+      "id": "expo-cicd-workflows",
+      "name": "expo-cicd-workflows",
+      "description": "Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-cicd-workflows\\SKILL.md"
+    },
+    {
+      "id": "gcp-cloud-run",
+      "name": "gcp-cloud-run",
+      "description": "Specialized skill for building production-ready serverless",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gcp-cloud-run\\SKILL.md"
+    },
+    {
+      "id": "git-pr-workflows-git-workflow",
+      "name": "git-pr-workflows-git-workflow",
+      "description": "\"Orchestrate a comprehensive git workflow from code review through PR creation, leveraging specialized agents for quality assurance, testing, and deployment readiness. This workflow implements modern g\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\git-pr-workflows-git-workflow\\SKILL.md"
+    },
+    {
+      "id": "github-automation",
+      "name": "github-automation",
+      "description": "\"Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\github-automation\\SKILL.md"
+    },
+    {
+      "id": "gitlab-ci-patterns",
+      "name": "gitlab-ci-patterns",
+      "description": "\"Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gitlab-ci-patterns\\SKILL.md"
+    },
+    {
+      "id": "helm-chart-scaffolding",
+      "name": "helm-chart-scaffolding",
+      "description": "\"Comprehensive guidance for creating, organizing, and managing Helm charts for packaging and deploying Kubernetes applications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\helm-chart-scaffolding\\SKILL.md"
+    },
+    {
+      "id": "hybrid-cloud-architect",
+      "name": "hybrid-cloud-architect",
+      "description": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hybrid-cloud-architect\\SKILL.md"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "ilya-sutskever",
+      "description": "\"Agente que simula Ilya Sutskever \u2014 co-fundador da OpenAI, ex-Chief Scientist, fundador da SSI. Use quando quiser perspectivas sobre: AGI safety-first, consci\u00eancia de IA, scaling laws, deep learning profundo, o epis\u00f3dio de novembro 2023 na OpenAI, superintelig\u00eancia segura.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ilya-sutskever\\SKILL.md"
+    },
+    {
+      "id": "incident-response-smart-fix",
+      "name": "incident-response-smart-fix",
+      "description": "\"[Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that leverages AI-assisted debugging tools and observability platforms to systematically diagnose and res\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\incident-response-smart-fix\\SKILL.md"
+    },
+    {
+      "id": "k8s-manifest-generator",
+      "name": "k8s-manifest-generator",
+      "description": "\"Step-by-step guidance for creating production-ready Kubernetes manifests including Deployments, Services, ConfigMaps, Secrets, and PersistentVolumeClaims.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\k8s-manifest-generator\\SKILL.md"
+    },
+    {
+      "id": "k8s-security-policies",
+      "name": "k8s-security-policies",
+      "description": "\"Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\k8s-security-policies\\SKILL.md"
+    },
+    {
+      "id": "kubernetes-architect",
+      "name": "kubernetes-architect",
+      "description": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\kubernetes-architect\\SKILL.md"
+    },
+    {
+      "id": "kubernetes-deployment",
+      "name": "kubernetes-deployment",
+      "description": "\"Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\kubernetes-deployment\\SKILL.md"
+    },
+    {
+      "id": "makepad-deployment",
+      "name": "makepad-deployment",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-deployment\\SKILL.md"
+    },
+    {
+      "id": "ml-pipeline-workflow",
+      "name": "ml-pipeline-workflow",
+      "description": "\"Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ml-pipeline-workflow\\SKILL.md"
+    },
+    {
+      "id": "multi-cloud-architecture",
+      "name": "multi-cloud-architecture",
+      "description": "\"Decision framework and patterns for architecting applications across AWS, Azure, and GCP.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\multi-cloud-architecture\\SKILL.md"
+    },
+    {
+      "id": "network-engineer",
+      "name": "network-engineer",
+      "description": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\network-engineer\\SKILL.md"
+    },
+    {
+      "id": "secrets-management",
+      "name": "secrets-management",
+      "description": "\"Secure secrets management practices for CI/CD pipelines using Vault, AWS Secrets Manager, and other tools.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\secrets-management\\SKILL.md"
+    },
+    {
+      "id": "service-mesh-expert",
+      "name": "service-mesh-expert",
+      "description": "\"Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\service-mesh-expert\\SKILL.md"
+    },
+    {
+      "id": "terraform-module-library",
+      "name": "terraform-module-library",
+      "description": "\"Production-ready Terraform module patterns for AWS, Azure, and GCP infrastructure.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\terraform-module-library\\SKILL.md"
+    },
+    {
+      "id": "turborepo-caching",
+      "name": "turborepo-caching",
+      "description": "\"Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\turborepo-caching\\SKILL.md"
+    },
+    {
+      "id": "unity-developer",
+      "name": "unity-developer",
+      "description": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\unity-developer\\SKILL.md"
+    }
+  ]
+}

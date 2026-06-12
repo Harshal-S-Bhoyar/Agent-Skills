@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_1",
+  "skills": [
+    {
+      "id": "20-andruia-niche-intelligence",
+      "name": "20-andruia-niche-intelligence",
+      "description": "\"Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho espec\u00edfico de un proyecto para inyectar conocimientos, regulaciones y est\u00e1ndares \u00fanicos del sector. Act\u00edvalo tras definir el nicho.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\20-andruia-niche-intelligence\\SKILL.md"
+    },
+    {
+      "id": "3d-web-experience",
+      "name": "3d-web-experience",
+      "description": "Expert in building 3D experiences for the web - Three.js, React",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\3d-web-experience\\SKILL.md"
+    },
+    {
+      "id": "angular",
+      "name": "angular",
+      "description": "Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\angular\\SKILL.md"
+    },
+    {
+      "id": "angular-best-practices",
+      "name": "angular-best-practices",
+      "description": "\"Angular performance optimization and best practices guide. Use when writing, reviewing, or refactoring Angular code for optimal performance, bundle size, and rendering efficiency.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\angular-best-practices\\SKILL.md"
+    },
+    {
+      "id": "angular-migration",
+      "name": "angular-migration",
+      "description": "\"Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and routing migration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\angular-migration\\SKILL.md"
+    },
+    {
+      "id": "angular-state-management",
+      "name": "angular-state-management",
+      "description": "\"Master modern Angular state management with Signals, NgRx, and RxJS. Use when setting up global state, managing component stores, choosing between state solutions, or migrating from legacy patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\angular-state-management\\SKILL.md"
+    },
+    {
+      "id": "angular-ui-patterns",
+      "name": "angular-ui-patterns",
+      "description": "\"Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\angular-ui-patterns\\SKILL.md"
+    },
+    {
+      "id": "antigravity-design-expert",
+      "name": "antigravity-design-expert",
+      "description": "Core UI/UX engineering skill for building highly interactive, spatial, weightless, and glassmorphism-based web interfaces using GSAP and 3D CSS.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\antigravity-design-expert\\SKILL.md"
+    },
+    {
+      "id": "avalonia-layout-zafiro",
+      "name": "avalonia-layout-zafiro",
+      "description": "\"Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\avalonia-layout-zafiro\\SKILL.md"
+    },
+    {
+      "id": "avalonia-viewmodels-zafiro",
+      "name": "avalonia-viewmodels-zafiro",
+      "description": "\"Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\avalonia-viewmodels-zafiro\\SKILL.md"
+    },
+    {
+      "id": "awt-e2e-testing",
+      "name": "awt-e2e-testing",
+      "description": "\"AI-powered E2E web testing \u2014 eyes and hands for AI coding tools. Declarative YAML scenarios, Playwright execution, visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: npx skills add ksgisang/awt-skill --skill awt -g\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\awt-e2e-testing\\SKILL.md"
+    },
+    {
+      "id": "baseline-ui",
+      "name": "baseline-ui",
+      "description": "Validates animation durations, enforces typography scale, checks component accessibility, and prevents layout anti-patterns in Tailwind CSS projects. Use when building UI components, reviewing CSS utilities, styling React views, or enforcing design consistency.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\baseline-ui\\SKILL.md"
+    },
+    {
+      "id": "browser-extension-builder",
+      "name": "browser-extension-builder",
+      "description": "Expert in building browser extensions that solve real problems -",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\browser-extension-builder\\SKILL.md"
+    },
+    {
+      "id": "build",
+      "name": "build",
+      "description": "build",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\build\\SKILL.md"
+    },
+    {
+      "id": "building-native-ui",
+      "name": "building-native-ui",
+      "description": "Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\building-native-ui\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-frontend-patterns",
+      "name": "cc-skill-frontend-patterns",
+      "description": "\"Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-frontend-patterns\\SKILL.md"
+    },
+    {
+      "id": "codebase-to-wordpress-converter",
+      "name": "codebase-to-wordpress-converter",
+      "description": "\"Expert skill for converting any codebase (React/HTML/Next.js) into a pixel-perfect, SEO-optimized, and dynamic WordPress theme.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\codebase-to-wordpress-converter\\SKILL.md"
+    },
+    {
+      "id": "context7-auto-research",
+      "name": "context7-auto-research",
+      "description": "\"Automatically fetch latest library/framework documentation for Claude Code via Context7 API. Use when you need up-to-date documentation for libraries and frameworks or asking about React, Next.js, Prisma, or any other popular library.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\context7-auto-research\\SKILL.md"
+    },
+    {
+      "id": "core-components",
+      "name": "core-components",
+      "description": "\"Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\core-components\\SKILL.md"
+    },
+    {
+      "id": "ddd-strategic-design",
+      "name": "ddd-strategic-design",
+      "description": "\"Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ddd-strategic-design\\SKILL.md"
+    },
+    {
+      "id": "event-sourcing-architect",
+      "name": "event-sourcing-architect",
+      "description": "\"Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual consistency patterns. Use PROACTIVELY for event-sourced systems, audit trail requirements, or complex domain modeling with temporal queries.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\event-sourcing-architect\\SKILL.md"
+    },
+    {
+      "id": "expo-tailwind-setup",
+      "name": "expo-tailwind-setup",
+      "description": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-tailwind-setup\\SKILL.md"
+    },
+    {
+      "id": "expo-ui-swift-ui",
+      "name": "expo-ui-swift-ui",
+      "description": "expo-ui-swift-ui",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-ui-swift-ui\\SKILL.md"
+    },
+    {
+      "id": "fp-ts-react",
+      "name": "fp-ts-react",
+      "description": "\"Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-ts-react\\SKILL.md"
+    },
+    {
+      "id": "frontend-dev-guidelines",
+      "name": "frontend-dev-guidelines",
+      "description": "\"You are a senior frontend engineer operating under strict architectural and performance standards. Use when creating components or pages, adding new features, or fetching or mutating data.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-dev-guidelines\\SKILL.md"
+    },
+    {
+      "id": "frontend-developer",
+      "name": "frontend-developer",
+      "description": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-developer\\SKILL.md"
+    },
+    {
+      "id": "frontend-mobile-security-xss-scan",
+      "name": "frontend-mobile-security-xss-scan",
+      "description": "\"You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-mobile-security-xss-scan\\SKILL.md"
+    },
+    {
+      "id": "frontend-ui-dark-ts",
+      "name": "frontend-ui-dark-ts",
+      "description": "\"A modern dark-themed React UI system using Tailwind CSS and Framer Motion. Designed for dashboards, admin panels, and data-rich applications with glassmorphism effects and tasteful animations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-ui-dark-ts\\SKILL.md"
+    },
+    {
+      "id": "gsd-sketch",
+      "name": "gsd-sketch",
+      "description": "\"Sketch UI/design ideas with throwaway HTML mockups, or propose what to sketch next (frontier mode)\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-sketch\\SKILL.md"
+    },
+    {
+      "id": "gsd-spike",
+      "name": "gsd-spike",
+      "description": "\"Spike an idea through experiential exploration, or propose what to spike next (frontier mode)\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-spike\\SKILL.md"
+    }
+  ]
+}

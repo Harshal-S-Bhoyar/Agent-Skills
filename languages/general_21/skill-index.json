@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_21",
+  "skills": [
+    {
+      "id": "javascript-mastery",
+      "name": "javascript-mastery",
+      "description": "\"33+ essential JavaScript concepts every developer should know, inspired by [33-js-concepts](https://github.com/leonardomso/33-js-concepts).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\javascript-mastery\\SKILL.md"
+    },
+    {
+      "id": "javascript-pro",
+      "name": "javascript-pro",
+      "description": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\javascript-pro\\SKILL.md"
+    },
+    {
+      "id": "javascript-testing-patterns",
+      "name": "javascript-testing-patterns",
+      "description": "\"Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\javascript-testing-patterns\\SKILL.md"
+    },
+    {
+      "id": "javascript-typescript-typescript-scaffold",
+      "name": "javascript-typescript-typescript-scaffold",
+      "description": "\"You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.js and frontend applications. Generate complete project structures with modern tooling (pnpm, Vite, N\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\javascript-typescript-typescript-scaffold\\SKILL.md"
+    },
+    {
+      "id": "jira-automation",
+      "name": "jira-automation",
+      "description": "\"Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\jira-automation\\SKILL.md"
+    },
+    {
+      "id": "jobgpt",
+      "name": "jobgpt",
+      "description": "\"Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\jobgpt\\SKILL.md"
+    },
+    {
+      "id": "jobs-to-be-done-analyst",
+      "name": "jobs-to-be-done-analyst",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\jobs-to-be-done-analyst\\SKILL.md"
+    },
+    {
+      "id": "json-canvas",
+      "name": "json-canvas",
+      "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\json-canvas\\SKILL.md"
+    },
+    {
+      "id": "julia-pro",
+      "name": "julia-pro",
+      "description": "Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\julia-pro\\SKILL.md"
+    },
+    {
+      "id": "junta-leiloeiros",
+      "name": "junta-leiloeiros",
+      "description": "Coleta e consulta dados de leiloeiros oficiais de todas as 27 Juntas Comerciais do Brasil. Scraper multi-UF, banco SQLite, API FastAPI e exportacao CSV/JSON.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\junta-leiloeiros\\SKILL.md"
+    },
+    {
+      "id": "kaizen",
+      "name": "kaizen",
+      "description": "\"Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\kaizen\\SKILL.md"
+    },
+    {
+      "id": "keyword-extractor",
+      "name": "keyword-extractor",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\keyword-extractor\\SKILL.md"
+    },
+    {
+      "id": "klaviyo-automation",
+      "name": "klaviyo-automation",
+      "description": "\"Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\klaviyo-automation\\SKILL.md"
+    },
+    {
+      "id": "kotlin-coroutines-expert",
+      "name": "kotlin-coroutines-expert",
+      "description": "\"Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\kotlin-coroutines-expert\\SKILL.md"
+    },
+    {
+      "id": "kpi-dashboard-design",
+      "name": "kpi-dashboard-design",
+      "description": "\"Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\kpi-dashboard-design\\SKILL.md"
+    },
+    {
+      "id": "langfuse",
+      "name": "langfuse",
+      "description": "Expert in Langfuse - the open-source LLM observability platform.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\langfuse\\SKILL.md"
+    },
+    {
+      "id": "langgraph",
+      "name": "langgraph",
+      "description": "Expert in LangGraph - the production-grade framework for building",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\langgraph\\SKILL.md"
+    },
+    {
+      "id": "laravel-expert",
+      "name": "laravel-expert",
+      "description": "\"Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\laravel-expert\\SKILL.md"
+    },
+    {
+      "id": "laravel-security-audit",
+      "name": "laravel-security-audit",
+      "description": "\"Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\laravel-security-audit\\SKILL.md"
+    },
+    {
+      "id": "last30days",
+      "name": "last30days",
+      "description": "\"Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\last30days\\SKILL.md"
+    },
+    {
+      "id": "latex-paper-conversion",
+      "name": "latex-paper-conversion",
+      "description": "\"This skill should be used when the user asks to convert an academic paper in LaTeX from one format (e.g., Springer, IPOL) to another format (e.g., MDPI, IEEE, Nature). It automates extraction, injection, fixing formatting, and compiling.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\latex-paper-conversion\\SKILL.md"
+    },
+    {
+      "id": "launch-strategy",
+      "name": "launch-strategy",
+      "description": "\"You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention, and convert interest into users.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\launch-strategy\\SKILL.md"
+    },
+    {
+      "id": "lead-magnets",
+      "name": "lead-magnets",
+      "description": "\"Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\lead-magnets\\SKILL.md"
+    },
+    {
+      "id": "legacy-modernizer",
+      "name": "legacy-modernizer",
+      "description": "Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\legacy-modernizer\\SKILL.md"
+    },
+    {
+      "id": "legal-advisor",
+      "name": "legal-advisor",
+      "description": "Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\legal-advisor\\SKILL.md"
+    },
+    {
+      "id": "leiloeiro-avaliacao",
+      "name": "leiloeiro-avaliacao",
+      "description": "Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidacao forcada, ABNT NBR 14653, metodos comparativo/renda/custo, CUB e margem de seguranca.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\leiloeiro-avaliacao\\SKILL.md"
+    },
+    {
+      "id": "leiloeiro-edital",
+      "name": "leiloeiro-edital",
+      "description": "Analise e auditoria de editais de leilao judicial e extrajudicial. Riscos ocultos, clausulas perigosas, debitos, ocupante e classificacao da oportunidade.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\leiloeiro-edital\\SKILL.md"
+    },
+    {
+      "id": "leiloeiro-ia",
+      "name": "leiloeiro-ia",
+      "description": "Especialista em leiloes judiciais e extrajudiciais de imoveis. Analise juridica, pericial e de mercado integrada. Orquestra os 5 modulos especializados.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\leiloeiro-ia\\SKILL.md"
+    },
+    {
+      "id": "leiloeiro-juridico",
+      "name": "leiloeiro-juridico",
+      "description": "'Analise juridica de leiloes: nulidades, bem de familia, alienacao fiduciaria, CPC arts 829-903, Lei 9514/97, onus reais, embargos e jurisprudencia.'",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\leiloeiro-juridico\\SKILL.md"
+    },
+    {
+      "id": "leiloeiro-mercado",
+      "name": "leiloeiro-mercado",
+      "description": "Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\leiloeiro-mercado\\SKILL.md"
+    }
+  ]
+}

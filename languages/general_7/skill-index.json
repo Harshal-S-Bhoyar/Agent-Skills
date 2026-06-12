@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_7",
+  "skills": [
+    {
+      "id": "azure-storage-file-share-py",
+      "name": "azure-storage-file-share-py",
+      "description": "Azure Storage File Share SDK for Python. Use for SMB file shares, directories, and file operations in the cloud.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-file-share-py\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-file-share-ts",
+      "name": "azure-storage-file-share-ts",
+      "description": "Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-file-share-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-queue-py",
+      "name": "azure-storage-queue-py",
+      "description": "Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-queue-py\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-queue-ts",
+      "name": "azure-storage-queue-ts",
+      "description": "Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-queue-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-web-pubsub-ts",
+      "name": "azure-web-pubsub-ts",
+      "description": "\"Real-time messaging with WebSocket connections and pub/sub patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-web-pubsub-ts\\SKILL.md"
+    },
+    {
+      "id": "backend-architect",
+      "name": "backend-architect",
+      "description": "Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend-architect\\SKILL.md"
+    },
+    {
+      "id": "backend-development-feature-development",
+      "name": "backend-development-feature-development",
+      "description": "\"Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend-development-feature-development\\SKILL.md"
+    },
+    {
+      "id": "backend-security-coder",
+      "name": "backend-security-coder",
+      "description": "Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend-security-coder\\SKILL.md"
+    },
+    {
+      "id": "backtesting-frameworks",
+      "name": "backtesting-frameworks",
+      "description": "\"Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backtesting-frameworks\\SKILL.md"
+    },
+    {
+      "id": "bamboohr-automation",
+      "name": "bamboohr-automation",
+      "description": "\"Automate BambooHR tasks via Rube MCP (Composio): employees, time-off, benefits, dependents, employee updates. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bamboohr-automation\\SKILL.md"
+    },
+    {
+      "id": "basecamp-automation",
+      "name": "basecamp-automation",
+      "description": "\"Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\basecamp-automation\\SKILL.md"
+    },
+    {
+      "id": "bazel-build-optimization",
+      "name": "bazel-build-optimization",
+      "description": "\"Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bazel-build-optimization\\SKILL.md"
+    },
+    {
+      "id": "beautiful-prose",
+      "name": "beautiful-prose",
+      "description": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\beautiful-prose\\SKILL.md"
+    },
+    {
+      "id": "behavioral-modes",
+      "name": "behavioral-modes",
+      "description": "\"AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\behavioral-modes\\SKILL.md"
+    },
+    {
+      "id": "bevy-ecs-expert",
+      "name": "bevy-ecs-expert",
+      "description": "\"Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bevy-ecs-expert\\SKILL.md"
+    },
+    {
+      "id": "bill-gates",
+      "name": "bill-gates",
+      "description": "\"Agente que simula Bill Gates \u2014 cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bill-gates\\SKILL.md"
+    },
+    {
+      "id": "billing-automation",
+      "name": "billing-automation",
+      "description": "\"Master automated billing systems including recurring billing, invoice generation, dunning management, proration, and tax calculation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\billing-automation\\SKILL.md"
+    },
+    {
+      "id": "binary-analysis-patterns",
+      "name": "binary-analysis-patterns",
+      "description": "\"Comprehensive patterns and techniques for analyzing compiled binaries, understanding assembly code, and reconstructing program logic.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\binary-analysis-patterns\\SKILL.md"
+    },
+    {
+      "id": "biopython",
+      "name": "biopython",
+      "description": "\"Biopython is a comprehensive set of freely available Python tools for biological computation. It provides functionality for sequence manipulation, file I/O, database access, structural bioinformatics, phylogenetics, and many other bioinformatics tasks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\biopython\\SKILL.md"
+    },
+    {
+      "id": "bitbucket-automation",
+      "name": "bitbucket-automation",
+      "description": "\"Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bitbucket-automation\\SKILL.md"
+    },
+    {
+      "id": "blockchain-developer",
+      "name": "blockchain-developer",
+      "description": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\blockchain-developer\\SKILL.md"
+    },
+    {
+      "id": "blockrun",
+      "name": "blockrun",
+      "description": "\"BlockRun works with Claude Code and Google Antigravity.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\blockrun\\SKILL.md"
+    },
+    {
+      "id": "blog-writing-guide",
+      "name": "blog-writing-guide",
+      "description": "\"This skill enforces Sentry's blog writing standards across every post \u2014 whether you're helping an engineer write their first blog post or a marketer draft a product announcement.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\blog-writing-guide\\SKILL.md"
+    },
+    {
+      "id": "box-automation",
+      "name": "box-automation",
+      "description": "\"Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\box-automation\\SKILL.md"
+    },
+    {
+      "id": "brainstorming",
+      "name": "brainstorming",
+      "description": "\"Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and collaboration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brainstorming\\SKILL.md"
+    },
+    {
+      "id": "brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brand-guidelines\\SKILL.md"
+    },
+    {
+      "id": "brand-guidelines-anthropic",
+      "name": "brand-guidelines-anthropic",
+      "description": "\"To access Anthropic's official brand identity and style resources, use this skill.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brand-guidelines-anthropic\\SKILL.md"
+    },
+    {
+      "id": "brand-guidelines-community",
+      "name": "brand-guidelines-community",
+      "description": "\"To access Anthropic's official brand identity and style resources, use this skill.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brand-guidelines-community\\SKILL.md"
+    },
+    {
+      "id": "brand-perception-psychologist",
+      "name": "brand-perception-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brand-perception-psychologist\\SKILL.md"
+    },
+    {
+      "id": "brevo-automation",
+      "name": "brevo-automation",
+      "description": "\"Automate Brevo (formerly Sendinblue) email marketing operations through Composio's Brevo toolkit via Rube MCP.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\brevo-automation\\SKILL.md"
+    }
+  ]
+}

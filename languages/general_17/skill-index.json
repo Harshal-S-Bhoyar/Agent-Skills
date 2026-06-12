@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_17",
+  "skills": [
+    {
+      "id": "grpc-golang",
+      "name": "grpc-golang",
+      "description": "\"Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure service-to-service transport.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\grpc-golang\\SKILL.md"
+    },
+    {
+      "id": "gsd-add-tests",
+      "name": "gsd-add-tests",
+      "description": "\"Generate tests for a completed phase based on UAT criteria and implementation\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-add-tests\\SKILL.md"
+    },
+    {
+      "id": "gsd-ai-integration-phase",
+      "name": "gsd-ai-integration-phase",
+      "description": "\"Generate an AI-SPEC.md design contract for phases that involve building AI systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ai-integration-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-audit-fix",
+      "name": "gsd-audit-fix",
+      "description": "\"Autonomous audit-to-fix pipeline \u2014 find issues, classify, fix, test, commit\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-audit-fix\\SKILL.md"
+    },
+    {
+      "id": "gsd-audit-milestone",
+      "name": "gsd-audit-milestone",
+      "description": "\"Audit milestone completion against original intent before archiving\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-audit-milestone\\SKILL.md"
+    },
+    {
+      "id": "gsd-audit-uat",
+      "name": "gsd-audit-uat",
+      "description": "\"Cross-phase audit of all outstanding UAT and verification items\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-audit-uat\\SKILL.md"
+    },
+    {
+      "id": "gsd-autonomous",
+      "name": "gsd-autonomous",
+      "description": "\"Run all remaining phases autonomously \u2014 discuss\u2192plan\u2192execute per phase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-autonomous\\SKILL.md"
+    },
+    {
+      "id": "gsd-capture",
+      "name": "gsd-capture",
+      "description": "\"Capture ideas, tasks, notes, and seeds to their destination\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-capture\\SKILL.md"
+    },
+    {
+      "id": "gsd-cleanup",
+      "name": "gsd-cleanup",
+      "description": "\"Archive accumulated phase directories from completed milestones\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-cleanup\\SKILL.md"
+    },
+    {
+      "id": "gsd-code-review",
+      "name": "gsd-code-review",
+      "description": "\"Review source files changed during a phase for bugs, security issues, and code quality problems\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-code-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-complete-milestone",
+      "name": "gsd-complete-milestone",
+      "description": "\"Archive completed milestone and prepare for next version\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-complete-milestone\\SKILL.md"
+    },
+    {
+      "id": "gsd-config",
+      "name": "gsd-config",
+      "description": "\"Configure GSD settings \u2014 workflow toggles, advanced knobs, integrations, and model profile\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-config\\SKILL.md"
+    },
+    {
+      "id": "gsd-debug",
+      "name": "gsd-debug",
+      "description": "\"Systematic debugging with persistent state across context resets\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-debug\\SKILL.md"
+    },
+    {
+      "id": "gsd-discuss-phase",
+      "name": "gsd-discuss-phase",
+      "description": "\"Gather phase context through adaptive questioning before planning.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-discuss-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-docs-update",
+      "name": "gsd-docs-update",
+      "description": "\"Generate or update project documentation verified against the codebase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-docs-update\\SKILL.md"
+    },
+    {
+      "id": "gsd-eval-review",
+      "name": "gsd-eval-review",
+      "description": "\"Audit an executed AI phase's evaluation coverage and produce an EVAL-REVIEW.md remediation plan.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-eval-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-execute-phase",
+      "name": "gsd-execute-phase",
+      "description": "\"Execute all plans in a phase with wave-based parallelization\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-execute-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-extract-learnings",
+      "name": "gsd-extract-learnings",
+      "description": "\"Extract decisions, lessons, patterns, and surprises from completed phase artifacts\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-extract-learnings\\SKILL.md"
+    },
+    {
+      "id": "gsd-forensics",
+      "name": "gsd-forensics",
+      "description": "\"Post-mortem investigation for failed GSD workflows \u2014 diagnoses what went wrong.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-forensics\\SKILL.md"
+    },
+    {
+      "id": "gsd-graphify",
+      "name": "gsd-graphify",
+      "description": "\"Build, query, and inspect the project knowledge graph in .planning/graphs/\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-graphify\\SKILL.md"
+    },
+    {
+      "id": "gsd-health",
+      "name": "gsd-health",
+      "description": "\"Diagnose planning directory health and optionally repair issues\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-health\\SKILL.md"
+    },
+    {
+      "id": "gsd-help",
+      "name": "gsd-help",
+      "description": "\"Show available GSD commands and usage guide\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-help\\SKILL.md"
+    },
+    {
+      "id": "gsd-import",
+      "name": "gsd-import",
+      "description": "\"Ingest external plans with conflict detection against project decisions before writing anything.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-import\\SKILL.md"
+    },
+    {
+      "id": "gsd-inbox",
+      "name": "gsd-inbox",
+      "description": "\"Triage and review open GitHub issues and PRs against project templates and contribution guidelines.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-inbox\\SKILL.md"
+    },
+    {
+      "id": "gsd-ingest-docs",
+      "name": "gsd-ingest-docs",
+      "description": "\"Bootstrap or merge a .planning/ setup from existing ADRs, PRDs, SPECs, and docs in a repo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-ingest-docs\\SKILL.md"
+    },
+    {
+      "id": "gsd-manager",
+      "name": "gsd-manager",
+      "description": "\"Interactive command center for managing multiple phases from one terminal\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-manager\\SKILL.md"
+    },
+    {
+      "id": "gsd-milestone-summary",
+      "name": "gsd-milestone-summary",
+      "description": "\"Generate a comprehensive project summary from milestone artifacts for team onboarding and review\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-milestone-summary\\SKILL.md"
+    },
+    {
+      "id": "gsd-mvp-phase",
+      "name": "gsd-mvp-phase",
+      "description": "\"Plan a phase as a vertical MVP slice \u2014 user story, SPIDR splitting, then plan-phase\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-mvp-phase\\SKILL.md"
+    },
+    {
+      "id": "gsd-new-milestone",
+      "name": "gsd-new-milestone",
+      "description": "\"Start a new milestone cycle \u2014 update PROJECT.md and route to requirements\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-new-milestone\\SKILL.md"
+    },
+    {
+      "id": "gsd-new-project",
+      "name": "gsd-new-project",
+      "description": "\"Initialize a new project with deep context gathering and PROJECT.md\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-new-project\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sub_category": "legal",
+  "skills": [
+    {
+      "id": "lex",
+      "name": "lex",
+      "description": "\"Centralized 'Truth Engine' for cross-jurisdictional legal context (US, EU, CA) and contract scaffolding.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\lex\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sub_category": "data_observability",
+  "skills": [
+    {
+      "id": "monte-carlo-monitor-creation",
+      "name": "monte-carlo-monitor-creation",
+      "description": "\"Guides creation of Monte Carlo monitors via MCP tools, producing monitors-as-code YAML for CI/CD deployment.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\monte-carlo-monitor-creation\\SKILL.md"
+    }
+  ]
+}

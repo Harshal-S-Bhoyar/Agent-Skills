@@ -1,0 +1,11 @@
+{
+  "sub_category": "clean_code",
+  "skills": [
+    {
+      "id": "uncle-bob-craft",
+      "name": "uncle-bob-craft",
+      "description": "\"Use when performing code review, writing or refactoring code, or discussing architecture; complements clean-code and does not replace project linter/formatter.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\uncle-bob-craft\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sub_category": "faf",
+  "skills": [
+    {
+      "id": "faf-expert",
+      "name": "faf-expert",
+      "description": "\"Advanced .faf (Foundational AI-context Format) specialist. IANA-registered format, MCP server config, championship scoring, bi-directional sync.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\faf-expert\\SKILL.md"
+    },
+    {
+      "id": "faf-wizard",
+      "name": "faf-wizard",
+      "description": "\"Done-for-you .faf generator. One-click AI context for any project - new, legacy, or famous. Auto-detects stack, scores readiness, works everywhere.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\faf-wizard\\SKILL.md"
+    }
+  ]
+}

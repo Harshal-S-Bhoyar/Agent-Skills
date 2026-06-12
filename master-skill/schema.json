@@ -1,0 +1,144 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MasterSkillOrchestratorSchema",
+  "description": "Defines the I/O contract for the master-skill orchestrator and all registered skills.",
+  "version": "2.0.0",
+
+  "definitions": {
+
+    "SkillRecord": {
+      "type": "object",
+      "description": "A single entry in the Skill Registry Index (SRI).",
+      "required": ["skill_id", "display_name", "description", "tags", "keywords", "priority", "version"],
+      "properties": {
+        "skill_id":      { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Folder name, canonical ID" },
+        "display_name":  { "type": "string" },
+        "description":   { "type": "string" },
+        "tags":          { "type": "array", "items": { "type": "string" } },
+        "keywords":      { "type": "array", "items": { "type": "string" } },
+        "dependencies":  { "type": "array", "items": { "type": "string" }, "default": [] },
+        "fallback":      { "type": ["string", "null"], "default": null },
+        "priority":      { "type": "integer", "minimum": 0, "maximum": 100, "default": 50 },
+        "version":       { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "path":          { "type": "string", "description": "Absolute or relative path to the skill folder" },
+        "indexed_at":    { "type": "string", "format": "date-time" }
+      }
+    },
+
+    "SkillRegistryIndex": {
+      "type": "object",
+      "description": "The in-memory index built during discovery.",
+      "required": ["skills", "capability_index", "domain_map", "dependency_graph"],
+      "properties": {
+        "skills": {
+          "type": "object",
+          "additionalProperties": { "$ref": "#/definitions/SkillRecord" },
+          "description": "Map of skill_id → SkillRecord"
+        },
+        "capability_index": {
+          "type": "object",
+          "additionalProperties": { "type": "array", "items": { "type": "string" } },
+          "description": "keyword → [skill_ids]"
+        },
+        "domain_map": {
+          "type": "object",
+          "additionalProperties": { "type": "array", "items": { "type": "string" } },
+          "description": "tag → [skill_ids]"
+        },
+        "dependency_graph": {
+          "type": "object",
+          "additionalProperties": { "type": "array", "items": { "type": "string" } },
+          "description": "skill_id → [dependency skill_ids], topologically sorted"
+        },
+        "last_scanned": { "type": "string", "format": "date-time" },
+        "total_skills": { "type": "integer" }
+      }
+    },
+
+    "MatchScore": {
+      "type": "object",
+      "required": ["skill_id", "base_score", "tag_bonus", "explicit_bonus", "final_score"],
+      "properties": {
+        "skill_id":       { "type": "string" },
+        "base_score":     { "type": "number" },
+        "tag_bonus":      { "type": "number" },
+        "explicit_bonus": { "type": "number" },
+        "priority_mult":  { "type": "number" },
+        "final_score":    { "type": "number" }
+      }
+    },
+
+    "ExecutionPlan": {
+      "type": "object",
+      "required": ["phases", "total_skills"],
+      "properties": {
+        "phases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["phase", "mode", "skills"],
+            "properties": {
+              "phase":  { "type": "integer" },
+              "mode":   { "type": "string", "enum": ["sequential", "parallel", "baseline", "paul"] },
+              "skills": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        },
+        "total_skills": { "type": "integer" }
+      }
+    },
+
+    "SkillExecutionResult": {
+      "type": "object",
+      "required": ["skill_id", "status", "output"],
+      "properties": {
+        "skill_id":  { "type": "string" },
+        "status":    { "type": "string", "enum": ["success", "partial", "failed", "skipped"] },
+        "output":    { "type": ["string", "object", "null"] },
+        "error":     { "type": ["string", "null"] },
+        "fallback_used": { "type": ["string", "null"] }
+      }
+    },
+
+    "AuditEntry": {
+      "type": "object",
+      "required": ["turn", "request_summary", "sri_state", "execution_plan", "native_reasoning"],
+      "properties": {
+        "turn":             { "type": "integer" },
+        "request_summary":  { "type": "string" },
+        "sri_state":        { "type": "object", "properties": { "total": { "type": "integer" } } },
+        "baseline_skills":  { "type": "array", "items": { "type": "string" } },
+        "top_matches":      { "type": "array", "items": { "$ref": "#/definitions/MatchScore" } },
+        "execution_plan":   { "$ref": "#/definitions/ExecutionPlan" },
+        "results":          { "type": "array", "items": { "$ref": "#/definitions/SkillExecutionResult" } },
+        "native_reasoning": { "type": "boolean" },
+        "native_reason":    { "type": ["string", "null"] },
+        "result_source":    { "type": "string", "enum": ["skills", "native", "mixed"] }
+      }
+    }
+  },
+
+  "OrchestratorInput": {
+    "type": "object",
+    "description": "What the orchestrator receives at the start of each turn.",
+    "required": ["user_message", "conversation_history"],
+    "properties": {
+      "user_message":          { "type": "string" },
+      "conversation_history":  { "type": "array", "items": { "type": "object" } },
+      "explicit_skill_hint":   { "type": ["string", "null"], "description": "If user named a skill, its ID" },
+      "sri":                   { "$ref": "#/definitions/SkillRegistryIndex" }
+    }
+  },
+
+  "OrchestratorOutput": {
+    "type": "object",
+    "description": "What the orchestrator produces at the end of each turn.",
+    "required": ["final_response", "audit"],
+    "properties": {
+      "final_response":     { "type": "string" },
+      "skills_invoked":     { "type": "array", "items": { "type": "string" } },
+      "native_reasoning":   { "type": "boolean" },
+      "audit":              { "$ref": "#/definitions/AuditEntry" }
+    }
+  }
+}

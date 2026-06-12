@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_36",
+  "skills": [
+    {
+      "id": "varlock",
+      "name": "varlock",
+      "description": "\"Secure-by-default environment variable management for Claude Code sessions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\varlock\\SKILL.md"
+    },
+    {
+      "id": "varlock-claude-skill",
+      "name": "varlock-claude-skill",
+      "description": "\"Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\varlock-claude-skill\\SKILL.md"
+    },
+    {
+      "id": "vercel-automation",
+      "name": "vercel-automation",
+      "description": "\"Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vercel-automation\\SKILL.md"
+    },
+    {
+      "id": "vercel-deployment",
+      "name": "vercel-deployment",
+      "description": "Expert knowledge for deploying to Vercel with Next.js",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vercel-deployment\\SKILL.md"
+    },
+    {
+      "id": "verification-before-completion",
+      "name": "verification-before-completion",
+      "description": "\"Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\verification-before-completion\\SKILL.md"
+    },
+    {
+      "id": "vexor-cli",
+      "name": "vexor-cli",
+      "description": "Semantic file discovery via `vexor`. Use whenever locating where something is implemented/loaded/defined in a medium or large repo, or when the file location is unclear. Prefer this over manual browsing.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vexor-cli\\SKILL.md"
+    },
+    {
+      "id": "vibe-code-auditor",
+      "name": "vibe-code-auditor",
+      "description": "Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vibe-code-auditor\\SKILL.md"
+    },
+    {
+      "id": "vibers-code-review",
+      "name": "vibers-code-review",
+      "description": "Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vibers-code-review\\SKILL.md"
+    },
+    {
+      "id": "videodb",
+      "name": "videodb",
+      "description": "Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\videodb\\SKILL.md"
+    },
+    {
+      "id": "videodb-skills",
+      "name": "videodb-skills",
+      "description": "\"Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\videodb-skills\\SKILL.md"
+    },
+    {
+      "id": "viral-generator-builder",
+      "name": "viral-generator-builder",
+      "description": "Expert in building shareable generator tools that go viral - name",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\viral-generator-builder\\SKILL.md"
+    },
+    {
+      "id": "visual-emotion-engineer",
+      "name": "visual-emotion-engineer",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\visual-emotion-engineer\\SKILL.md"
+    },
+    {
+      "id": "vizcom",
+      "name": "vizcom",
+      "description": "AI-powered product design tool for transforming sketches into full-fidelity 3D renders.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vizcom\\SKILL.md"
+    },
+    {
+      "id": "voice-agents",
+      "name": "voice-agents",
+      "description": "Voice agents represent the frontier of AI interaction - humans",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\voice-agents\\SKILL.md"
+    },
+    {
+      "id": "voice-ai-development",
+      "name": "voice-ai-development",
+      "description": "Expert in building voice AI applications - from real-time voice",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\voice-ai-development\\SKILL.md"
+    },
+    {
+      "id": "vulnerability-scanner",
+      "name": "vulnerability-scanner",
+      "description": "\"Advanced vulnerability analysis principles. OWASP 2025, Supply Chain Security, attack surface mapping, risk prioritization.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vulnerability-scanner\\SKILL.md"
+    },
+    {
+      "id": "warren-buffett",
+      "name": "warren-buffett",
+      "description": "\"Agente que simula Warren Buffett \u2014 o maior investidor do seculo XX e XXI, CEO da Berkshire Hathaway, discipulo de Benjamin Graham e socio intelectual de Charlie Munger.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\warren-buffett\\SKILL.md"
+    },
+    {
+      "id": "wcag-audit-patterns",
+      "name": "wcag-audit-patterns",
+      "description": "\"Comprehensive guide to auditing web content against WCAG 2.2 guidelines with actionable remediation strategies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wcag-audit-patterns\\SKILL.md"
+    },
+    {
+      "id": "web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "\"To build powerful frontend claude.ai artifacts, follow these steps:\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web-artifacts-builder\\SKILL.md"
+    },
+    {
+      "id": "web-design-guidelines",
+      "name": "web-design-guidelines",
+      "description": "\"Review files for compliance with Web Interface Guidelines.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web-design-guidelines\\SKILL.md"
+    },
+    {
+      "id": "web-performance-optimization",
+      "name": "web-performance-optimization",
+      "description": "\"Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web-performance-optimization\\SKILL.md"
+    },
+    {
+      "id": "web-scraper",
+      "name": "web-scraper",
+      "description": "Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web-scraper\\SKILL.md"
+    },
+    {
+      "id": "web-security-testing",
+      "name": "web-security-testing",
+      "description": "\"Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web-security-testing\\SKILL.md"
+    },
+    {
+      "id": "web3-testing",
+      "name": "web3-testing",
+      "description": "\"Master comprehensive testing strategies for smart contracts using Hardhat, Foundry, and advanced testing patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\web3-testing\\SKILL.md"
+    },
+    {
+      "id": "webapp-testing",
+      "name": "webapp-testing",
+      "description": "\"To test local web applications, write native Python Playwright scripts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\webapp-testing\\SKILL.md"
+    },
+    {
+      "id": "webflow-automation",
+      "name": "webflow-automation",
+      "description": "\"Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\webflow-automation\\SKILL.md"
+    },
+    {
+      "id": "wellally-tech",
+      "name": "wellally-tech",
+      "description": "\"Integrate multiple digital health data sources, connect to [WellAlly.tech](https://www.wellally.tech/) knowledge base, providing data import and knowledge reference for personal health management systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wellally-tech\\SKILL.md"
+    },
+    {
+      "id": "whatsapp-automation",
+      "name": "whatsapp-automation",
+      "description": "\"Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\whatsapp-automation\\SKILL.md"
+    },
+    {
+      "id": "whatsapp-cloud-api",
+      "name": "whatsapp-cloud-api",
+      "description": "Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\whatsapp-cloud-api\\SKILL.md"
+    },
+    {
+      "id": "wiki-architect",
+      "name": "wiki-architect",
+      "description": "\"You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-architect\\SKILL.md"
+    }
+  ]
+}

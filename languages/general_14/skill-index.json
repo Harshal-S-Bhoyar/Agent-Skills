@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_14",
+  "skills": [
+    {
+      "id": "error-handling-patterns",
+      "name": "error-handling-patterns",
+      "description": "\"Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-handling-patterns\\SKILL.md"
+    },
+    {
+      "id": "ethical-hacking-methodology",
+      "name": "ethical-hacking-methodology",
+      "description": "\"Master the complete penetration testing lifecycle from reconnaissance through reporting. This skill covers the five stages of ethical hacking methodology, essential tools, attack techniques, and professional reporting for authorized security assessments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ethical-hacking-methodology\\SKILL.md"
+    },
+    {
+      "id": "evaluation",
+      "name": "evaluation",
+      "description": "\"Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\evaluation\\SKILL.md"
+    },
+    {
+      "id": "event-store-design",
+      "name": "event-store-design",
+      "description": "\"Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\event-store-design\\SKILL.md"
+    },
+    {
+      "id": "evolution",
+      "name": "evolution",
+      "description": "\"This skill enables makepad-skills to self-improve continuously during development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\evolution\\SKILL.md"
+    },
+    {
+      "id": "exa-search",
+      "name": "exa-search",
+      "description": "\"Semantic search, similar content discovery, and structured research using Exa API. Use when you need semantic/embeddings-based search, finding similar content, or searching by category (company, people, research papers, etc.).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\exa-search\\SKILL.md"
+    },
+    {
+      "id": "executing-plans",
+      "name": "executing-plans",
+      "description": "\"Use when you have a written implementation plan to execute in a separate session with review checkpoints\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\executing-plans\\SKILL.md"
+    },
+    {
+      "id": "explain-like-socrates",
+      "name": "explain-like-socrates",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\explain-like-socrates\\SKILL.md"
+    },
+    {
+      "id": "expo-api-routes",
+      "name": "expo-api-routes",
+      "description": "Guidelines for creating API routes in Expo Router with EAS Hosting",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-api-routes\\SKILL.md"
+    },
+    {
+      "id": "expo-deployment",
+      "name": "expo-deployment",
+      "description": "\"Deploy Expo apps to production\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-deployment\\SKILL.md"
+    },
+    {
+      "id": "expo-dev-client",
+      "name": "expo-dev-client",
+      "description": "Build and distribute Expo development clients locally or via TestFlight",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-dev-client\\SKILL.md"
+    },
+    {
+      "id": "expo-ui-jetpack-compose",
+      "name": "expo-ui-jetpack-compose",
+      "description": "expo-ui-jetpack-compose",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\expo-ui-jetpack-compose\\SKILL.md"
+    },
+    {
+      "id": "fal-audio",
+      "name": "fal-audio",
+      "description": "\"Text-to-speech and speech-to-text using fal.ai audio models\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-audio\\SKILL.md"
+    },
+    {
+      "id": "fal-image-edit",
+      "name": "fal-image-edit",
+      "description": "\"AI-powered image editing with style transfer and object removal\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-image-edit\\SKILL.md"
+    },
+    {
+      "id": "fal-upscale",
+      "name": "fal-upscale",
+      "description": "\"Upscale and enhance image and video resolution using AI\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-upscale\\SKILL.md"
+    },
+    {
+      "id": "fal-workflow",
+      "name": "fal-workflow",
+      "description": "\"Generate workflow JSON files for chaining AI models\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fal-workflow\\SKILL.md"
+    },
+    {
+      "id": "fastapi-pro",
+      "name": "fastapi-pro",
+      "description": "Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fastapi-pro\\SKILL.md"
+    },
+    {
+      "id": "fastapi-templates",
+      "name": "fastapi-templates",
+      "description": "\"Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fastapi-templates\\SKILL.md"
+    },
+    {
+      "id": "favicon",
+      "name": "favicon",
+      "description": "Generate favicons from a source image",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\favicon\\SKILL.md"
+    },
+    {
+      "id": "fda-food-safety-auditor",
+      "name": "fda-food-safety-auditor",
+      "description": "\"Expert AI auditor for FDA Food Safety (FSMA), HACCP, and PCQI compliance. Reviews food facility records and preventive controls.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fda-food-safety-auditor\\SKILL.md"
+    },
+    {
+      "id": "fda-medtech-compliance-auditor",
+      "name": "fda-medtech-compliance-auditor",
+      "description": "\"Expert AI auditor for Medical Device (SaMD) compliance, IEC 62304, and 21 CFR Part 820. Reviews DHFs, technical files, and software validation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fda-medtech-compliance-auditor\\SKILL.md"
+    },
+    {
+      "id": "ffuf-claude-skill",
+      "name": "ffuf-claude-skill",
+      "description": "\"Web fuzzing with ffuf\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ffuf-claude-skill\\SKILL.md"
+    },
+    {
+      "id": "ffuf-web-fuzzing",
+      "name": "ffuf-web-fuzzing",
+      "description": "Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ffuf-web-fuzzing\\SKILL.md"
+    },
+    {
+      "id": "figma-automation",
+      "name": "figma-automation",
+      "description": "\"Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\figma-automation\\SKILL.md"
+    },
+    {
+      "id": "file-organizer",
+      "name": "file-organizer",
+      "description": "\"6. Reduces Clutter: Identifies old files you probably don't need anymore\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\file-organizer\\SKILL.md"
+    },
+    {
+      "id": "file-path-traversal",
+      "name": "file-path-traversal",
+      "description": "\"Identify and exploit file path traversal (directory traversal) vulnerabilities that allow attackers to read arbitrary files on the server, potentially including sensitive configuration files, credentials, and source code.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\file-path-traversal\\SKILL.md"
+    },
+    {
+      "id": "file-uploads",
+      "name": "file-uploads",
+      "description": "Expert at handling file uploads and cloud storage. Covers S3,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\file-uploads\\SKILL.md"
+    },
+    {
+      "id": "filesystem-context",
+      "name": "filesystem-context",
+      "description": "Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\filesystem-context\\SKILL.md"
+    },
+    {
+      "id": "find-bugs",
+      "name": "find-bugs",
+      "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\find-bugs\\SKILL.md"
+    },
+    {
+      "id": "finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "description": "\"Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\finishing-a-development-branch\\SKILL.md"
+    }
+  ]
+}

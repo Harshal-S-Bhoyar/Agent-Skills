@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_11",
+  "skills": [
+    {
+      "id": "context-manager",
+      "name": "context-manager",
+      "description": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\context-manager\\SKILL.md"
+    },
+    {
+      "id": "context-optimization",
+      "name": "context-optimization",
+      "description": "\"Context optimization extends the effective capacity of limited context windows through strategic compression, masking, caching, and partitioning. The goal is not to magically increase context windows but to make better use of available capacity.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\context-optimization\\SKILL.md"
+    },
+    {
+      "id": "context-window-management",
+      "name": "context-window-management",
+      "description": "Strategies for managing LLM context windows including",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\context-window-management\\SKILL.md"
+    },
+    {
+      "id": "conversation-memory",
+      "name": "conversation-memory",
+      "description": "Persistent memory systems for LLM conversations including",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\conversation-memory\\SKILL.md"
+    },
+    {
+      "id": "convertkit-automation",
+      "name": "convertkit-automation",
+      "description": "\"Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tags, broadcasts, and broadcast stats. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\convertkit-automation\\SKILL.md"
+    },
+    {
+      "id": "convex",
+      "name": "convex",
+      "description": "\"Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\convex\\SKILL.md"
+    },
+    {
+      "id": "copy-editing",
+      "name": "copy-editing",
+      "description": "\"You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\copy-editing\\SKILL.md"
+    },
+    {
+      "id": "copywriting",
+      "name": "copywriting",
+      "description": "Write rigorous, conversion-focused marketing copy for landing pages and emails. Enforces brief confirmation and strict no-fabrication rules.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\copywriting\\SKILL.md"
+    },
+    {
+      "id": "copywriting-psychologist",
+      "name": "copywriting-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\copywriting-psychologist\\SKILL.md"
+    },
+    {
+      "id": "cpp-pro",
+      "name": "cpp-pro",
+      "description": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cpp-pro\\SKILL.md"
+    },
+    {
+      "id": "create-branch",
+      "name": "create-branch",
+      "description": "Create a git branch following Sentry naming conventions. Use when asked to \"create a branch\", \"new branch\", \"start a branch\", \"make a branch\", \"switch to a new branch\", or when starting new work on the default branch.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\create-branch\\SKILL.md"
+    },
+    {
+      "id": "create-issue-gate",
+      "name": "create-issue-gate",
+      "description": "Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\create-issue-gate\\SKILL.md"
+    },
+    {
+      "id": "create-pr",
+      "name": "create-pr",
+      "description": "Alias for sentry-skills:pr-writer. Use when users explicitly ask for \"create-pr\" or reference the legacy skill name. Redirects to the canonical PR writing workflow.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\create-pr\\SKILL.md"
+    },
+    {
+      "id": "cred-omega",
+      "name": "cred-omega",
+      "description": "\"CISO operacional enterprise para gestao total de credenciais e segredos.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cred-omega\\SKILL.md"
+    },
+    {
+      "id": "crewai",
+      "name": "crewai",
+      "description": "Expert in CrewAI - the leading role-based multi-agent framework",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\crewai\\SKILL.md"
+    },
+    {
+      "id": "crypto-bd-agent",
+      "name": "crypto-bd-agent",
+      "description": "\"Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\crypto-bd-agent\\SKILL.md"
+    },
+    {
+      "id": "csharp-pro",
+      "name": "csharp-pro",
+      "description": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\csharp-pro\\SKILL.md"
+    },
+    {
+      "id": "customer-psychographic-profiler",
+      "name": "customer-psychographic-profiler",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\customer-psychographic-profiler\\SKILL.md"
+    },
+    {
+      "id": "customer-support",
+      "name": "customer-support",
+      "description": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\customer-support\\SKILL.md"
+    },
+    {
+      "id": "customs-trade-compliance",
+      "name": "customs-trade-compliance",
+      "description": "Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\customs-trade-compliance\\SKILL.md"
+    },
+    {
+      "id": "daily",
+      "name": "daily",
+      "description": "Documentation and capabilities reference for Daily",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\daily\\SKILL.md"
+    },
+    {
+      "id": "daily-news-report",
+      "name": "daily-news-report",
+      "description": "\"Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\daily-news-report\\SKILL.md"
+    },
+    {
+      "id": "data-quality-frameworks",
+      "name": "data-quality-frameworks",
+      "description": "\"Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-quality-frameworks\\SKILL.md"
+    },
+    {
+      "id": "data-scientist",
+      "name": "data-scientist",
+      "description": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-scientist\\SKILL.md"
+    },
+    {
+      "id": "data-storytelling",
+      "name": "data-storytelling",
+      "description": "\"Transform raw data into compelling narratives that drive decisions and inspire action.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-storytelling\\SKILL.md"
+    },
+    {
+      "id": "database-architect",
+      "name": "database-architect",
+      "description": "Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-architect\\SKILL.md"
+    },
+    {
+      "id": "database-migrations-migration-observability",
+      "name": "database-migrations-migration-observability",
+      "description": "\"Migration monitoring, CDC, and observability infrastructure\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-migrations-migration-observability\\SKILL.md"
+    },
+    {
+      "id": "datadog-automation",
+      "name": "datadog-automation",
+      "description": "\"Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\datadog-automation\\SKILL.md"
+    },
+    {
+      "id": "dbos-golang",
+      "name": "dbos-golang",
+      "description": "\"Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows. Use when adding DBOS to existing Go code, creating workflows and steps, or using queues for concurrency control.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dbos-golang\\SKILL.md"
+    },
+    {
+      "id": "dbos-python",
+      "name": "dbos-python",
+      "description": "\"Guide for building reliable, fault-tolerant Python applications with DBOS durable workflows. Use when adding DBOS to existing Python code, creating workflows and steps, or using queues for concurrency control.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dbos-python\\SKILL.md"
+    }
+  ]
+}

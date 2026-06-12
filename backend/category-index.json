@@ -1,0 +1,15 @@
+{
+  "category": "backend",
+  "sub_categories": [
+    {
+      "sub_category": "general",
+      "count": 14,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend\\general\\skill-index.json"
+    },
+    {
+      "sub_category": "mcp",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend\\mcp\\skill-index.json"
+    }
+  ]
+}

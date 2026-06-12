@@ -1,0 +1,23 @@
+{
+  "sub_category": "ui",
+  "skills": [
+    {
+      "id": "ui-a11y",
+      "name": "ui-a11y",
+      "description": "\"Audit a StyleSeed-based component or page for WCAG 2.2 AA issues and apply practical accessibility fixes where the code makes them safe.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-a11y\\SKILL.md"
+    },
+    {
+      "id": "ui-page",
+      "name": "ui-page",
+      "description": "\"Scaffold a new mobile-first page using StyleSeed Toss layout patterns, section rhythm, and existing shell components.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-page\\SKILL.md"
+    },
+    {
+      "id": "ui-tokens",
+      "name": "ui-tokens",
+      "description": "\"List, add, and update StyleSeed design tokens while keeping JSON sources, CSS variables, and dark-mode values in sync.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-tokens\\SKILL.md"
+    }
+  ]
+}

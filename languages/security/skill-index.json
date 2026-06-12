@@ -1,0 +1,11 @@
+{
+  "sub_category": "security",
+  "skills": [
+    {
+      "id": "audit-skills",
+      "name": "audit-skills",
+      "description": "\"Expert security auditor for AI Skills and Bundles. Performs non-intrusive static analysis to identify malicious patterns, data leaks, system stability risks, and obfuscated payloads across Windows, macOS, Linux/Unix, and Mobile (Android/iOS).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\audit-skills\\SKILL.md"
+    }
+  ]
+}

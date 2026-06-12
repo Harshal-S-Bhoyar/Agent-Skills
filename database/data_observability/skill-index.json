@@ -1,0 +1,11 @@
+{
+  "sub_category": "data_observability",
+  "skills": [
+    {
+      "id": "monte-carlo-prevent",
+      "name": "monte-carlo-prevent",
+      "description": "\"Surfaces Monte Carlo data observability context (table health, alerts, lineage, blast radius) before SQL/dbt edits.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\monte-carlo-prevent\\SKILL.md"
+    }
+  ]
+}

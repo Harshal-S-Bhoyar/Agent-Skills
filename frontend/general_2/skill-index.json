@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_2",
+  "skills": [
+    {
+      "id": "hig-components-content",
+      "name": "hig-components-content",
+      "description": "Apple Human Interface Guidelines for content display components.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-content\\SKILL.md"
+    },
+    {
+      "id": "hig-components-dialogs",
+      "name": "hig-components-dialogs",
+      "description": "Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-dialogs\\SKILL.md"
+    },
+    {
+      "id": "hig-components-layout",
+      "name": "hig-components-layout",
+      "description": "Apple Human Interface Guidelines for layout and navigation components.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-layout\\SKILL.md"
+    },
+    {
+      "id": "hig-components-search",
+      "name": "hig-components-search",
+      "description": "Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-search\\SKILL.md"
+    },
+    {
+      "id": "hig-components-status",
+      "name": "hig-components-status",
+      "description": "Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-status\\SKILL.md"
+    },
+    {
+      "id": "hig-components-system",
+      "name": "hig-components-system",
+      "description": "'Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch faces, app clips, and app shortcuts.'",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-system\\SKILL.md"
+    },
+    {
+      "id": "karpathy-guidelines",
+      "name": "karpathy-guidelines",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\karpathy-guidelines\\SKILL.md"
+    },
+    {
+      "id": "magic-ui-generator",
+      "name": "magic-ui-generator",
+      "description": "Utilizes Magic by 21st.dev to generate, compare, and integrate multiple production-ready UI component variations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\magic-ui-generator\\SKILL.md"
+    },
+    {
+      "id": "n8n-validation-expert",
+      "name": "n8n-validation-expert",
+      "description": "\"Expert guide for interpreting and fixing n8n validation errors.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\n8n-validation-expert\\SKILL.md"
+    },
+    {
+      "id": "nextjs-app-router-patterns",
+      "name": "nextjs-app-router-patterns",
+      "description": "\"Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nextjs-app-router-patterns\\SKILL.md"
+    },
+    {
+      "id": "nextjs-best-practices",
+      "name": "nextjs-best-practices",
+      "description": "\"Next.js App Router principles. Server Components, data fetching, routing patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nextjs-best-practices\\SKILL.md"
+    },
+    {
+      "id": "notion-template-business",
+      "name": "notion-template-business",
+      "description": "Expert in building and selling Notion templates as a business - not",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\notion-template-business\\SKILL.md"
+    },
+    {
+      "id": "parallel-agents",
+      "name": "parallel-agents",
+      "description": "\"Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\parallel-agents\\SKILL.md"
+    },
+    {
+      "id": "radix-ui-design-system",
+      "name": "radix-ui-design-system",
+      "description": "\"Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\radix-ui-design-system\\SKILL.md"
+    },
+    {
+      "id": "rag-engineer",
+      "name": "rag-engineer",
+      "description": "Expert in building Retrieval-Augmented Generation systems. Masters",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rag-engineer\\SKILL.md"
+    },
+    {
+      "id": "rayden-code",
+      "name": "rayden-code",
+      "description": "Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rayden-code\\SKILL.md"
+    },
+    {
+      "id": "rayden-use",
+      "name": "rayden-use",
+      "description": "Build and maintain Rayden UI components and screens in Figma via Figma MCP with full design token enforcement",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rayden-use\\SKILL.md"
+    },
+    {
+      "id": "react-best-practices",
+      "name": "react-best-practices",
+      "description": "\"Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\react-best-practices\\SKILL.md"
+    },
+    {
+      "id": "react-component-performance",
+      "name": "react-component-performance",
+      "description": "Diagnose slow React components and suggest targeted performance fixes.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\react-component-performance\\SKILL.md"
+    },
+    {
+      "id": "react-flow-architect",
+      "name": "react-flow-architect",
+      "description": "\"Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\react-flow-architect\\SKILL.md"
+    },
+    {
+      "id": "react-nextjs-development",
+      "name": "react-nextjs-development",
+      "description": "\"React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\react-nextjs-development\\SKILL.md"
+    },
+    {
+      "id": "react-ui-patterns",
+      "name": "react-ui-patterns",
+      "description": "\"Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\react-ui-patterns\\SKILL.md"
+    },
+    {
+      "id": "senior-frontend",
+      "name": "senior-frontend",
+      "description": "Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding frontend projects, implementing accessibility, or reviewing frontend code quality.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\senior-frontend\\SKILL.md"
+    },
+    {
+      "id": "shadcn",
+      "name": "shadcn",
+      "description": "Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shadcn\\SKILL.md"
+    },
+    {
+      "id": "swiftui-view-refactor",
+      "name": "swiftui-view-refactor",
+      "description": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swiftui-view-refactor\\SKILL.md"
+    },
+    {
+      "id": "tailwind-design-system",
+      "name": "tailwind-design-system",
+      "description": "\"Build production-ready design systems with Tailwind CSS, including design tokens, component variants, responsive patterns, and accessibility.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tailwind-design-system\\SKILL.md"
+    },
+    {
+      "id": "tailwind-patterns",
+      "name": "tailwind-patterns",
+      "description": "\"Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tailwind-patterns\\SKILL.md"
+    },
+    {
+      "id": "tanstack-query-expert",
+      "name": "tanstack-query-expert",
+      "description": "\"Expert in TanStack Query (React Query) \u2014 asynchronous state management. Covers data fetching, stale time configuration, mutations, optimistic updates, and Next.js App Router (SSR) integration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tanstack-query-expert\\SKILL.md"
+    },
+    {
+      "id": "telegram-bot-builder",
+      "name": "telegram-bot-builder",
+      "description": "Expert in building Telegram bots that solve real problems - from",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\telegram-bot-builder\\SKILL.md"
+    },
+    {
+      "id": "telegram-mini-app",
+      "name": "telegram-mini-app",
+      "description": "Expert in building Telegram Mini Apps (TWA) - web apps that run",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\telegram-mini-app\\SKILL.md"
+    }
+  ]
+}

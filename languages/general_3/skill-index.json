@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_3",
+  "skills": [
+    {
+      "id": "app-store-changelog",
+      "name": "app-store-changelog",
+      "description": "Generate user-facing App Store release notes from git history since the last tag.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\app-store-changelog\\SKILL.md"
+    },
+    {
+      "id": "app-store-optimization",
+      "name": "app-store-optimization",
+      "description": "\"Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\app-store-optimization\\SKILL.md"
+    },
+    {
+      "id": "appdeploy",
+      "name": "appdeploy",
+      "description": "\"Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\appdeploy\\SKILL.md"
+    },
+    {
+      "id": "application-performance-performance-optimization",
+      "name": "application-performance-performance-optimization",
+      "description": "\"Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\application-performance-performance-optimization\\SKILL.md"
+    },
+    {
+      "id": "architect-review",
+      "name": "architect-review",
+      "description": "\"Master software architect specializing in modern architecture\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\architect-review\\SKILL.md"
+    },
+    {
+      "id": "architecture",
+      "name": "architecture",
+      "description": "\"Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\architecture\\SKILL.md"
+    },
+    {
+      "id": "architecture-decision-records",
+      "name": "architecture-decision-records",
+      "description": "\"Comprehensive patterns for creating, maintaining, and managing Architecture Decision Records (ADRs) that capture the context and rationale behind significant technical decisions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\architecture-decision-records\\SKILL.md"
+    },
+    {
+      "id": "architecture-patterns",
+      "name": "architecture-patterns",
+      "description": "\"Master proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design to build maintainable, testable, and scalable systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\architecture-patterns\\SKILL.md"
+    },
+    {
+      "id": "arm-cortex-expert",
+      "name": "arm-cortex-expert",
+      "description": "Senior embedded software engineer specializing in firmware and driver development for ARM Cortex-M microcontrollers (Teensy, STM32, nRF52, SAMD).",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\arm-cortex-expert\\SKILL.md"
+    },
+    {
+      "id": "asana-automation",
+      "name": "asana-automation",
+      "description": "\"Automate Asana tasks via Rube MCP (Composio): tasks, projects, sections, teams, workspaces. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\asana-automation\\SKILL.md"
+    },
+    {
+      "id": "ask-questions-if-underspecified",
+      "name": "ask-questions-if-underspecified",
+      "description": "Clarify requirements before implementing. Use when serious doubts arise.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ask-questions-if-underspecified\\SKILL.md"
+    },
+    {
+      "id": "astropy",
+      "name": "astropy",
+      "description": "\"Astropy is the core Python package for astronomy, providing essential functionality for astronomical research and data analysis.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\astropy\\SKILL.md"
+    },
+    {
+      "id": "async-python-patterns",
+      "name": "async-python-patterns",
+      "description": "\"Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\async-python-patterns\\SKILL.md"
+    },
+    {
+      "id": "attack-tree-construction",
+      "name": "attack-tree-construction",
+      "description": "\"Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\attack-tree-construction\\SKILL.md"
+    },
+    {
+      "id": "audio-transcriber",
+      "name": "audio-transcriber",
+      "description": "\"Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\audio-transcriber\\SKILL.md"
+    },
+    {
+      "id": "audit-context-building",
+      "name": "audit-context-building",
+      "description": "Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulnerability or bug finding.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\audit-context-building\\SKILL.md"
+    },
+    {
+      "id": "auri-core",
+      "name": "auri-core",
+      "description": "\"Auri: assistente de voz inteligente (Alexa + Claude claude-opus-4-20250805). Visao do produto, persona Vitoria Neural, stack AWS, modelo Free/Pro/Business/Enterprise, roadmap 4 fases, GTM, north star WAC e analise competitiva.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\auri-core\\SKILL.md"
+    },
+    {
+      "id": "auth-implementation-patterns",
+      "name": "auth-implementation-patterns",
+      "description": "\"Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\auth-implementation-patterns\\SKILL.md"
+    },
+    {
+      "id": "autonomous-agents",
+      "name": "autonomous-agents",
+      "description": "Autonomous agents are AI systems that can independently decompose",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\autonomous-agents\\SKILL.md"
+    },
+    {
+      "id": "avalonia-zafiro-development",
+      "name": "avalonia-zafiro-development",
+      "description": "\"Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\avalonia-zafiro-development\\SKILL.md"
+    },
+    {
+      "id": "avoid-ai-writing",
+      "name": "avoid-ai-writing",
+      "description": "\"Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\avoid-ai-writing\\SKILL.md"
+    },
+    {
+      "id": "awareness-stage-mapper",
+      "name": "awareness-stage-mapper",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\awareness-stage-mapper\\SKILL.md"
+    },
+    {
+      "id": "aws-cost-cleanup",
+      "name": "aws-cost-cleanup",
+      "description": "\"Automated cleanup of unused AWS resources to reduce costs\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aws-cost-cleanup\\SKILL.md"
+    },
+    {
+      "id": "aws-cost-optimizer",
+      "name": "aws-cost-optimizer",
+      "description": "\"Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aws-cost-optimizer\\SKILL.md"
+    },
+    {
+      "id": "axiom",
+      "name": "axiom",
+      "description": "\"First-principles assumption auditor. Classifies each hidden assumption (fact / convention / belief / interest-driven), ranks by fragility \u00d7 impact, and rebuilds conclusions from verified premises. Bilingual: auto-detects Chinese or English.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\axiom\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-agents-persistent-java",
+      "name": "azure-ai-agents-persistent-java",
+      "description": "Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-agents-persistent-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-anomalydetector-java",
+      "name": "azure-ai-anomalydetector-java",
+      "description": "\"Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-anomalydetector-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-contentsafety-java",
+      "name": "azure-ai-contentsafety-java",
+      "description": "\"Build content moderation applications using the Azure AI Content Safety SDK for Java.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-contentsafety-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-contentsafety-py",
+      "name": "azure-ai-contentsafety-py",
+      "description": "Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-contentsafety-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-contentsafety-ts",
+      "name": "azure-ai-contentsafety-ts",
+      "description": "\"Analyze text and images for harmful content with customizable blocklists.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-contentsafety-ts\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "category": "utilities",
+  "sub_categories": [
+    {
+      "sub_category": "general_1",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\utilities\\general_1\\skill-index.json"
+    },
+    {
+      "sub_category": "general_2",
+      "count": 10,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\utilities\\general_2\\skill-index.json"
+    },
+    {
+      "sub_category": "github",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\utilities\\github\\skill-index.json"
+    }
+  ]
+}

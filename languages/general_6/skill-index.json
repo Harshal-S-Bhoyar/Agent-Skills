@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_6",
+  "skills": [
+    {
+      "id": "azure-mgmt-fabric-py",
+      "name": "azure-mgmt-fabric-py",
+      "description": "Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-fabric-py\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-mongodbatlas-dotnet",
+      "name": "azure-mgmt-mongodbatlas-dotnet",
+      "description": "\"Manage MongoDB Atlas Organizations as Azure ARM resources with unified billing through Azure Marketplace.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-mongodbatlas-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-weightsandbiases-dotnet",
+      "name": "azure-mgmt-weightsandbiases-dotnet",
+      "description": "Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-weightsandbiases-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-ingestion-java",
+      "name": "azure-monitor-ingestion-java",
+      "description": "Azure Monitor Ingestion SDK for Java. Send custom logs to Azure Monitor via Data Collection Rules (DCR) and Data Collection Endpoints (DCE).",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-ingestion-java\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-ingestion-py",
+      "name": "azure-monitor-ingestion-py",
+      "description": "Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-ingestion-py\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-opentelemetry-exporter-java",
+      "name": "azure-monitor-opentelemetry-exporter-java",
+      "description": "Azure Monitor OpenTelemetry Exporter for Java. Export OpenTelemetry traces, metrics, and logs to Azure Monitor/Application Insights.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-opentelemetry-exporter-java\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-opentelemetry-exporter-py",
+      "name": "azure-monitor-opentelemetry-exporter-py",
+      "description": "Azure Monitor OpenTelemetry Exporter for Python. Use for low-level OpenTelemetry export to Application Insights.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-opentelemetry-exporter-py\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-opentelemetry-py",
+      "name": "azure-monitor-opentelemetry-py",
+      "description": "Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-opentelemetry-py\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-query-java",
+      "name": "azure-monitor-query-java",
+      "description": "Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-query-java\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-query-py",
+      "name": "azure-monitor-query-py",
+      "description": "Azure Monitor Query SDK for Python. Use for querying Log Analytics workspaces and Azure Monitor metrics.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-query-py\\SKILL.md"
+    },
+    {
+      "id": "azure-postgres-ts",
+      "name": "azure-postgres-ts",
+      "description": "Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-postgres-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-cosmosdb-dotnet",
+      "name": "azure-resource-manager-cosmosdb-dotnet",
+      "description": "Azure Resource Manager SDK for Cosmos DB in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-cosmosdb-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-durabletask-dotnet",
+      "name": "azure-resource-manager-durabletask-dotnet",
+      "description": "Azure Resource Manager SDK for Durable Task Scheduler in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-durabletask-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-redis-dotnet",
+      "name": "azure-resource-manager-redis-dotnet",
+      "description": "Azure Resource Manager SDK for Redis in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-redis-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-sql-dotnet",
+      "name": "azure-resource-manager-sql-dotnet",
+      "description": "Azure Resource Manager SDK for Azure SQL in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-sql-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-search-documents-dotnet",
+      "name": "azure-search-documents-dotnet",
+      "description": "Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-search-documents-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-search-documents-py",
+      "name": "azure-search-documents-py",
+      "description": "Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-search-documents-py\\SKILL.md"
+    },
+    {
+      "id": "azure-search-documents-ts",
+      "name": "azure-search-documents-ts",
+      "description": "\"Build search applications with vector, hybrid, and semantic search capabilities.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-search-documents-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-security-keyvault-keys-dotnet",
+      "name": "azure-security-keyvault-keys-dotnet",
+      "description": "Azure Key Vault Keys SDK for .NET. Client library for managing cryptographic keys in Azure Key Vault and Managed HSM. Use for key creation, rotation, encryption, decryption, signing, and verification.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-security-keyvault-keys-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-security-keyvault-keys-java",
+      "name": "azure-security-keyvault-keys-java",
+      "description": "\"Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify operations, or working with HSM-backed keys.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-security-keyvault-keys-java\\SKILL.md"
+    },
+    {
+      "id": "azure-security-keyvault-secrets-java",
+      "name": "azure-security-keyvault-secrets-java",
+      "description": "\"Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-security-keyvault-secrets-java\\SKILL.md"
+    },
+    {
+      "id": "azure-servicebus-dotnet",
+      "name": "azure-servicebus-dotnet",
+      "description": "Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-servicebus-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-servicebus-py",
+      "name": "azure-servicebus-py",
+      "description": "Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-servicebus-py\\SKILL.md"
+    },
+    {
+      "id": "azure-servicebus-ts",
+      "name": "azure-servicebus-ts",
+      "description": "\"Enterprise messaging with queues, topics, and subscriptions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-servicebus-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-speech-to-text-rest-py",
+      "name": "azure-speech-to-text-rest-py",
+      "description": "Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-speech-to-text-rest-py\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-blob-java",
+      "name": "azure-storage-blob-java",
+      "description": "\"Build blob storage applications using the Azure Storage Blob SDK for Java.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-blob-java\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-blob-py",
+      "name": "azure-storage-blob-py",
+      "description": "Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-blob-py\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-blob-rust",
+      "name": "azure-storage-blob-rust",
+      "description": "Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-blob-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-blob-ts",
+      "name": "azure-storage-blob-ts",
+      "description": "Azure Blob Storage JavaScript/TypeScript SDK (@azure/storage-blob) for blob operations. Use for uploading, downloading, listing, and managing blobs and containers.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-blob-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-storage-file-datalake-py",
+      "name": "azure-storage-file-datalake-py",
+      "description": "Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-storage-file-datalake-py\\SKILL.md"
+    }
+  ]
+}

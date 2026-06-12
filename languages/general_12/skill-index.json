@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_12",
+  "skills": [
+    {
+      "id": "dbos-typescript",
+      "name": "dbos-typescript",
+      "description": "\"Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dbos-typescript\\SKILL.md"
+    },
+    {
+      "id": "ddd-context-mapping",
+      "name": "ddd-context-mapping",
+      "description": "\"Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ddd-context-mapping\\SKILL.md"
+    },
+    {
+      "id": "ddd-tactical-patterns",
+      "name": "ddd-tactical-patterns",
+      "description": "\"Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ddd-tactical-patterns\\SKILL.md"
+    },
+    {
+      "id": "debug-buttercup",
+      "name": "debug-buttercup",
+      "description": "\"All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unresponsive or showing AOF warnings.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\debug-buttercup\\SKILL.md"
+    },
+    {
+      "id": "debugging-strategies",
+      "name": "debugging-strategies",
+      "description": "\"Transform debugging from frustrating guesswork into systematic problem-solving with proven strategies, powerful tools, and methodical approaches.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\debugging-strategies\\SKILL.md"
+    },
+    {
+      "id": "deep-research",
+      "name": "deep-research",
+      "description": "\"Run autonomous research tasks that plan, search, read, and synthesize information into comprehensive reports.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\deep-research\\SKILL.md"
+    },
+    {
+      "id": "defi-protocol-templates",
+      "name": "defi-protocol-templates",
+      "description": "\"Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\defi-protocol-templates\\SKILL.md"
+    },
+    {
+      "id": "defuddle",
+      "name": "defuddle",
+      "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\defuddle\\SKILL.md"
+    },
+    {
+      "id": "dependency-management-deps-audit",
+      "name": "dependency-management-deps-audit",
+      "description": "\"You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dependency-management-deps-audit\\SKILL.md"
+    },
+    {
+      "id": "dependency-upgrade",
+      "name": "dependency-upgrade",
+      "description": "\"Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dependency-upgrade\\SKILL.md"
+    },
+    {
+      "id": "design-md",
+      "name": "design-md",
+      "description": "\"Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\design-md\\SKILL.md"
+    },
+    {
+      "id": "design-orchestration",
+      "name": "design-orchestration",
+      "description": "Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\design-orchestration\\SKILL.md"
+    },
+    {
+      "id": "design-spells",
+      "name": "design-spells",
+      "description": "Curated micro-interactions and design details that add \"magic\" and personality to websites and apps.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\design-spells\\SKILL.md"
+    },
+    {
+      "id": "devcontainer-setup",
+      "name": "devcontainer-setup",
+      "description": "Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\devcontainer-setup\\SKILL.md"
+    },
+    {
+      "id": "development",
+      "name": "development",
+      "description": "\"Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\development\\SKILL.md"
+    },
+    {
+      "id": "devops-troubleshooter",
+      "name": "devops-troubleshooter",
+      "description": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\devops-troubleshooter\\SKILL.md"
+    },
+    {
+      "id": "diary",
+      "name": "diary",
+      "description": "\"Unified Diary System: A context-preserving automated logger for multi-project development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\diary\\SKILL.md"
+    },
+    {
+      "id": "differential-review",
+      "name": "differential-review",
+      "description": "\"Security-focused code review for PRs, commits, and diffs.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\differential-review\\SKILL.md"
+    },
+    {
+      "id": "discord-automation",
+      "name": "discord-automation",
+      "description": "\"Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\discord-automation\\SKILL.md"
+    },
+    {
+      "id": "discord-bot-architect",
+      "name": "discord-bot-architect",
+      "description": "Specialized skill for building production-ready Discord bots.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\discord-bot-architect\\SKILL.md"
+    },
+    {
+      "id": "dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "description": "\"Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dispatching-parallel-agents\\SKILL.md"
+    },
+    {
+      "id": "distributed-debugging-debug-trace",
+      "name": "distributed-debugging-debug-trace",
+      "description": "\"You are a debugging expert specializing in setting up comprehensive debugging environments, distributed tracing, and diagnostic tools. Configure debugging workflows, implement tracing solutions, and establish troubleshooting practices for development and production environments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\distributed-debugging-debug-trace\\SKILL.md"
+    },
+    {
+      "id": "distributed-tracing",
+      "name": "distributed-tracing",
+      "description": "\"Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\distributed-tracing\\SKILL.md"
+    },
+    {
+      "id": "django-access-review",
+      "name": "django-access-review",
+      "description": "django-access-review",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\django-access-review\\SKILL.md"
+    },
+    {
+      "id": "django-perf-review",
+      "name": "django-perf-review",
+      "description": "Django performance code review. Use when asked to \"review Django performance\", \"find N+1 queries\", \"optimize Django\", \"check queryset performance\", \"database performance\", \"Django ORM issues\", or audit Django code for performance problems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\django-perf-review\\SKILL.md"
+    },
+    {
+      "id": "django-pro",
+      "name": "django-pro",
+      "description": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\django-pro\\SKILL.md"
+    },
+    {
+      "id": "doc-coauthoring",
+      "name": "doc-coauthoring",
+      "description": "\"This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active guide, walking users through three stages: Context Gathering, Refinement & Structure, and Reader Testing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\doc-coauthoring\\SKILL.md"
+    },
+    {
+      "id": "docs-architect",
+      "name": "docs-architect",
+      "description": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\docs-architect\\SKILL.md"
+    },
+    {
+      "id": "documentation",
+      "name": "documentation",
+      "description": "\"Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\documentation\\SKILL.md"
+    },
+    {
+      "id": "documentation-generation-doc-generate",
+      "name": "documentation-generation-doc-generate",
+      "description": "\"You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\documentation-generation-doc-generate\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_15",
+  "skills": [
+    {
+      "id": "firebase",
+      "name": "firebase",
+      "description": "Firebase gives you a complete backend in minutes - auth, database,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\firebase\\SKILL.md"
+    },
+    {
+      "id": "firecrawl-scraper",
+      "name": "firecrawl-scraper",
+      "description": "\"Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API. Use when you need deep content extraction from web pages, page interaction is required (clicking, scrolling, etc.), or you want screenshots or PDF parsing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\firecrawl-scraper\\SKILL.md"
+    },
+    {
+      "id": "firmware-analyst",
+      "name": "firmware-analyst",
+      "description": "Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\firmware-analyst\\SKILL.md"
+    },
+    {
+      "id": "fix-review",
+      "name": "fix-review",
+      "description": "\"Verify fix commits address audit findings without new bugs\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fix-review\\SKILL.md"
+    },
+    {
+      "id": "fixing-accessibility",
+      "name": "fixing-accessibility",
+      "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fixing-accessibility\\SKILL.md"
+    },
+    {
+      "id": "fixing-metadata",
+      "name": "fixing-metadata",
+      "description": "\"Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding or reviewing SEO and social metadata.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fixing-metadata\\SKILL.md"
+    },
+    {
+      "id": "fixing-motion-performance",
+      "name": "fixing-motion-performance",
+      "description": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fixing-motion-performance\\SKILL.md"
+    },
+    {
+      "id": "flutter-expert",
+      "name": "flutter-expert",
+      "description": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\flutter-expert\\SKILL.md"
+    },
+    {
+      "id": "form-cro",
+      "name": "form-cro",
+      "description": "Optimize any form that is NOT signup or account registration \u2014 including lead capture, contact, demo request, application, survey, quote, and checkout forms.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\form-cro\\SKILL.md"
+    },
+    {
+      "id": "fp-async",
+      "name": "fp-async",
+      "description": "Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-async\\SKILL.md"
+    },
+    {
+      "id": "fp-backend",
+      "name": "fp-backend",
+      "description": "Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-backend\\SKILL.md"
+    },
+    {
+      "id": "fp-data-transforms",
+      "name": "fp-data-transforms",
+      "description": "Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-data-transforms\\SKILL.md"
+    },
+    {
+      "id": "fp-errors",
+      "name": "fp-errors",
+      "description": "Stop throwing everywhere - handle errors as values using Either and TaskEither for cleaner, more predictable code",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-errors\\SKILL.md"
+    },
+    {
+      "id": "fp-pragmatic",
+      "name": "fp-pragmatic",
+      "description": "A practical, jargon-free guide to functional programming - the 80/20 approach that gets results without the academic overhead",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-pragmatic\\SKILL.md"
+    },
+    {
+      "id": "fp-refactor",
+      "name": "fp-refactor",
+      "description": "Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-refactor\\SKILL.md"
+    },
+    {
+      "id": "fp-ts-errors",
+      "name": "fp-ts-errors",
+      "description": "\"Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code. Use when implementing error handling patterns with fp-ts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-ts-errors\\SKILL.md"
+    },
+    {
+      "id": "fp-ts-pragmatic",
+      "name": "fp-ts-pragmatic",
+      "description": "\"A practical, jargon-free guide to fp-ts functional programming - the 80/20 approach that gets results without the academic overhead. Use when writing TypeScript with fp-ts library.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fp-ts-pragmatic\\SKILL.md"
+    },
+    {
+      "id": "framework-migration-legacy-modernize",
+      "name": "framework-migration-legacy-modernize",
+      "description": "\"Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\framework-migration-legacy-modernize\\SKILL.md"
+    },
+    {
+      "id": "free-tool-strategy",
+      "name": "free-tool-strategy",
+      "description": "\"You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\free-tool-strategy\\SKILL.md"
+    },
+    {
+      "id": "freshdesk-automation",
+      "name": "freshdesk-automation",
+      "description": "\"Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\freshdesk-automation\\SKILL.md"
+    },
+    {
+      "id": "freshservice-automation",
+      "name": "freshservice-automation",
+      "description": "\"Automate Freshservice ITSM tasks via Rube MCP (Composio): create/update tickets, bulk operations, service requests, and outbound emails. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\freshservice-automation\\SKILL.md"
+    },
+    {
+      "id": "frontend-mobile-development-component-scaffold",
+      "name": "frontend-mobile-development-component-scaffold",
+      "description": "\"You are a React component architecture expert specializing in scaffolding production-ready, accessible, and performant components. Generate complete component implementations with TypeScript, tests, s\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-mobile-development-component-scaffold\\SKILL.md"
+    },
+    {
+      "id": "frontend-security-coder",
+      "name": "frontend-security-coder",
+      "description": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-security-coder\\SKILL.md"
+    },
+    {
+      "id": "frontend-slides",
+      "name": "frontend-slides",
+      "description": "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-slides\\SKILL.md"
+    },
+    {
+      "id": "full-stack-orchestration-full-stack-feature",
+      "name": "full-stack-orchestration-full-stack-feature",
+      "description": "\"Use when working with full stack orchestration full stack feature\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\full-stack-orchestration-full-stack-feature\\SKILL.md"
+    },
+    {
+      "id": "game-development",
+      "name": "game-development",
+      "description": "\"Game development orchestrator. Routes to platform-specific skills based on project needs.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\game-development\\SKILL.md"
+    },
+    {
+      "id": "gdb-cli",
+      "name": "gdb-cli",
+      "description": "\"GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gdb-cli\\SKILL.md"
+    },
+    {
+      "id": "gdpr-data-handling",
+      "name": "gdpr-data-handling",
+      "description": "\"Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gdpr-data-handling\\SKILL.md"
+    },
+    {
+      "id": "gemini-api-dev",
+      "name": "gemini-api-dev",
+      "description": "\"The Gemini API provides access to Google's most advanced AI models. Key capabilities include:\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gemini-api-dev\\SKILL.md"
+    },
+    {
+      "id": "gemini-api-integration",
+      "name": "gemini-api-integration",
+      "description": "\"Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gemini-api-integration\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_4",
+  "skills": [
+    {
+      "id": "azure-ai-contentunderstanding-py",
+      "name": "azure-ai-contentunderstanding-py",
+      "description": "Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-contentunderstanding-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-formrecognizer-java",
+      "name": "azure-ai-formrecognizer-java",
+      "description": "\"Build document analysis applications using the Azure AI Document Intelligence SDK for Java.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-formrecognizer-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-ml-py",
+      "name": "azure-ai-ml-py",
+      "description": "Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-ml-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-projects-java",
+      "name": "azure-ai-projects-java",
+      "description": "Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-projects-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-projects-py",
+      "name": "azure-ai-projects-py",
+      "description": "\"Build AI applications on Microsoft Foundry using the azure-ai-projects SDK.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-projects-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-textanalytics-py",
+      "name": "azure-ai-textanalytics-py",
+      "description": "Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-textanalytics-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-transcription-py",
+      "name": "azure-ai-transcription-py",
+      "description": "Azure AI Transcription SDK for Python. Use for real-time and batch speech-to-text transcription with timestamps and diarization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-transcription-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-translation-document-py",
+      "name": "azure-ai-translation-document-py",
+      "description": "Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other document formats at scale.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-translation-document-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-translation-text-py",
+      "name": "azure-ai-translation-text-py",
+      "description": "Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-translation-text-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-translation-ts",
+      "name": "azure-ai-translation-ts",
+      "description": "\"Text and document translation with REST-style clients.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-translation-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-vision-imageanalysis-java",
+      "name": "azure-ai-vision-imageanalysis-java",
+      "description": "\"Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-vision-imageanalysis-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-vision-imageanalysis-py",
+      "name": "azure-ai-vision-imageanalysis-py",
+      "description": "Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-vision-imageanalysis-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-voicelive-dotnet",
+      "name": "azure-ai-voicelive-dotnet",
+      "description": "Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-voicelive-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-voicelive-java",
+      "name": "azure-ai-voicelive-java",
+      "description": "Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-voicelive-java\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-voicelive-py",
+      "name": "azure-ai-voicelive-py",
+      "description": "\"Build real-time voice AI applications with bidirectional WebSocket communication.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-voicelive-py\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-voicelive-ts",
+      "name": "azure-ai-voicelive-ts",
+      "description": "Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-voicelive-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-appconfiguration-java",
+      "name": "azure-appconfiguration-java",
+      "description": "Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-appconfiguration-java\\SKILL.md"
+    },
+    {
+      "id": "azure-appconfiguration-py",
+      "name": "azure-appconfiguration-py",
+      "description": "Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-appconfiguration-py\\SKILL.md"
+    },
+    {
+      "id": "azure-appconfiguration-ts",
+      "name": "azure-appconfiguration-ts",
+      "description": "\"Centralized configuration management with feature flags and dynamic refresh.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-appconfiguration-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-communication-callautomation-java",
+      "name": "azure-communication-callautomation-java",
+      "description": "\"Build server-side call automation workflows including IVR systems, call routing, recording, and AI-powered interactions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-communication-callautomation-java\\SKILL.md"
+    },
+    {
+      "id": "azure-communication-callingserver-java",
+      "name": "azure-communication-callingserver-java",
+      "description": "\"\u26a0\ufe0f DEPRECATED: This SDK has been renamed to Call Automation. For new projects, use azure-communication-callautomation instead. This skill is for maintaining legacy code only.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-communication-callingserver-java\\SKILL.md"
+    },
+    {
+      "id": "azure-communication-chat-java",
+      "name": "azure-communication-chat-java",
+      "description": "\"Build real-time chat applications with thread management, messaging, participants, and read receipts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-communication-chat-java\\SKILL.md"
+    },
+    {
+      "id": "azure-communication-common-java",
+      "name": "azure-communication-common-java",
+      "description": "\"Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-communication-common-java\\SKILL.md"
+    },
+    {
+      "id": "azure-communication-sms-java",
+      "name": "azure-communication-sms-java",
+      "description": "\"Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-communication-sms-java\\SKILL.md"
+    },
+    {
+      "id": "azure-compute-batch-java",
+      "name": "azure-compute-batch-java",
+      "description": "Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-compute-batch-java\\SKILL.md"
+    },
+    {
+      "id": "azure-containerregistry-py",
+      "name": "azure-containerregistry-py",
+      "description": "Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-containerregistry-py\\SKILL.md"
+    },
+    {
+      "id": "azure-cosmos-java",
+      "name": "azure-cosmos-java",
+      "description": "Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-cosmos-java\\SKILL.md"
+    },
+    {
+      "id": "azure-cosmos-py",
+      "name": "azure-cosmos-py",
+      "description": "Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-cosmos-py\\SKILL.md"
+    },
+    {
+      "id": "azure-cosmos-rust",
+      "name": "azure-cosmos-rust",
+      "description": "Azure Cosmos DB SDK for Rust (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-cosmos-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-cosmos-ts",
+      "name": "azure-cosmos-ts",
+      "description": "Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations. Use for CRUD operations on documents, queries, bulk operations, and container management.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-cosmos-ts\\SKILL.md"
+    }
+  ]
+}

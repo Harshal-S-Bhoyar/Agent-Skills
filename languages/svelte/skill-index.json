@@ -1,0 +1,11 @@
+{
+  "sub_category": "svelte",
+  "skills": [
+    {
+      "id": "sveltekit",
+      "name": "sveltekit",
+      "description": "\"Build full-stack web applications with SvelteKit \u2014 file-based routing, SSR, SSG, API routes, and form actions in one framework.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sveltekit\\SKILL.md"
+    }
+  ]
+}

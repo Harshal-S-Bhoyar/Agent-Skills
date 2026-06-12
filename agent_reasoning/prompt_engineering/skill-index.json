@@ -1,0 +1,11 @@
+{
+  "sub_category": "prompt_engineering",
+  "skills": [
+    {
+      "id": "ai-engineering-toolkit",
+      "name": "ai-engineering-toolkit",
+      "description": "\"6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-engineering-toolkit\\SKILL.md"
+    }
+  ]
+}

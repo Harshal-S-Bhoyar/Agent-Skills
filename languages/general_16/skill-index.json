@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_16",
+  "skills": [
+    {
+      "id": "geo-fundamentals",
+      "name": "geo-fundamentals",
+      "description": "\"Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\geo-fundamentals\\SKILL.md"
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "geoffrey-hinton",
+      "description": "\"Agente que simula Geoffrey Hinton \u2014 Godfather of Deep Learning, Pr\u00eamio Turing 2018, criador do backpropagation e das Deep Belief Networks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\geoffrey-hinton\\SKILL.md"
+    },
+    {
+      "id": "gh-review-requests",
+      "name": "gh-review-requests",
+      "description": "Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to \"find PRs I need to review\", \"show my review requests\", \"what needs my review\", \"fetch GitHub review requests\", or \"check team review queue\".",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gh-review-requests\\SKILL.md"
+    },
+    {
+      "id": "gha-security-review",
+      "name": "gha-security-review",
+      "description": "\"Find exploitable vulnerabilities in GitHub Actions workflows. Every finding MUST include a concrete exploitation scenario \u2014 if you can't build the attack, don't report it.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gha-security-review\\SKILL.md"
+    },
+    {
+      "id": "git-advanced-workflows",
+      "name": "git-advanced-workflows",
+      "description": "\"Master advanced Git techniques to maintain clean history, collaborate effectively, and recover from any situation with confidence.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\git-advanced-workflows\\SKILL.md"
+    },
+    {
+      "id": "git-hooks-automation",
+      "name": "git-hooks-automation",
+      "description": "\"Master Git hooks setup with Husky, lint-staged, pre-commit framework, and commitlint. Automate code quality gates, formatting, linting, and commit message enforcement before code reaches CI.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\git-hooks-automation\\SKILL.md"
+    },
+    {
+      "id": "git-pr-workflows-onboard",
+      "name": "git-pr-workflows-onboard",
+      "description": "\"You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\git-pr-workflows-onboard\\SKILL.md"
+    },
+    {
+      "id": "git-pushing",
+      "name": "git-pushing",
+      "description": "\"Stage all changes, create a conventional commit, and push to the remote branch. Use when explicitly asks to push changes (\\\"push this\\\", \\\"commit and push\\\"), mentions saving work to remote (\\\"save to github\\\", \\\"push to remote\\\"), or completes a feature and wants to share it.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\git-pushing\\SKILL.md"
+    },
+    {
+      "id": "github-actions-templates",
+      "name": "github-actions-templates",
+      "description": "\"Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\github-actions-templates\\SKILL.md"
+    },
+    {
+      "id": "github-issue-creator",
+      "name": "github-issue-creator",
+      "description": "\"Turn error logs, screenshots, voice notes, and rough bug reports into crisp, developer-ready GitHub issues with repro steps, impact, and evidence.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\github-issue-creator\\SKILL.md"
+    },
+    {
+      "id": "github-workflow-automation",
+      "name": "github-workflow-automation",
+      "description": "\"Patterns for automating GitHub workflows with AI assistance, inspired by [Gemini CLI](https://github.com/google-gemini/gemini-cli) and modern DevOps practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\github-workflow-automation\\SKILL.md"
+    },
+    {
+      "id": "gitops-workflow",
+      "name": "gitops-workflow",
+      "description": "\"Complete guide to implementing GitOps workflows with ArgoCD and Flux for automated Kubernetes deployments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gitops-workflow\\SKILL.md"
+    },
+    {
+      "id": "go-concurrency-patterns",
+      "name": "go-concurrency-patterns",
+      "description": "\"Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\go-concurrency-patterns\\SKILL.md"
+    },
+    {
+      "id": "go-playwright",
+      "name": "go-playwright",
+      "description": "\"Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\go-playwright\\SKILL.md"
+    },
+    {
+      "id": "go-rod-master",
+      "name": "go-rod-master",
+      "description": "\"Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\go-rod-master\\SKILL.md"
+    },
+    {
+      "id": "goal-analyzer",
+      "name": "goal-analyzer",
+      "description": "\u5206\u6790\u5065\u5eb7\u76ee\u6807\u6570\u636e\u3001\u8bc6\u522b\u76ee\u6807\u6a21\u5f0f\u3001\u8bc4\u4f30\u76ee\u6807\u8fdb\u5ea6,\u5e76\u63d0\u4f9b\u4e2a\u6027\u5316\u76ee\u6807\u7ba1\u7406\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u8425\u517b\u3001\u8fd0\u52a8\u3001\u7761\u7720\u7b49\u5065\u5eb7\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\goal-analyzer\\SKILL.md"
+    },
+    {
+      "id": "godot-4-migration",
+      "name": "godot-4-migration",
+      "description": "\"Specialized guide for migrating Godot 3.x projects to Godot 4 (GDScript 2.0), covering syntax changes, Tweens, and exports.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\godot-4-migration\\SKILL.md"
+    },
+    {
+      "id": "godot-gdscript-patterns",
+      "name": "godot-gdscript-patterns",
+      "description": "\"Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\godot-gdscript-patterns\\SKILL.md"
+    },
+    {
+      "id": "golang-pro",
+      "name": "golang-pro",
+      "description": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\golang-pro\\SKILL.md"
+    },
+    {
+      "id": "google-analytics-automation",
+      "name": "google-analytics-automation",
+      "description": "\"Automate Google Analytics tasks via Rube MCP (Composio): run reports, list accounts/properties, funnels, pivots, key events. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-analytics-automation\\SKILL.md"
+    },
+    {
+      "id": "google-calendar-automation",
+      "name": "google-calendar-automation",
+      "description": "\"Lightweight Google Calendar integration with standalone OAuth authentication. No MCP server required.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-calendar-automation\\SKILL.md"
+    },
+    {
+      "id": "google-docs-automation",
+      "name": "google-docs-automation",
+      "description": "\"Lightweight Google Docs integration with standalone OAuth authentication. No MCP server required.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-docs-automation\\SKILL.md"
+    },
+    {
+      "id": "google-drive-automation",
+      "name": "google-drive-automation",
+      "description": "\"Lightweight Google Drive integration with standalone OAuth authentication. No MCP server required. Full read/write access.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-drive-automation\\SKILL.md"
+    },
+    {
+      "id": "google-sheets-automation",
+      "name": "google-sheets-automation",
+      "description": "\"Lightweight Google Sheets integration with standalone OAuth authentication. No MCP server required. Full read/write access.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-sheets-automation\\SKILL.md"
+    },
+    {
+      "id": "google-slides-automation",
+      "name": "google-slides-automation",
+      "description": "\"Lightweight Google Slides integration with standalone OAuth authentication. No MCP server required. Full read/write access.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\google-slides-automation\\SKILL.md"
+    },
+    {
+      "id": "googlesheets-automation",
+      "name": "googlesheets-automation",
+      "description": "\"Automate Google Sheets operations (read, write, format, filter, manage spreadsheets) via Rube MCP (Composio). Read/write data, manage tabs, apply formatting, and search rows programmatically.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\googlesheets-automation\\SKILL.md"
+    },
+    {
+      "id": "grafana-dashboards",
+      "name": "grafana-dashboards",
+      "description": "\"Create and manage production-ready Grafana dashboards for comprehensive system observability.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\grafana-dashboards\\SKILL.md"
+    },
+    {
+      "id": "graphql",
+      "name": "graphql",
+      "description": "GraphQL gives clients exactly the data they need - no more, no",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\graphql\\SKILL.md"
+    },
+    {
+      "id": "graphql-architect",
+      "name": "graphql-architect",
+      "description": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\graphql-architect\\SKILL.md"
+    },
+    {
+      "id": "growth-engine",
+      "name": "growth-engine",
+      "description": "\"Motor de crescimento para produtos digitais -- growth hacking, SEO, ASO, viral loops, email marketing, CRM, referral programs e aquisicao organica.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\growth-engine\\SKILL.md"
+    }
+  ]
+}

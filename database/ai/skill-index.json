@@ -1,0 +1,11 @@
+{
+  "sub_category": "ai",
+  "skills": [
+    {
+      "id": "bdistill-behavioral-xray",
+      "name": "bdistill-behavioral-xray",
+      "description": "\"X-ray any AI model's behavioral patterns \u2014 refusal boundaries, hallucination tendencies, reasoning style, formatting defaults. No API key needed.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bdistill-behavioral-xray\\SKILL.md"
+    }
+  ]
+}

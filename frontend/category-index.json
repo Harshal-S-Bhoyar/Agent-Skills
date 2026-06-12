@@ -1,0 +1,45 @@
+{
+  "category": "frontend",
+  "sub_categories": [
+    {
+      "sub_category": "general_1",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\general_1\\skill-index.json"
+    },
+    {
+      "sub_category": "general_2",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\general_2\\skill-index.json"
+    },
+    {
+      "sub_category": "general_3",
+      "count": 2,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\general_3\\skill-index.json"
+    },
+    {
+      "sub_category": "astro",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\astro\\skill-index.json"
+    },
+    {
+      "sub_category": "frontend",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\frontend\\skill-index.json"
+    },
+    {
+      "sub_category": "_nextjs_",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\_nextjs_\\skill-index.json"
+    },
+    {
+      "sub_category": "typescript",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\typescript\\skill-index.json"
+    },
+    {
+      "sub_category": "ui",
+      "count": 3,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\ui\\skill-index.json"
+    }
+  ]
+}

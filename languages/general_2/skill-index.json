@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_2",
+  "skills": [
+    {
+      "id": "algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "\"Algorithmic philosophies are computational aesthetic movements that are then expressed through code. Output .md files (philosophy), .html files (interactive viewer), and .js files (generative algorithms).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\algorithmic-art\\SKILL.md"
+    },
+    {
+      "id": "alpha-vantage",
+      "name": "alpha-vantage",
+      "description": "\"Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\alpha-vantage\\SKILL.md"
+    },
+    {
+      "id": "amazon-alexa",
+      "name": "amazon-alexa",
+      "description": "\"Integracao completa com Amazon Alexa para criar skills de voz inteligentes, transformar Alexa em assistente com Claude como cerebro (projeto Auri) e integrar com AWS ecosystem (Lambda, DynamoDB, Polly, Transcribe, Lex, Smart Home).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\amazon-alexa\\SKILL.md"
+    },
+    {
+      "id": "amplitude-automation",
+      "name": "amplitude-automation",
+      "description": "\"Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts, user identification. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\amplitude-automation\\SKILL.md"
+    },
+    {
+      "id": "analytics-product",
+      "name": "analytics-product",
+      "description": "\"Analytics de produto \u2014 PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\analytics-product\\SKILL.md"
+    },
+    {
+      "id": "analytics-tracking",
+      "name": "analytics-tracking",
+      "description": "Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\analytics-tracking\\SKILL.md"
+    },
+    {
+      "id": "andrej-karpathy",
+      "name": "andrej-karpathy",
+      "description": "\"Agente que simula Andrej Karpathy \u2014 ex-Director of AI da Tesla, co-fundador da OpenAI, fundador da Eureka Labs, e o maior educador de deep learning do mundo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\andrej-karpathy\\SKILL.md"
+    },
+    {
+      "id": "android-jetpack-compose-expert",
+      "name": "android-jetpack-compose-expert",
+      "description": "\"Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\android-jetpack-compose-expert\\SKILL.md"
+    },
+    {
+      "id": "android_ui_verification",
+      "name": "android_ui_verification",
+      "description": "Automated end-to-end UI testing and verification on an Android Emulator using ADB.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\android_ui_verification\\SKILL.md"
+    },
+    {
+      "id": "animejs-animation",
+      "name": "animejs-animation",
+      "description": "Advanced JavaScript animation library skill for creating complex, high-performance web animations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\animejs-animation\\SKILL.md"
+    },
+    {
+      "id": "anti-reversing-techniques",
+      "name": "anti-reversing-techniques",
+      "description": "\"AUTHORIZED USE ONLY: This skill contains dual-use security techniques. Before proceeding with any bypass or analysis: > 1.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\anti-reversing-techniques\\SKILL.md"
+    },
+    {
+      "id": "antigravity-workflows",
+      "name": "antigravity-workflows",
+      "description": "\"Orchestrate multiple Antigravity skills through guided workflows for SaaS MVP delivery, security audits, AI agent builds, and browser QA.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\antigravity-workflows\\SKILL.md"
+    },
+    {
+      "id": "api-design-principles",
+      "name": "api-design-principles",
+      "description": "\"Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers and stand the test of time.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-design-principles\\SKILL.md"
+    },
+    {
+      "id": "api-documentation",
+      "name": "api-documentation",
+      "description": "\"API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-documentation\\SKILL.md"
+    },
+    {
+      "id": "api-documentation-generator",
+      "name": "api-documentation-generator",
+      "description": "\"Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-documentation-generator\\SKILL.md"
+    },
+    {
+      "id": "api-documenter",
+      "name": "api-documenter",
+      "description": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-documenter\\SKILL.md"
+    },
+    {
+      "id": "api-patterns",
+      "name": "api-patterns",
+      "description": "\"API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-patterns\\SKILL.md"
+    },
+    {
+      "id": "api-security-best-practices",
+      "name": "api-security-best-practices",
+      "description": "\"Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-security-best-practices\\SKILL.md"
+    },
+    {
+      "id": "apify-actorization",
+      "name": "apify-actorization",
+      "description": "\"Actorization converts existing software into reusable serverless applications compatible with the Apify platform. Actors are programs packaged as Docker images that accept well-defined JSON input, perform an action, and optionally produce structured JSON output.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-actorization\\SKILL.md"
+    },
+    {
+      "id": "apify-audience-analysis",
+      "name": "apify-audience-analysis",
+      "description": "Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-audience-analysis\\SKILL.md"
+    },
+    {
+      "id": "apify-brand-reputation-monitoring",
+      "name": "apify-brand-reputation-monitoring",
+      "description": "\"Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-brand-reputation-monitoring\\SKILL.md"
+    },
+    {
+      "id": "apify-competitor-intelligence",
+      "name": "apify-competitor-intelligence",
+      "description": "Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-competitor-intelligence\\SKILL.md"
+    },
+    {
+      "id": "apify-content-analytics",
+      "name": "apify-content-analytics",
+      "description": "Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-content-analytics\\SKILL.md"
+    },
+    {
+      "id": "apify-ecommerce",
+      "name": "apify-ecommerce",
+      "description": "\"Extract product data, prices, reviews, and seller information from any e-commerce platform using Apify's E-commerce Scraping Tool.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-ecommerce\\SKILL.md"
+    },
+    {
+      "id": "apify-influencer-discovery",
+      "name": "apify-influencer-discovery",
+      "description": "Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-influencer-discovery\\SKILL.md"
+    },
+    {
+      "id": "apify-lead-generation",
+      "name": "apify-lead-generation",
+      "description": "\"Scrape leads from multiple platforms using Apify Actors.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-lead-generation\\SKILL.md"
+    },
+    {
+      "id": "apify-market-research",
+      "name": "apify-market-research",
+      "description": "Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-market-research\\SKILL.md"
+    },
+    {
+      "id": "apify-trend-analysis",
+      "name": "apify-trend-analysis",
+      "description": "Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-trend-analysis\\SKILL.md"
+    },
+    {
+      "id": "apify-ultimate-scraper",
+      "name": "apify-ultimate-scraper",
+      "description": "\"AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-ultimate-scraper\\SKILL.md"
+    },
+    {
+      "id": "app-builder",
+      "name": "app-builder",
+      "description": "\"Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\app-builder\\SKILL.md"
+    }
+  ]
+}

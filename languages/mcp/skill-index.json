@@ -1,0 +1,17 @@
+{
+  "sub_category": "mcp",
+  "skills": [
+    {
+      "id": "ai-dev-jobs-mcp",
+      "name": "ai-dev-jobs-mcp",
+      "description": "\"Search 8,400+ AI and ML jobs across 489 companies, inspect listings and employers, match roles, and view salary and market stats via AI Dev Jobs MCP\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-dev-jobs-mcp\\SKILL.md"
+    },
+    {
+      "id": "helium-mcp",
+      "name": "helium-mcp",
+      "description": "\"Connect to Helium's MCP server for news research, media bias analysis, balanced perspectives, stock/options data, and semantic meme search across 3.2M+ articles and 5,000+ sources\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\helium-mcp\\SKILL.md"
+    }
+  ]
+}

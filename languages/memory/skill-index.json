@@ -1,0 +1,11 @@
+{
+  "sub_category": "memory",
+  "skills": [
+    {
+      "id": "recallmax",
+      "name": "recallmax",
+      "description": "\"FREE \u2014 God-tier long-context memory for AI agents. Injects 500K-1M clean tokens, auto-summarizes with tone/intent preservation, compresses 14-turn history into 800 tokens.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\recallmax\\SKILL.md"
+    }
+  ]
+}

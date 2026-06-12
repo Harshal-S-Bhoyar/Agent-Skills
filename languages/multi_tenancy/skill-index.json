@@ -1,0 +1,11 @@
+{
+  "sub_category": "multi_tenancy",
+  "skills": [
+    {
+      "id": "saas-multi-tenant",
+      "name": "saas-multi-tenant",
+      "description": "\"Design and implement multi-tenant SaaS architectures with row-level security, tenant-scoped queries, shared-schema isolation, and safe cross-tenant admin patterns in PostgreSQL and TypeScript.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\saas-multi-tenant\\SKILL.md"
+    }
+  ]
+}

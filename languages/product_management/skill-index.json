@@ -1,0 +1,11 @@
+{
+  "sub_category": "product_management",
+  "skills": [
+    {
+      "id": "idea-os",
+      "name": "idea-os",
+      "description": "\"Five-phase pipeline (triage \u2192 clarify \u2192 research \u2192 PRD \u2192 plan) that turns a raw idea into four linked files: clarifying questions, deep research, a PRD with non-goals and metrics, and a phased execution plan with mermaid user journey and kill criteria.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\idea-os\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sub_category": "saas",
+  "skills": [
+    {
+      "id": "pakistan-payments-stack",
+      "name": "pakistan-payments-stack",
+      "description": "\"Design and implement production-grade Pakistani payment integrations (JazzCash, Easypaisa, bank/PSP rails, optional Raast) for SaaS with PKR billing, webhook reliability, and reconciliation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pakistan-payments-stack\\SKILL.md"
+    }
+  ]
+}

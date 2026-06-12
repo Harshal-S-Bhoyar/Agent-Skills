@@ -1,0 +1,11 @@
+{
+  "sub_category": "hono",
+  "skills": [
+    {
+      "id": "hono",
+      "name": "hono",
+      "description": "\"Build ultra-fast web APIs and full-stack apps with Hono \u2014 runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hono\\SKILL.md"
+    }
+  ]
+}

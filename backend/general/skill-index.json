@@ -1,0 +1,89 @@
+{
+  "sub_category": "general",
+  "skills": [
+    {
+      "id": "api-endpoint-builder",
+      "name": "api-endpoint-builder",
+      "description": "\"Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation. Follows best practices for security and scalability.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-endpoint-builder\\SKILL.md"
+    },
+    {
+      "id": "api-fuzzing-bug-bounty",
+      "name": "api-fuzzing-bug-bounty",
+      "description": "\"Provide comprehensive techniques for testing REST, SOAP, and GraphQL APIs during bug bounty hunting and penetration testing engagements. Covers vulnerability discovery, authentication bypass, IDOR exploitation, and API-specific attack vectors.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-fuzzing-bug-bounty\\SKILL.md"
+    },
+    {
+      "id": "api-security-testing",
+      "name": "api-security-testing",
+      "description": "\"API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-security-testing\\SKILL.md"
+    },
+    {
+      "id": "backend-dev-guidelines",
+      "name": "backend-dev-guidelines",
+      "description": "\"You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints. Use when routes, controllers, services, repositories, express middleware, or prisma database access.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend-dev-guidelines\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-backend-patterns",
+      "name": "cc-skill-backend-patterns",
+      "description": "\"Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-backend-patterns\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-security-review",
+      "name": "cc-skill-security-review",
+      "description": "\"This skill ensures all code follows security best practices and identifies potential vulnerabilities. Use when implementing authentication or authorization, handling user input or file uploads, or creating new API endpoints.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-security-review\\SKILL.md"
+    },
+    {
+      "id": "comfyui-gateway",
+      "name": "comfyui-gateway",
+      "description": "REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\comfyui-gateway\\SKILL.md"
+    },
+    {
+      "id": "fastapi-router-py",
+      "name": "fastapi-router-py",
+      "description": "\"Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fastapi-router-py\\SKILL.md"
+    },
+    {
+      "id": "gmail-automation",
+      "name": "gmail-automation",
+      "description": "\"Lightweight Gmail integration with standalone OAuth authentication. No MCP server required.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gmail-automation\\SKILL.md"
+    },
+    {
+      "id": "hybrid-cloud-networking",
+      "name": "hybrid-cloud-networking",
+      "description": "\"Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hybrid-cloud-networking\\SKILL.md"
+    },
+    {
+      "id": "nestjs-expert",
+      "name": "nestjs-expert",
+      "description": "\"You are an expert in Nest.js with deep knowledge of enterprise-grade Node.js application architecture, dependency injection patterns, decorators, middleware, guards, interceptors, pipes, testing strategies, database integration, and authentication systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nestjs-expert\\SKILL.md"
+    },
+    {
+      "id": "nextjs-supabase-auth",
+      "name": "nextjs-supabase-auth",
+      "description": "Expert integration of Supabase Auth with Next.js App Router",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nextjs-supabase-auth\\SKILL.md"
+    },
+    {
+      "id": "smtp-penetration-testing",
+      "name": "smtp-penetration-testing",
+      "description": "\"Conduct comprehensive security assessments of SMTP (Simple Mail Transfer Protocol) servers to identify vulnerabilities including open relays, user enumeration, weak authentication, and misconfiguration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\smtp-penetration-testing\\SKILL.md"
+    },
+    {
+      "id": "using-neon",
+      "name": "using-neon",
+      "description": "\"Neon is a serverless Postgres platform that separates compute and storage to offer autoscaling, branching, instant restore, and scale-to-zero. It's fully compatible with Postgres and works with any language, framework, or ORM that supports Postgres.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\using-neon\\SKILL.md"
+    }
+  ]
+}

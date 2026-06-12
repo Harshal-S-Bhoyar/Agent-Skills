@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_1",
+  "skills": [
+    {
+      "id": "address-github-comments",
+      "name": "address-github-comments",
+      "description": "\"Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\address-github-comments\\SKILL.md"
+    },
+    {
+      "id": "ai-analyzer",
+      "name": "ai-analyzer",
+      "description": "AI\u9a71\u52a8\u7684\u7efc\u5408\u5065\u5eb7\u5206\u6790\u7cfb\u7edf\uff0c\u6574\u5408\u591a\u7ef4\u5ea6\u5065\u5eb7\u6570\u636e\u3001\u8bc6\u522b\u5f02\u5e38\u6a21\u5f0f\u3001\u9884\u6d4b\u5065\u5eb7\u98ce\u9669\u3001\u63d0\u4f9b\u4e2a\u6027\u5316\u5efa\u8bae\u3002\u652f\u6301\u667a\u80fd\u95ee\u7b54\u548cAI\u5065\u5eb7\u62a5\u544a\u751f\u6210\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-analyzer\\SKILL.md"
+    },
+    {
+      "id": "ai-native-cli",
+      "name": "ai-native-cli",
+      "description": "\"Design spec with 98 rules for building CLI tools that AI agents can safely use. Covers structured JSON output, error handling, input contracts, safety guardrails, exit codes, and agent self-description.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-native-cli\\SKILL.md"
+    },
+    {
+      "id": "autonomous-agent-patterns",
+      "name": "autonomous-agent-patterns",
+      "description": "\"Design patterns for building autonomous coding agents, inspired by [Cline](https://github.com/cline/cline) and [OpenAI Codex](https://github.com/openai/codex).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\autonomous-agent-patterns\\SKILL.md"
+    },
+    {
+      "id": "claude-settings-audit",
+      "name": "claude-settings-audit",
+      "description": "Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting up a new project, auditing existing settings, or determining which read-only bash commands to allow. Detects tech stack, build tools, and monorepo structure.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-settings-audit\\SKILL.md"
+    },
+    {
+      "id": "clickup-automation",
+      "name": "clickup-automation",
+      "description": "\"Automate ClickUp project management including tasks, spaces, folders, lists, comments, and team operations via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\clickup-automation\\SKILL.md"
+    },
+    {
+      "id": "code-review-ai-ai-review",
+      "name": "code-review-ai-ai-review",
+      "description": "\"You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-review-ai-ai-review\\SKILL.md"
+    },
+    {
+      "id": "copilot-sdk",
+      "name": "copilot-sdk",
+      "description": "\"Build applications that programmatically interact with GitHub Copilot. The SDK wraps the Copilot CLI via JSON-RPC, providing session management, custom tools, hooks, MCP server integration, and streaming across Node.js, Python, Go, and .NET.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\copilot-sdk\\SKILL.md"
+    },
+    {
+      "id": "defender",
+      "name": "defender",
+      "description": ">-",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\defender\\SKILL.md"
+    },
+    {
+      "id": "family-health-analyzer",
+      "name": "family-health-analyzer",
+      "description": "\u5206\u6790\u5bb6\u65cf\u75c5\u53f2\u3001\u8bc4\u4f30\u9057\u4f20\u98ce\u9669\u3001\u8bc6\u522b\u5bb6\u5ead\u5065\u5eb7\u6a21\u5f0f\u3001\u63d0\u4f9b\u4e2a\u6027\u5316\u9884\u9632\u5efa\u8bae",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\family-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "fitness-analyzer",
+      "name": "fitness-analyzer",
+      "description": "\u5206\u6790\u8fd0\u52a8\u6570\u636e\u3001\u8bc6\u522b\u8fd0\u52a8\u6a21\u5f0f\u3001\u8bc4\u4f30\u5065\u8eab\u8fdb\u5c55\uff0c\u5e76\u63d0\u4f9b\u4e2a\u6027\u5316\u8bad\u7ec3\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u6162\u6027\u75c5\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\fitness-analyzer\\SKILL.md"
+    },
+    {
+      "id": "frontend-design",
+      "name": "frontend-design",
+      "description": "\"You are a frontend designer-engineer, not a layout generator.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend-design\\SKILL.md"
+    },
+    {
+      "id": "github",
+      "name": "github",
+      "description": "\"Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\github\\SKILL.md"
+    },
+    {
+      "id": "it-manager-hospital",
+      "name": "it-manager-hospital",
+      "description": "World-class Hospital IT Management Advisor specializing in clinical safety, digital maturity (HIMSS/ONA/JCI), and HIS/PEP ecosystems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\it-manager-hospital\\SKILL.md"
+    },
+    {
+      "id": "makepad-animation",
+      "name": "makepad-animation",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-animation\\SKILL.md"
+    },
+    {
+      "id": "makepad-dsl",
+      "name": "makepad-dsl",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-dsl\\SKILL.md"
+    },
+    {
+      "id": "makepad-font",
+      "name": "makepad-font",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-font\\SKILL.md"
+    },
+    {
+      "id": "makepad-layout",
+      "name": "makepad-layout",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-layout\\SKILL.md"
+    },
+    {
+      "id": "makepad-shaders",
+      "name": "makepad-shaders",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-shaders\\SKILL.md"
+    },
+    {
+      "id": "makepad-splash",
+      "name": "makepad-splash",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-splash\\SKILL.md"
+    },
+    {
+      "id": "mental-health-analyzer",
+      "name": "mental-health-analyzer",
+      "description": "\u5206\u6790\u5fc3\u7406\u5065\u5eb7\u6570\u636e\u3001\u8bc6\u522b\u5fc3\u7406\u6a21\u5f0f\u3001\u8bc4\u4f30\u5fc3\u7406\u5065\u5eb7\u72b6\u51b5\u3001\u63d0\u4f9b\u4e2a\u6027\u5316\u5fc3\u7406\u5065\u5eb7\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u7761\u7720\u3001\u8fd0\u52a8\u3001\u8425\u517b\u7b49\u5176\u4ed6\u5065\u5eb7\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mental-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "molykit",
+      "name": "molykit",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\molykit\\SKILL.md"
+    },
+    {
+      "id": "moyu",
+      "name": "moyu",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\moyu\\SKILL.md"
+    },
+    {
+      "id": "nutrition-analyzer",
+      "name": "nutrition-analyzer",
+      "description": "\u5206\u6790\u8425\u517b\u6570\u636e\u3001\u8bc6\u522b\u8425\u517b\u6a21\u5f0f\u3001\u8bc4\u4f30\u8425\u517b\u72b6\u51b5\uff0c\u5e76\u63d0\u4f9b\u4e2a\u6027\u5316\u8425\u517b\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u8fd0\u52a8\u3001\u7761\u7720\u3001\u6162\u6027\u75c5\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nutrition-analyzer\\SKILL.md"
+    },
+    {
+      "id": "oral-health-analyzer",
+      "name": "oral-health-analyzer",
+      "description": "\u5206\u6790\u53e3\u8154\u5065\u5eb7\u6570\u636e\u3001\u8bc6\u522b\u53e3\u8154\u95ee\u9898\u6a21\u5f0f\u3001\u8bc4\u4f30\u53e3\u8154\u5065\u5eb7\u72b6\u51b5\u3001\u63d0\u4f9b\u4e2a\u6027\u5316\u53e3\u8154\u5065\u5eb7\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u8425\u517b\u3001\u6162\u6027\u75c5\u3001\u7528\u836f\u7b49\u5176\u4ed6\u5065\u5eb7\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\oral-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "professional-proofreader",
+      "name": "professional-proofreader",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\professional-proofreader\\SKILL.md"
+    },
+    {
+      "id": "rehabilitation-analyzer",
+      "name": "rehabilitation-analyzer",
+      "description": "\u5206\u6790\u5eb7\u590d\u8bad\u7ec3\u6570\u636e\u3001\u8bc6\u522b\u5eb7\u590d\u6a21\u5f0f\u3001\u8bc4\u4f30\u5eb7\u590d\u8fdb\u5c55\uff0c\u5e76\u63d0\u4f9b\u4e2a\u6027\u5316\u5eb7\u590d\u5efa\u8bae",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rehabilitation-analyzer\\SKILL.md"
+    },
+    {
+      "id": "robius-matrix-integration",
+      "name": "robius-matrix-integration",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\robius-matrix-integration\\SKILL.md"
+    },
+    {
+      "id": "robius-state-management",
+      "name": "robius-state-management",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\robius-state-management\\SKILL.md"
+    },
+    {
+      "id": "robius-widget-patterns",
+      "name": "robius-widget-patterns",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\robius-widget-patterns\\SKILL.md"
+    }
+  ]
+}

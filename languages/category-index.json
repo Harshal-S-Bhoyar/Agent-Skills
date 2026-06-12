@@ -1,0 +1,420 @@
+{
+  "category": "languages",
+  "sub_categories": [
+    {
+      "sub_category": "general_1",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_1\\skill-index.json"
+    },
+    {
+      "sub_category": "general_2",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_2\\skill-index.json"
+    },
+    {
+      "sub_category": "general_3",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_3\\skill-index.json"
+    },
+    {
+      "sub_category": "general_4",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_4\\skill-index.json"
+    },
+    {
+      "sub_category": "general_5",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_5\\skill-index.json"
+    },
+    {
+      "sub_category": "general_6",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_6\\skill-index.json"
+    },
+    {
+      "sub_category": "general_7",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_7\\skill-index.json"
+    },
+    {
+      "sub_category": "general_8",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_8\\skill-index.json"
+    },
+    {
+      "sub_category": "general_9",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_9\\skill-index.json"
+    },
+    {
+      "sub_category": "general_10",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_10\\skill-index.json"
+    },
+    {
+      "sub_category": "general_11",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_11\\skill-index.json"
+    },
+    {
+      "sub_category": "general_12",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_12\\skill-index.json"
+    },
+    {
+      "sub_category": "general_13",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_13\\skill-index.json"
+    },
+    {
+      "sub_category": "general_14",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_14\\skill-index.json"
+    },
+    {
+      "sub_category": "general_15",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_15\\skill-index.json"
+    },
+    {
+      "sub_category": "general_16",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_16\\skill-index.json"
+    },
+    {
+      "sub_category": "general_17",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_17\\skill-index.json"
+    },
+    {
+      "sub_category": "general_18",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_18\\skill-index.json"
+    },
+    {
+      "sub_category": "general_19",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_19\\skill-index.json"
+    },
+    {
+      "sub_category": "general_20",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_20\\skill-index.json"
+    },
+    {
+      "sub_category": "general_21",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_21\\skill-index.json"
+    },
+    {
+      "sub_category": "general_22",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_22\\skill-index.json"
+    },
+    {
+      "sub_category": "general_23",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_23\\skill-index.json"
+    },
+    {
+      "sub_category": "general_24",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_24\\skill-index.json"
+    },
+    {
+      "sub_category": "general_25",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_25\\skill-index.json"
+    },
+    {
+      "sub_category": "general_26",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_26\\skill-index.json"
+    },
+    {
+      "sub_category": "general_27",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_27\\skill-index.json"
+    },
+    {
+      "sub_category": "general_28",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_28\\skill-index.json"
+    },
+    {
+      "sub_category": "general_29",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_29\\skill-index.json"
+    },
+    {
+      "sub_category": "general_30",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_30\\skill-index.json"
+    },
+    {
+      "sub_category": "general_31",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_31\\skill-index.json"
+    },
+    {
+      "sub_category": "general_32",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_32\\skill-index.json"
+    },
+    {
+      "sub_category": "general_33",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_33\\skill-index.json"
+    },
+    {
+      "sub_category": "general_34",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_34\\skill-index.json"
+    },
+    {
+      "sub_category": "general_35",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_35\\skill-index.json"
+    },
+    {
+      "sub_category": "general_36",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_36\\skill-index.json"
+    },
+    {
+      "sub_category": "general_37",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_37\\skill-index.json"
+    },
+    {
+      "sub_category": "general_38",
+      "count": 9,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\general_38\\skill-index.json"
+    },
+    {
+      "sub_category": "mcp",
+      "count": 2,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\mcp\\skill-index.json"
+    },
+    {
+      "sub_category": "analysis",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\analysis\\skill-index.json"
+    },
+    {
+      "sub_category": "security",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\security\\skill-index.json"
+    },
+    {
+      "sub_category": "ai",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\ai\\skill-index.json"
+    },
+    {
+      "sub_category": "creative",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\creative\\skill-index.json"
+    },
+    {
+      "sub_category": "faf",
+      "count": 2,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\faf\\skill-index.json"
+    },
+    {
+      "sub_category": "fp_ts",
+      "count": 6,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\fp_ts\\skill-index.json"
+    },
+    {
+      "sub_category": "output",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\output\\skill-index.json"
+    },
+    {
+      "sub_category": "frontend",
+      "count": 5,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\frontend\\skill-index.json"
+    },
+    {
+      "sub_category": "hono",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\hono\\skill-index.json"
+    },
+    {
+      "sub_category": "product_management",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\product_management\\skill-index.json"
+    },
+    {
+      "sub_category": "seo",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\seo\\skill-index.json"
+    },
+    {
+      "sub_category": "interview",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\interview\\skill-index.json"
+    },
+    {
+      "sub_category": "k6",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\k6\\skill-index.json"
+    },
+    {
+      "sub_category": "marketing",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\marketing\\skill-index.json"
+    },
+    {
+      "sub_category": "legal",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\legal\\skill-index.json"
+    },
+    {
+      "sub_category": "linkedin",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\linkedin\\skill-index.json"
+    },
+    {
+      "sub_category": "orchestrator",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\orchestrator\\skill-index.json"
+    },
+    {
+      "sub_category": "data_observability",
+      "count": 2,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\data_observability\\skill-index.json"
+    },
+    {
+      "sub_category": "multi_agent",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\multi_agent\\skill-index.json"
+    },
+    {
+      "sub_category": "business_model",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\business_model\\skill-index.json"
+    },
+    {
+      "sub_category": "saas",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\saas\\skill-index.json"
+    },
+    {
+      "sub_category": "pipecat",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\pipecat\\skill-index.json"
+    },
+    {
+      "sub_category": "playwright",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\playwright\\skill-index.json"
+    },
+    {
+      "sub_category": "_product_management_",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\_product_management_\\skill-index.json"
+    },
+    {
+      "sub_category": "pwa",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\pwa\\skill-index.json"
+    },
+    {
+      "sub_category": "education",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\education\\skill-index.json"
+    },
+    {
+      "sub_category": "pydantic_ai",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\pydantic_ai\\skill-index.json"
+    },
+    {
+      "sub_category": "python",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\python\\skill-index.json"
+    },
+    {
+      "sub_category": "memory",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\memory\\skill-index.json"
+    },
+    {
+      "sub_category": "multi_tenancy",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\multi_tenancy\\skill-index.json"
+    },
+    {
+      "sub_category": "sankhya",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\sankhya\\skill-index.json"
+    },
+    {
+      "sub_category": "mental_health",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\mental_health\\skill-index.json"
+    },
+    {
+      "sub_category": "video",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\video\\skill-index.json"
+    },
+    {
+      "sub_category": "validation",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\validation\\skill-index.json"
+    },
+    {
+      "sub_category": "stitch",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\stitch\\skill-index.json"
+    },
+    {
+      "sub_category": "svelte",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\svelte\\skill-index.json"
+    },
+    {
+      "sub_category": "change_tracking",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\change_tracking\\skill-index.json"
+    },
+    {
+      "sub_category": "tmux",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\tmux\\skill-index.json"
+    },
+    {
+      "sub_category": "ui",
+      "count": 4,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\ui\\skill-index.json"
+    },
+    {
+      "sub_category": "clean_code",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\clean_code\\skill-index.json"
+    },
+    {
+      "sub_category": "ux",
+      "count": 5,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\ux\\skill-index.json"
+    },
+    {
+      "sub_category": "matching",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\matching\\skill-index.json"
+    },
+    {
+      "sub_category": "vscode",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\vscode\\skill-index.json"
+    },
+    {
+      "sub_category": "writing",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\writing\\skill-index.json"
+    }
+  ]
+}

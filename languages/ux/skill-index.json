@@ -1,0 +1,35 @@
+{
+  "sub_category": "ux",
+  "skills": [
+    {
+      "id": "ux-audit",
+      "name": "ux-audit",
+      "description": "\"Audit screens against Nielsen's heuristics and mobile UX best practices using the StyleSeed Toss design language as the implementation context.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ux-audit\\SKILL.md"
+    },
+    {
+      "id": "ux-copy",
+      "name": "ux-copy",
+      "description": "\"Generate UX microcopy in StyleSeed's Toss-inspired voice for buttons, empty states, errors, toasts, confirmations, and form guidance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ux-copy\\SKILL.md"
+    },
+    {
+      "id": "ux-feedback",
+      "name": "ux-feedback",
+      "description": "\"Add loading, empty, error, and success feedback states to StyleSeed components and pages with practical mobile-first rules.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ux-feedback\\SKILL.md"
+    },
+    {
+      "id": "ux-flow",
+      "name": "ux-flow",
+      "description": "\"Design user flows and screen structure using StyleSeed UX patterns such as progressive disclosure, hub-and-spoke navigation, and information pyramids.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ux-flow\\SKILL.md"
+    },
+    {
+      "id": "uxui-principles",
+      "name": "uxui-principles",
+      "description": "\"Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\uxui-principles\\SKILL.md"
+    }
+  ]
+}

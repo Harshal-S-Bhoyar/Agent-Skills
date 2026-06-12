@@ -1,0 +1,59 @@
+{
+  "sub_category": "general_38",
+  "skills": [
+    {
+      "id": "youtube-summarizer",
+      "name": "youtube-summarizer",
+      "description": "\"Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\youtube-summarizer\\SKILL.md"
+    },
+    {
+      "id": "zapier-make-patterns",
+      "name": "zapier-make-patterns",
+      "description": "No-code automation democratizes workflow building. Zapier and Make",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zapier-make-patterns\\SKILL.md"
+    },
+    {
+      "id": "zendesk-automation",
+      "name": "zendesk-automation",
+      "description": "\"Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zendesk-automation\\SKILL.md"
+    },
+    {
+      "id": "zeroize-audit",
+      "name": "zeroize-audit",
+      "description": "\"Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zeroize-audit\\SKILL.md"
+    },
+    {
+      "id": "zipai-optimizer",
+      "name": "zipai-optimizer",
+      "description": "\"Adaptive token optimizer: intelligent filtering, surgical output, ambiguity-first, context-window-aware, VCS-aware.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zipai-optimizer\\SKILL.md"
+    },
+    {
+      "id": "zod-validation-expert",
+      "name": "zod-validation-expert",
+      "description": "\"Expert in Zod \u2014 TypeScript-first schema validation. Covers parsing, custom errors, refinements, type inference, and integration with React Hook Form, Next.js, and tRPC.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zod-validation-expert\\SKILL.md"
+    },
+    {
+      "id": "zoho-crm-automation",
+      "name": "zoho-crm-automation",
+      "description": "\"Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zoho-crm-automation\\SKILL.md"
+    },
+    {
+      "id": "zoom-automation",
+      "name": "zoom-automation",
+      "description": "\"Automate Zoom meeting creation, management, recordings, webinars, and participant tracking via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zoom-automation\\SKILL.md"
+    },
+    {
+      "id": "zustand-store-ts",
+      "name": "zustand-store-ts",
+      "description": "\"Create Zustand stores following established patterns with proper TypeScript types and middleware.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\zustand-store-ts\\SKILL.md"
+    }
+  ]
+}

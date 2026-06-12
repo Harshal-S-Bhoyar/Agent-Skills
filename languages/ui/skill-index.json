@@ -1,0 +1,29 @@
+{
+  "sub_category": "ui",
+  "skills": [
+    {
+      "id": "ui-component",
+      "name": "ui-component",
+      "description": "\"Generate a new UI component that follows StyleSeed Toss conventions for structure, tokens, accessibility, and component ergonomics.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-component\\SKILL.md"
+    },
+    {
+      "id": "ui-pattern",
+      "name": "ui-pattern",
+      "description": "\"Generate reusable UI patterns such as card sections, grids, lists, forms, and chart wrappers using StyleSeed Toss primitives.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-pattern\\SKILL.md"
+    },
+    {
+      "id": "ui-review",
+      "name": "ui-review",
+      "description": "\"Review UI code for StyleSeed design-system compliance, accessibility, mobile ergonomics, spacing discipline, and implementation quality.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-review\\SKILL.md"
+    },
+    {
+      "id": "ui-setup",
+      "name": "ui-setup",
+      "description": "\"Interactive StyleSeed setup wizard for choosing app type, brand color, visual style, typography, and the first screen scaffold.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-setup\\SKILL.md"
+    }
+  ]
+}

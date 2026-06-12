@@ -1,0 +1,17 @@
+{
+  "sub_category": "general_3",
+  "skills": [
+    {
+      "id": "ui-ux-pro-max",
+      "name": "ui-ux-pro-max",
+      "description": "\"Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ui-ux-pro-max\\SKILL.md"
+    },
+    {
+      "id": "vercel-ai-sdk-expert",
+      "name": "vercel-ai-sdk-expert",
+      "description": "\"Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vercel-ai-sdk-expert\\SKILL.md"
+    }
+  ]
+}

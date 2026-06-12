@@ -1,0 +1,179 @@
+{
+  "sub_category": "general",
+  "skills": [
+    {
+      "id": "agent-memory",
+      "name": "agent-memory",
+      "description": "\"Use when starting any project session, switching context, completing a feature, or when the user says 'save context', 'remember this', 'store progress', or 'activate memory'. Automatically captures all important project state, architecture decisions, file changes, bugs, and patterns into agentmemory MCP persistent storage so future sessions always have full context without re-explaining.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-memory\\SKILL.md"
+    },
+    {
+      "id": "agent-memory-mcp",
+      "name": "agent-memory-mcp",
+      "description": "\"A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-memory-mcp\\SKILL.md"
+    },
+    {
+      "id": "agent-memory-systems",
+      "name": "agent-memory-systems",
+      "description": "\"Memory is the cornerstone of intelligent agents. Without it, every",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-memory-systems\\SKILL.md"
+    },
+    {
+      "id": "agent-tool-builder",
+      "name": "agent-tool-builder",
+      "description": "Tools are how AI agents interact with the world. A well-designed",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-tool-builder\\SKILL.md"
+    },
+    {
+      "id": "agentfolio",
+      "name": "agentfolio",
+      "description": "\"Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agentfolio\\SKILL.md"
+    },
+    {
+      "id": "ai-agents-architect",
+      "name": "ai-agents-architect",
+      "description": "Expert in designing and building autonomous AI agents. Masters tool",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-agents-architect\\SKILL.md"
+    },
+    {
+      "id": "antigravity-skill-orchestrator",
+      "name": "antigravity-skill-orchestrator",
+      "description": "\"A meta-skill that understands task requirements, dynamically selects appropriate skills, tracks successful skill combinations using agent-memory-mcp, and prevents skill overuse for simple tasks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\antigravity-skill-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "apify-actor-development",
+      "name": "apify-actor-development",
+      "description": "\"Important: Before you begin, fill in the generatedBy property in the meta section of .actor/actor.json. Replace it with the tool and model you're currently using, such as \\\"Claude Code with Claude Sonnet 4.5\\\". This helps Apify monitor and improve AGENTS.md for specific AI tools and models.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\apify-actor-development\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-agents-persistent-dotnet",
+      "name": "azure-ai-agents-persistent-dotnet",
+      "description": "Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-agents-persistent-dotnet\\SKILL.md"
+    },
+    {
+      "id": "blueprint",
+      "name": "blueprint",
+      "description": "\"Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold. Each step has a self-contained context brief \u2014 a fresh agent in a new session can pick up any step without reading prior steps.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\blueprint\\SKILL.md"
+    },
+    {
+      "id": "claude-code-guide",
+      "name": "claude-code-guide",
+      "description": "\"To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential. This skill synthesizes best practices, configuration templates, and advanced usage patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-code-guide\\SKILL.md"
+    },
+    {
+      "id": "data-structure-protocol",
+      "name": "data-structure-protocol",
+      "description": "\"Give agents persistent structural memory of a codebase \u2014 navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-structure-protocol\\SKILL.md"
+    },
+    {
+      "id": "debugging-toolkit-smart-debug",
+      "name": "debugging-toolkit-smart-debug",
+      "description": "\"Use when working with debugging toolkit smart debug\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\debugging-toolkit-smart-debug\\SKILL.md"
+    },
+    {
+      "id": "defender-agent",
+      "name": "defender-agent",
+      "description": ">-",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\defender-agent\\SKILL.md"
+    },
+    {
+      "id": "elon-musk",
+      "name": "elon-musk",
+      "description": "\"Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade. Ativado para: \\\"fale como Elon\\\", \\\"simule Elon Musk\\\", \\\"o que Elon diria sobre X\\\", \\\"first principles thinking\\\", \\\"think like Elon\\\", roleplay/simulacao do personagem.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\elon-musk\\SKILL.md"
+    },
+    {
+      "id": "error-debugging-multi-agent-review",
+      "name": "error-debugging-multi-agent-review",
+      "description": "\"Use when working with error debugging multi agent review\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-debugging-multi-agent-review\\SKILL.md"
+    },
+    {
+      "id": "gsd-explore",
+      "name": "gsd-explore",
+      "description": "\"Socratic ideation and idea routing \u2014 think through ideas before committing to plans\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-explore\\SKILL.md"
+    },
+    {
+      "id": "gsd-fast",
+      "name": "gsd-fast",
+      "description": "\"Execute a trivial task inline \u2014 no subagents, no planning overhead\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-fast\\SKILL.md"
+    },
+    {
+      "id": "gsd-map-codebase",
+      "name": "gsd-map-codebase",
+      "description": "\"Analyze codebase with parallel mapper agents to produce .planning/codebase/ documents\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-map-codebase\\SKILL.md"
+    },
+    {
+      "id": "hierarchical-agent-memory",
+      "name": "hierarchical-agent-memory",
+      "description": "\"Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hierarchical-agent-memory\\SKILL.md"
+    },
+    {
+      "id": "langchain-architecture",
+      "name": "langchain-architecture",
+      "description": "\"Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\langchain-architecture\\SKILL.md"
+    },
+    {
+      "id": "manage-skills",
+      "name": "manage-skills",
+      "description": "Discover, list, create, edit, toggle, copy, move, and delete AI agent skills across 11 tools (Cursor, Claude, Agents, Windsurf, Copilot, Codex, Cline, Aider, Continue, Roo Code, Augment)",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\manage-skills\\SKILL.md"
+    },
+    {
+      "id": "memory-systems",
+      "name": "memory-systems",
+      "description": "\"Design short-term, long-term, and graph-based memory architectures. Use when building agents that must persist across sessions, needing to maintain entity consistency across conversations, or implementing reasoning over accumulated knowledge.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\memory-systems\\SKILL.md"
+    },
+    {
+      "id": "plan-writing",
+      "name": "plan-writing",
+      "description": "\"Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\plan-writing\\SKILL.md"
+    },
+    {
+      "id": "planning-with-files",
+      "name": "planning-with-files",
+      "description": "\"Work like Manus: Use persistent markdown files as your \\\"working memory on disk.\\\"\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\planning-with-files\\SKILL.md"
+    },
+    {
+      "id": "seo-plan",
+      "name": "seo-plan",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-plan\\SKILL.md"
+    },
+    {
+      "id": "subagent-driven-development",
+      "name": "subagent-driven-development",
+      "description": "\"Use when executing implementation plans with independent tasks in the current session\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\subagent-driven-development\\SKILL.md"
+    },
+    {
+      "id": "tool-design",
+      "name": "tool-design",
+      "description": "\"Build tools that agents can use effectively, including architectural reduction patterns. Use when creating new tools for agent systems, debugging tool-related failures or misuse, or optimizing existing tool sets for better agent performance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tool-design\\SKILL.md"
+    },
+    {
+      "id": "writing-plans",
+      "name": "writing-plans",
+      "description": "\"Use when you have a spec or requirements for a multi-step task, before touching code\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\writing-plans\\SKILL.md"
+    }
+  ]
+}

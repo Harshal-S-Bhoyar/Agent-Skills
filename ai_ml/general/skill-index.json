@@ -1,0 +1,71 @@
+{
+  "sub_category": "general",
+  "skills": [
+    {
+      "id": "ai-engineer",
+      "name": "ai-engineer",
+      "description": "Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-engineer\\SKILL.md"
+    },
+    {
+      "id": "ai-ml",
+      "name": "ai-ml",
+      "description": "\"AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-ml\\SKILL.md"
+    },
+    {
+      "id": "ai-seo",
+      "name": "ai-seo",
+      "description": "\"Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-seo\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-openai-dotnet",
+      "name": "azure-ai-openai-dotnet",
+      "description": "Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-openai-dotnet\\SKILL.md"
+    },
+    {
+      "id": "claude-api",
+      "name": "claude-api",
+      "description": "\"Build apps with the Claude API or Anthropic SDK. TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`/`claude_agent_sdk`, or user asks to use Claude API, Anthropic SDKs, or Agent SDK. DO NOT TRIGGER when: code imports `openai`/other AI SDK, general programming, or ML/data-science tasks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-api\\SKILL.md"
+    },
+    {
+      "id": "embedding-strategies",
+      "name": "embedding-strategies",
+      "description": "\"Guide to selecting and optimizing embedding models for vector search applications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\embedding-strategies\\SKILL.md"
+    },
+    {
+      "id": "hybrid-search-implementation",
+      "name": "hybrid-search-implementation",
+      "description": "\"Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hybrid-search-implementation\\SKILL.md"
+    },
+    {
+      "id": "llm-ops",
+      "name": "llm-ops",
+      "description": "\"LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\llm-ops\\SKILL.md"
+    },
+    {
+      "id": "rag-implementation",
+      "name": "rag-implementation",
+      "description": "\"RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rag-implementation\\SKILL.md"
+    },
+    {
+      "id": "vector-database-engineer",
+      "name": "vector-database-engineer",
+      "description": "\"Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vector-database-engineer\\SKILL.md"
+    },
+    {
+      "id": "vexor",
+      "name": "vexor",
+      "description": "\"Vector-powered CLI for semantic file search with a Claude/Codex skill\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\vexor\\SKILL.md"
+    }
+  ]
+}

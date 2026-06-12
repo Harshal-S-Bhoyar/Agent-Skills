@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_9",
+  "skills": [
+    {
+      "id": "churn-prevention",
+      "name": "churn-prevention",
+      "description": "\"Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy. Use when users are cancelling, failed payments are rising, or subscription retention needs improvement.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\churn-prevention\\SKILL.md"
+    },
+    {
+      "id": "cirq",
+      "name": "cirq",
+      "description": "\"Cirq is Google Quantum AI's open-source framework for designing, simulating, and running quantum circuits on quantum computers and simulators.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cirq\\SKILL.md"
+    },
+    {
+      "id": "citation-management",
+      "name": "citation-management",
+      "description": "\"Manage citations systematically throughout the research and writing process.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\citation-management\\SKILL.md"
+    },
+    {
+      "id": "claimable-postgres",
+      "name": "claimable-postgres",
+      "description": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (pg.new). No login or credit card required. Use for quick Postgres environments and throwaway DATABASE_URL for prototyping.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claimable-postgres\\SKILL.md"
+    },
+    {
+      "id": "clarity-gate",
+      "name": "clarity-gate",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\clarity-gate\\SKILL.md"
+    },
+    {
+      "id": "claude-ally-health",
+      "name": "claude-ally-health",
+      "description": "\"A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-ally-health\\SKILL.md"
+    },
+    {
+      "id": "claude-code-expert",
+      "name": "claude-code-expert",
+      "description": "\"Especialista profundo em Claude Code - CLI da Anthropic. Maximiza produtividade com atalhos, hooks, MCPs, configuracoes avancadas, workflows, CLAUDE.md, memoria, sub-agentes, permissoes e integracao com ecossistemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-code-expert\\SKILL.md"
+    },
+    {
+      "id": "claude-d3js-skill",
+      "name": "claude-d3js-skill",
+      "description": "\"This skill provides guidance for creating sophisticated, interactive data visualisations using d3.js.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-d3js-skill\\SKILL.md"
+    },
+    {
+      "id": "claude-in-chrome-troubleshooting",
+      "name": "claude-in-chrome-troubleshooting",
+      "description": "Diagnose and fix Claude in Chrome MCP extension connectivity issues. Use when mcp__claude-in-chrome__* tools fail, return \"Browser extension is not connected\", or behave erratically.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-in-chrome-troubleshooting\\SKILL.md"
+    },
+    {
+      "id": "claude-monitor",
+      "name": "claude-monitor",
+      "description": "Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-monitor\\SKILL.md"
+    },
+    {
+      "id": "claude-scientific-skills",
+      "name": "claude-scientific-skills",
+      "description": "\"Scientific research and analysis skills\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-scientific-skills\\SKILL.md"
+    },
+    {
+      "id": "claude-speed-reader",
+      "name": "claude-speed-reader",
+      "description": "\"-Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-speed-reader\\SKILL.md"
+    },
+    {
+      "id": "claude-win11-speckit-update-skill",
+      "name": "claude-win11-speckit-update-skill",
+      "description": "\"Windows 11 system management\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\claude-win11-speckit-update-skill\\SKILL.md"
+    },
+    {
+      "id": "clean-code",
+      "name": "clean-code",
+      "description": "\"This skill embodies the principles of \\\"Clean Code\\\" by Robert C. Martin (Uncle Bob). Use it to transform \\\"code that works\\\" into \\\"code that is clean.\\\"\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\clean-code\\SKILL.md"
+    },
+    {
+      "id": "clerk-auth",
+      "name": "clerk-auth",
+      "description": "Expert patterns for Clerk auth implementation, middleware,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\clerk-auth\\SKILL.md"
+    },
+    {
+      "id": "close-automation",
+      "name": "close-automation",
+      "description": "\"Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\close-automation\\SKILL.md"
+    },
+    {
+      "id": "cloudflare-workers-expert",
+      "name": "cloudflare-workers-expert",
+      "description": "\"Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cloudflare-workers-expert\\SKILL.md"
+    },
+    {
+      "id": "cloudformation-best-practices",
+      "name": "cloudformation-best-practices",
+      "description": "\"CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cloudformation-best-practices\\SKILL.md"
+    },
+    {
+      "id": "code-documentation-code-explain",
+      "name": "code-documentation-code-explain",
+      "description": "\"You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable explanations for developers at all levels.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-documentation-code-explain\\SKILL.md"
+    },
+    {
+      "id": "code-documentation-doc-generate",
+      "name": "code-documentation-doc-generate",
+      "description": "\"You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-documentation-doc-generate\\SKILL.md"
+    },
+    {
+      "id": "code-refactoring-context-restore",
+      "name": "code-refactoring-context-restore",
+      "description": "\"Use when working with code refactoring context restore\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-refactoring-context-restore\\SKILL.md"
+    },
+    {
+      "id": "code-refactoring-refactor-clean",
+      "name": "code-refactoring-refactor-clean",
+      "description": "\"You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its quality, maintainability, and performance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-refactoring-refactor-clean\\SKILL.md"
+    },
+    {
+      "id": "code-refactoring-tech-debt",
+      "name": "code-refactoring-tech-debt",
+      "description": "\"You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-refactoring-tech-debt\\SKILL.md"
+    },
+    {
+      "id": "code-review-checklist",
+      "name": "code-review-checklist",
+      "description": "\"Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-review-checklist\\SKILL.md"
+    },
+    {
+      "id": "code-review-excellence",
+      "name": "code-review-excellence",
+      "description": "\"Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-review-excellence\\SKILL.md"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "code-reviewer",
+      "description": "\"Elite code review expert specializing in modern AI-powered code\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-reviewer\\SKILL.md"
+    },
+    {
+      "id": "code-simplifier",
+      "name": "code-simplifier",
+      "description": "Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Use when asked to \"simplify code\", \"clean up code\", \"refactor for clarity\", \"improve readability\", or review recently modified code for elegance. Focuses on project-specific best practices.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\code-simplifier\\SKILL.md"
+    },
+    {
+      "id": "codebase-audit-pre-push",
+      "name": "codebase-audit-pre-push",
+      "description": "\"Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\codebase-audit-pre-push\\SKILL.md"
+    },
+    {
+      "id": "codebase-cleanup-deps-audit",
+      "name": "codebase-cleanup-deps-audit",
+      "description": "\"You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\codebase-cleanup-deps-audit\\SKILL.md"
+    },
+    {
+      "id": "codebase-cleanup-refactor-clean",
+      "name": "codebase-cleanup-refactor-clean",
+      "description": "\"You are a code refactoring expert specializing in clean code principles, SOLID design patterns, and modern software engineering best practices. Analyze and refactor the provided code to improve its quality, maintainability, and performance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\codebase-cleanup-refactor-clean\\SKILL.md"
+    }
+  ]
+}

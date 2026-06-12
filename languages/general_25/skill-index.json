@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_25",
+  "skills": [
+    {
+      "id": "nodejs-backend-patterns",
+      "name": "nodejs-backend-patterns",
+      "description": "\"Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nodejs-backend-patterns\\SKILL.md"
+    },
+    {
+      "id": "nodejs-best-practices",
+      "name": "nodejs-best-practices",
+      "description": "\"Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nodejs-best-practices\\SKILL.md"
+    },
+    {
+      "id": "notebooklm",
+      "name": "notebooklm",
+      "description": "\"Interact with Google NotebookLM to query documentation with Gemini's source-grounded answers. Each question opens a fresh browser session, retrieves the answer exclusively from your uploaded documents, and closes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\notebooklm\\SKILL.md"
+    },
+    {
+      "id": "notion-automation",
+      "name": "notion-automation",
+      "description": "\"Automate Notion tasks via Rube MCP (Composio): pages, databases, blocks, comments, users. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\notion-automation\\SKILL.md"
+    },
+    {
+      "id": "nx-workspace-patterns",
+      "name": "nx-workspace-patterns",
+      "description": "\"Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\nx-workspace-patterns\\SKILL.md"
+    },
+    {
+      "id": "objection-preemptor",
+      "name": "objection-preemptor",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\objection-preemptor\\SKILL.md"
+    },
+    {
+      "id": "observability-engineer",
+      "name": "observability-engineer",
+      "description": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\observability-engineer\\SKILL.md"
+    },
+    {
+      "id": "observability-monitoring-monitor-setup",
+      "name": "observability-monitoring-monitor-setup",
+      "description": "\"You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\observability-monitoring-monitor-setup\\SKILL.md"
+    },
+    {
+      "id": "observability-monitoring-slo-implement",
+      "name": "observability-monitoring-slo-implement",
+      "description": "\"You are an SLO (Service Level Objective) expert specializing in implementing reliability standards and error budget-based engineering practices. Design comprehensive SLO frameworks, establish meaningful SLIs, and create monitoring systems that balance reliability with feature velocity.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\observability-monitoring-slo-implement\\SKILL.md"
+    },
+    {
+      "id": "obsidian-cli",
+      "name": "obsidian-cli",
+      "description": "\"Use the Obsidian CLI to read, create, search, and manage vault content, or to develop and debug Obsidian plugins and themes from the command line.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\obsidian-cli\\SKILL.md"
+    },
+    {
+      "id": "obsidian-clipper-template-creator",
+      "name": "obsidian-clipper-template-creator",
+      "description": "Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\obsidian-clipper-template-creator\\SKILL.md"
+    },
+    {
+      "id": "obsidian-markdown",
+      "name": "obsidian-markdown",
+      "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\obsidian-markdown\\SKILL.md"
+    },
+    {
+      "id": "occupational-health-analyzer",
+      "name": "occupational-health-analyzer",
+      "description": "\u5206\u6790\u804c\u4e1a\u5065\u5eb7\u6570\u636e\u3001\u8bc6\u522b\u5de5\u4f5c\u76f8\u5173\u5065\u5eb7\u98ce\u9669\u3001\u8bc4\u4f30\u804c\u4e1a\u5065\u5eb7\u72b6\u51b5\u3001\u63d0\u4f9b\u4e2a\u6027\u5316\u804c\u4e1a\u5065\u5eb7\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u7761\u7720\u3001\u8fd0\u52a8\u3001\u5fc3\u7406\u5065\u5eb7\u7b49\u5176\u4ed6\u5065\u5eb7\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\occupational-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "odoo-accounting-setup",
+      "name": "odoo-accounting-setup",
+      "description": "\"Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-accounting-setup\\SKILL.md"
+    },
+    {
+      "id": "odoo-backup-strategy",
+      "name": "odoo-backup-strategy",
+      "description": "\"Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-backup-strategy\\SKILL.md"
+    },
+    {
+      "id": "odoo-ecommerce-configurator",
+      "name": "odoo-ecommerce-configurator",
+      "description": "\"Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-ecommerce-configurator\\SKILL.md"
+    },
+    {
+      "id": "odoo-edi-connector",
+      "name": "odoo-edi-connector",
+      "description": "\"Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-edi-connector\\SKILL.md"
+    },
+    {
+      "id": "odoo-hr-payroll-setup",
+      "name": "odoo-hr-payroll-setup",
+      "description": "\"Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-hr-payroll-setup\\SKILL.md"
+    },
+    {
+      "id": "odoo-inventory-optimizer",
+      "name": "odoo-inventory-optimizer",
+      "description": "\"Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-inventory-optimizer\\SKILL.md"
+    },
+    {
+      "id": "odoo-l10n-compliance",
+      "name": "odoo-l10n-compliance",
+      "description": "\"Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-l10n-compliance\\SKILL.md"
+    },
+    {
+      "id": "odoo-manufacturing-advisor",
+      "name": "odoo-manufacturing-advisor",
+      "description": "\"Expert guide for Odoo Manufacturing: Bills of Materials (BoM), Work Centers, routings, MRP planning, and production order workflows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-manufacturing-advisor\\SKILL.md"
+    },
+    {
+      "id": "odoo-migration-helper",
+      "name": "odoo-migration-helper",
+      "description": "\"Step-by-step guide for migrating Odoo custom modules between versions (v14\u2192v15\u2192v16\u2192v17). Covers API changes, deprecated methods, and view migration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-migration-helper\\SKILL.md"
+    },
+    {
+      "id": "odoo-project-timesheet",
+      "name": "odoo-project-timesheet",
+      "description": "\"Expert guide for Odoo Project and Timesheets: task stages, billable time tracking, timesheet approval, budget alerts, and invoicing from timesheets.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-project-timesheet\\SKILL.md"
+    },
+    {
+      "id": "odoo-purchase-workflow",
+      "name": "odoo-purchase-workflow",
+      "description": "\"Expert guide for Odoo Purchase: RFQ \u2192 PO \u2192 Receipt \u2192 Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-purchase-workflow\\SKILL.md"
+    },
+    {
+      "id": "odoo-qweb-templates",
+      "name": "odoo-qweb-templates",
+      "description": "\"Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-qweb-templates\\SKILL.md"
+    },
+    {
+      "id": "odoo-rpc-api",
+      "name": "odoo-rpc-api",
+      "description": "\"Expert on Odoo's external JSON-RPC and XML-RPC APIs. Covers authentication, model calls, record CRUD, and real-world integration examples in Python, JavaScript, and curl.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-rpc-api\\SKILL.md"
+    },
+    {
+      "id": "odoo-sales-crm-expert",
+      "name": "odoo-sales-crm-expert",
+      "description": "\"Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-sales-crm-expert\\SKILL.md"
+    },
+    {
+      "id": "odoo-security-rules",
+      "name": "odoo-security-rules",
+      "description": "\"Expert in Odoo access control: ir.model.access.csv, record rules (ir.rule), groups, and multi-company security patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-security-rules\\SKILL.md"
+    },
+    {
+      "id": "odoo-shopify-integration",
+      "name": "odoo-shopify-integration",
+      "description": "\"Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-shopify-integration\\SKILL.md"
+    },
+    {
+      "id": "odoo-upgrade-advisor",
+      "name": "odoo-upgrade-advisor",
+      "description": "\"Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-upgrade-advisor\\SKILL.md"
+    }
+  ]
+}

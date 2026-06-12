@@ -1,0 +1,30 @@
+{
+  "category": "agent_reasoning",
+  "sub_categories": [
+    {
+      "sub_category": "general",
+      "count": 29,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\general\\skill-index.json"
+    },
+    {
+      "sub_category": "prompt_engineering",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\prompt_engineering\\skill-index.json"
+    },
+    {
+      "sub_category": "mcp",
+      "count": 2,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\mcp\\skill-index.json"
+    },
+    {
+      "sub_category": "solana",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\solana\\skill-index.json"
+    },
+    {
+      "sub_category": "reliability",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\reliability\\skill-index.json"
+    }
+  ]
+}

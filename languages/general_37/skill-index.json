@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_37",
+  "skills": [
+    {
+      "id": "wiki-changelog",
+      "name": "wiki-changelog",
+      "description": "\"Generate structured changelogs from git history. Use when user asks \\\"what changed recently\\\", \\\"generate a changelog\\\", \\\"summarize commits\\\" or user wants to understand recent development activity.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-changelog\\SKILL.md"
+    },
+    {
+      "id": "wiki-onboarding",
+      "name": "wiki-onboarding",
+      "description": "\"Generate two complementary onboarding documents that together give any engineer \u2014 from newcomer to principal \u2014 a complete understanding of a codebase. Use when user asks for onboarding docs or getting-started guides, user runs /deep-wiki, or user wants to help new team members understand a codebase.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-onboarding\\SKILL.md"
+    },
+    {
+      "id": "wiki-page-writer",
+      "name": "wiki-page-writer",
+      "description": "\"You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-page-writer\\SKILL.md"
+    },
+    {
+      "id": "wiki-qa",
+      "name": "wiki-qa",
+      "description": "\"Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \\\"how does X work\\\" or \\\"where is Y defined\\\".\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-qa\\SKILL.md"
+    },
+    {
+      "id": "wiki-researcher",
+      "name": "wiki-researcher",
+      "description": "\"You are an expert software engineer and systems analyst. Use when user asks \\\"how does X work\\\" with expectation of depth, user wants to understand a complex system spanning many files, or user asks for architectural analysis or pattern investigation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-researcher\\SKILL.md"
+    },
+    {
+      "id": "wiki-vitepress",
+      "name": "wiki-vitepress",
+      "description": "\"Transform generated wiki Markdown files into a polished VitePress static site with dark theme and interactive Mermaid diagrams. Use when user asks to \\\"build a site\\\" or \\\"package as VitePress\\\", user runs the /deep-wiki, or user wants a browsable HTML output from generated wiki pages.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wiki-vitepress\\SKILL.md"
+    },
+    {
+      "id": "windows-privilege-escalation",
+      "name": "windows-privilege-escalation",
+      "description": "\"Provide systematic methodologies for discovering and exploiting privilege escalation vulnerabilities on Windows systems during penetration testing engagements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\windows-privilege-escalation\\SKILL.md"
+    },
+    {
+      "id": "windows-shell-reliability",
+      "name": "windows-shell-reliability",
+      "description": "\"Reliable command execution on Windows: paths, encoding, and common binary pitfalls.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\windows-shell-reliability\\SKILL.md"
+    },
+    {
+      "id": "wireshark-analysis",
+      "name": "wireshark-analysis",
+      "description": "\"Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wireshark-analysis\\SKILL.md"
+    },
+    {
+      "id": "wordpress",
+      "name": "wordpress",
+      "description": "\"Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wordpress\\SKILL.md"
+    },
+    {
+      "id": "wordpress-penetration-testing",
+      "name": "wordpress-penetration-testing",
+      "description": "\"Assess WordPress installations for common vulnerabilities and WordPress 7.0 attack surfaces.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wordpress-penetration-testing\\SKILL.md"
+    },
+    {
+      "id": "wordpress-plugin-development",
+      "name": "wordpress-plugin-development",
+      "description": "\"WordPress plugin development workflow covering plugin architecture, hooks, admin interfaces, REST API, security best practices, and WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wordpress-plugin-development\\SKILL.md"
+    },
+    {
+      "id": "wordpress-theme-development",
+      "name": "wordpress-theme-development",
+      "description": "\"WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, responsive design, and WordPress 7.0 features: DataViews, Pattern Editing, Navigation Overlays, and admin refresh.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wordpress-theme-development\\SKILL.md"
+    },
+    {
+      "id": "wordpress-woocommerce-development",
+      "name": "wordpress-woocommerce-development",
+      "description": "\"WooCommerce store development workflow covering store setup, payment integration, shipping configuration, customization, and WordPress 7.0 features: AI connectors, DataViews, and collaboration tools.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wordpress-woocommerce-development\\SKILL.md"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "workflow-automation",
+      "description": "Workflow automation is the infrastructure that makes AI agents",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\workflow-automation\\SKILL.md"
+    },
+    {
+      "id": "workflow-orchestration-patterns",
+      "name": "workflow-orchestration-patterns",
+      "description": "\"Master workflow orchestration architecture with Temporal, covering fundamental design decisions, resilience patterns, and best practices for building reliable distributed systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\workflow-orchestration-patterns\\SKILL.md"
+    },
+    {
+      "id": "workflow-patterns",
+      "name": "workflow-patterns",
+      "description": "Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding the verification protocol.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\workflow-patterns\\SKILL.md"
+    },
+    {
+      "id": "wrike-automation",
+      "name": "wrike-automation",
+      "description": "\"Automate Wrike project management via Rube MCP (Composio): create tasks/folders, manage projects, assign work, and track progress. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\wrike-automation\\SKILL.md"
+    },
+    {
+      "id": "writing-skills",
+      "name": "writing-skills",
+      "description": "\"Use when creating, updating, or improving agent skills.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\writing-skills\\SKILL.md"
+    },
+    {
+      "id": "x-article-publisher-skill",
+      "name": "x-article-publisher-skill",
+      "description": "\"Publish articles to X/Twitter\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\x-article-publisher-skill\\SKILL.md"
+    },
+    {
+      "id": "x-twitter-scraper",
+      "name": "x-twitter-scraper",
+      "description": "\"X (Twitter) data platform skill \u2014 tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\x-twitter-scraper\\SKILL.md"
+    },
+    {
+      "id": "xlsx-official",
+      "name": "xlsx-official",
+      "description": "\"Unless otherwise stated by the user or existing template\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\xlsx-official\\SKILL.md"
+    },
+    {
+      "id": "xss-html-injection",
+      "name": "xss-html-injection",
+      "description": "\"Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\xss-html-injection\\SKILL.md"
+    },
+    {
+      "id": "xvary-stock-research",
+      "name": "xvary-stock-research",
+      "description": "\"Thesis-driven equity analysis from public SEC EDGAR and market data; /analyze, /score, /compare workflows with bundled Python tools (Claude Code, Cursor, Codex).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\xvary-stock-research\\SKILL.md"
+    },
+    {
+      "id": "yann-lecun",
+      "name": "yann-lecun",
+      "description": "\"Agente que simula Yann LeCun \u2014 inventor das Convolutional Neural Networks, Chief AI Scientist da Meta, Pr\u00eamio Turing 2018.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\yann-lecun\\SKILL.md"
+    },
+    {
+      "id": "yann-lecun-debate",
+      "name": "yann-lecun-debate",
+      "description": "\"Sub-skill de debates e posi\u00e7\u00f5es de Yann LeCun. Cobre cr\u00edticas t\u00e9cnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejei\u00e7\u00f5es a afirma\u00e7\u00f5es mainstream, posi\u00e7\u00e3o sobre risco existencial de IA, e t\u00e9cnicas de debate ao vivo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\yann-lecun-debate\\SKILL.md"
+    },
+    {
+      "id": "yann-lecun-filosofia",
+      "name": "yann-lecun-filosofia",
+      "description": "\"Sub-skill filos\u00f3fica e pedag\u00f3gica de Yann LeCun.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\yann-lecun-filosofia\\SKILL.md"
+    },
+    {
+      "id": "yann-lecun-tecnico",
+      "name": "yann-lecun-tecnico",
+      "description": "\"Sub-skill t\u00e9cnica de Yann LeCun. Cobre CNNs, LeNet, backpropagation, JEPA (I-JEPA, V-JEPA, MC-JEPA), AMI (Advanced Machinery of Intelligence), Self-Supervised Learning (SimCLR, MAE, BYOL), Energy-Based Models (EBMs) e c\u00f3digo PyTorch completo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\yann-lecun-tecnico\\SKILL.md"
+    },
+    {
+      "id": "yes-md",
+      "name": "\"yes-md\"",
+      "description": "\"6-layer AI governance: safety gates, evidence-based debugging, anti-slack detection, and machine-enforced hooks. Makes AI safe, thorough, and honest.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\yes-md\\SKILL.md"
+    },
+    {
+      "id": "youtube-automation",
+      "name": "youtube-automation",
+      "description": "\"Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\youtube-automation\\SKILL.md"
+    }
+  ]
+}

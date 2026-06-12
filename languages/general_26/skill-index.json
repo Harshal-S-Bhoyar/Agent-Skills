@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_26",
+  "skills": [
+    {
+      "id": "odoo-woocommerce-bridge",
+      "name": "odoo-woocommerce-bridge",
+      "description": "\"Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-woocommerce-bridge\\SKILL.md"
+    },
+    {
+      "id": "odoo-xml-views-builder",
+      "name": "odoo-xml-views-builder",
+      "description": "\"Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-xml-views-builder\\SKILL.md"
+    },
+    {
+      "id": "office-productivity",
+      "name": "office-productivity",
+      "description": "\"Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\office-productivity\\SKILL.md"
+    },
+    {
+      "id": "on-call-handoff-patterns",
+      "name": "on-call-handoff-patterns",
+      "description": "\"Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\on-call-handoff-patterns\\SKILL.md"
+    },
+    {
+      "id": "onboarding-cro",
+      "name": "onboarding-cro",
+      "description": "\"You are an expert in user onboarding and activation. Your goal is to help users reach their \\\"aha moment\\\" as quickly as possible and establish habits that lead to long-term retention.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\onboarding-cro\\SKILL.md"
+    },
+    {
+      "id": "onboarding-psychologist",
+      "name": "onboarding-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\onboarding-psychologist\\SKILL.md"
+    },
+    {
+      "id": "one-drive-automation",
+      "name": "one-drive-automation",
+      "description": "\"Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\one-drive-automation\\SKILL.md"
+    },
+    {
+      "id": "openapi-spec-generation",
+      "name": "openapi-spec-generation",
+      "description": "\"Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\openapi-spec-generation\\SKILL.md"
+    },
+    {
+      "id": "orchestrate-batch-refactor",
+      "name": "\"orchestrate-batch-refactor\"",
+      "description": "\"Plan and execute large refactors with dependency-aware work packets and parallel analysis.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\orchestrate-batch-refactor\\SKILL.md"
+    },
+    {
+      "id": "oss-hunter",
+      "name": "oss-hunter",
+      "description": "\"Automatically hunt for high-impact OSS contribution opportunities in trending repositories.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\oss-hunter\\SKILL.md"
+    },
+    {
+      "id": "outlook-automation",
+      "name": "outlook-automation",
+      "description": "\"Automate Outlook tasks via Rube MCP (Composio): emails, calendar, contacts, folders, attachments. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\outlook-automation\\SKILL.md"
+    },
+    {
+      "id": "outlook-calendar-automation",
+      "name": "outlook-calendar-automation",
+      "description": "\"Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\outlook-calendar-automation\\SKILL.md"
+    },
+    {
+      "id": "page-cro",
+      "name": "page-cro",
+      "description": "Analyze and optimize individual pages for conversion performance.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\page-cro\\SKILL.md"
+    },
+    {
+      "id": "pagerduty-automation",
+      "name": "pagerduty-automation",
+      "description": "\"Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, schedules, escalation policies, and on-call rotations. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pagerduty-automation\\SKILL.md"
+    },
+    {
+      "id": "paid-ads",
+      "name": "paid-ads",
+      "description": "\"You are an expert performance marketer with direct access to ad platform accounts. Your goal is to help create, optimize, and scale paid advertising campaigns that drive efficient customer acquisition.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\paid-ads\\SKILL.md"
+    },
+    {
+      "id": "payment-integration",
+      "name": "payment-integration",
+      "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\payment-integration\\SKILL.md"
+    },
+    {
+      "id": "paypal-integration",
+      "name": "paypal-integration",
+      "description": "\"Master PayPal payment integration including Express Checkout, IPN handling, recurring billing, and refund workflows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\paypal-integration\\SKILL.md"
+    },
+    {
+      "id": "paywall-upgrade-cro",
+      "name": "paywall-upgrade-cro",
+      "description": "\"You are an expert in in-app paywalls and upgrade flows. Your goal is to convert free users to paid, or upgrade users to higher tiers, at moments when they've experienced enough value to justify the commitment.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\paywall-upgrade-cro\\SKILL.md"
+    },
+    {
+      "id": "pci-compliance",
+      "name": "pci-compliance",
+      "description": "\"Master PCI DSS (Payment Card Industry Data Security Standard) compliance for secure payment processing and handling of cardholder data.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pci-compliance\\SKILL.md"
+    },
+    {
+      "id": "pdf-official",
+      "name": "pdf-official",
+      "description": "\"This guide covers essential PDF processing operations using Python libraries and command-line tools. For advanced features, JavaScript libraries, and detailed examples, see reference.md. If you need to fill out a PDF form, read forms.md and follow its instructions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pdf-official\\SKILL.md"
+    },
+    {
+      "id": "pentest-checklist",
+      "name": "pentest-checklist",
+      "description": "\"Provide a comprehensive checklist for planning, executing, and following up on penetration tests. Ensure thorough preparation, proper scoping, and effective remediation of discovered vulnerabilities.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pentest-checklist\\SKILL.md"
+    },
+    {
+      "id": "pentest-commands",
+      "name": "pentest-commands",
+      "description": "\"Provide a comprehensive command reference for penetration testing tools including network scanning, exploitation, password cracking, and web application testing. Enable quick command lookup during security assessments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pentest-commands\\SKILL.md"
+    },
+    {
+      "id": "performance-engineer",
+      "name": "performance-engineer",
+      "description": "\"Expert performance engineer specializing in modern observability,\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\performance-engineer\\SKILL.md"
+    },
+    {
+      "id": "performance-optimizer",
+      "name": "performance-optimizer",
+      "description": "\"Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\performance-optimizer\\SKILL.md"
+    },
+    {
+      "id": "performance-profiling",
+      "name": "performance-profiling",
+      "description": "\"Performance profiling principles. Measurement, analysis, and optimization techniques.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\performance-profiling\\SKILL.md"
+    },
+    {
+      "id": "performance-testing-review-multi-agent-review",
+      "name": "performance-testing-review-multi-agent-review",
+      "description": "\"Use when working with performance testing review multi agent review\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\performance-testing-review-multi-agent-review\\SKILL.md"
+    },
+    {
+      "id": "personal-tool-builder",
+      "name": "personal-tool-builder",
+      "description": "Expert in building custom tools that solve your own problems first.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\personal-tool-builder\\SKILL.md"
+    },
+    {
+      "id": "phase-gated-debugging",
+      "name": "phase-gated-debugging",
+      "description": "\"Use when debugging any bug. Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed. Prevents premature fix attempts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\phase-gated-debugging\\SKILL.md"
+    },
+    {
+      "id": "php-pro",
+      "name": "php-pro",
+      "description": "'Write idiomatic PHP code with generators, iterators, SPL data",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\php-pro\\SKILL.md"
+    },
+    {
+      "id": "pitch-psychologist",
+      "name": "pitch-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\pitch-psychologist\\SKILL.md"
+    }
+  ]
+}

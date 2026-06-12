@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_1",
+  "skills": [
+    {
+      "id": "airflow-dag-patterns",
+      "name": "airflow-dag-patterns",
+      "description": "\"Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\airflow-dag-patterns\\SKILL.md"
+    },
+    {
+      "id": "aws-penetration-testing",
+      "name": "aws-penetration-testing",
+      "description": "\"Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aws-penetration-testing\\SKILL.md"
+    },
+    {
+      "id": "aws-serverless",
+      "name": "aws-serverless",
+      "description": "Specialized skill for building production-ready serverless",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aws-serverless\\SKILL.md"
+    },
+    {
+      "id": "aws-skills",
+      "name": "aws-skills",
+      "description": "\"AWS development with infrastructure automation and cloud architecture patterns\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aws-skills\\SKILL.md"
+    },
+    {
+      "id": "azd-deployment",
+      "name": "azd-deployment",
+      "description": "\"Deploy containerized frontend + backend applications to Azure Container Apps with remote builds, managed identity, and idempotent infrastructure.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azd-deployment\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-projects-dotnet",
+      "name": "azure-ai-projects-dotnet",
+      "description": "Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-projects-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-ai-projects-ts",
+      "name": "azure-ai-projects-ts",
+      "description": "\"High-level SDK for Azure AI Foundry projects with agents, connections, deployments, and evaluations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-ai-projects-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-cosmos-db-py",
+      "name": "azure-cosmos-db-py",
+      "description": "\"Build production-grade Azure Cosmos DB NoSQL services following clean code, security best practices, and TDD principles.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-cosmos-db-py\\SKILL.md"
+    },
+    {
+      "id": "azure-eventgrid-dotnet",
+      "name": "azure-eventgrid-dotnet",
+      "description": "Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messaging, CloudEvents, and EventGridEvents.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventgrid-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-eventhub-dotnet",
+      "name": "azure-eventhub-dotnet",
+      "description": "Azure Event Hubs SDK for .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventhub-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-eventhub-ts",
+      "name": "azure-eventhub-ts",
+      "description": "\"High-throughput event streaming and real-time data ingestion.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventhub-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-identity-dotnet",
+      "name": "azure-identity-dotnet",
+      "description": "Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-identity-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-microsoft-playwright-testing-ts",
+      "name": "azure-microsoft-playwright-testing-ts",
+      "description": "\"Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-microsoft-playwright-testing-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-monitor-opentelemetry-ts",
+      "name": "azure-monitor-opentelemetry-ts",
+      "description": "\"Auto-instrument Node.js applications with distributed tracing, metrics, and logs.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-monitor-opentelemetry-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-mysql-dotnet",
+      "name": "azure-resource-manager-mysql-dotnet",
+      "description": "Azure MySQL Flexible Server SDK for .NET. Database management for MySQL Flexible Server deployments.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-mysql-dotnet\\SKILL.md"
+    },
+    {
+      "id": "cicd-automation-workflow-automate",
+      "name": "cicd-automation-workflow-automate",
+      "description": "\"You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design and implement automation that reduces manual work, improves consistency, and accelerates delivery while maintaining quality and security.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cicd-automation-workflow-automate\\SKILL.md"
+    },
+    {
+      "id": "closed-loop-delivery",
+      "name": "closed-loop-delivery",
+      "description": "Use when a coding task must be completed against explicit acceptance criteria with minimal user re-intervention across implementation, review feedback, deployment, and runtime verification.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\closed-loop-delivery\\SKILL.md"
+    },
+    {
+      "id": "cloud-architect",
+      "name": "cloud-architect",
+      "description": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cloud-architect\\SKILL.md"
+    },
+    {
+      "id": "cloud-devops",
+      "name": "cloud-devops",
+      "description": "\"Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cloud-devops\\SKILL.md"
+    },
+    {
+      "id": "cloud-penetration-testing",
+      "name": "cloud-penetration-testing",
+      "description": "\"Conduct comprehensive security assessments of cloud infrastructure across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cloud-penetration-testing\\SKILL.md"
+    },
+    {
+      "id": "cost-optimization",
+      "name": "cost-optimization",
+      "description": "\"Strategies and patterns for optimizing cloud costs across AWS, Azure, and GCP.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cost-optimization\\SKILL.md"
+    },
+    {
+      "id": "data-engineer",
+      "name": "data-engineer",
+      "description": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-engineer\\SKILL.md"
+    },
+    {
+      "id": "data-engineering-data-pipeline",
+      "name": "data-engineering-data-pipeline",
+      "description": "\"You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-engineering-data-pipeline\\SKILL.md"
+    },
+    {
+      "id": "database-admin",
+      "name": "database-admin",
+      "description": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-admin\\SKILL.md"
+    },
+    {
+      "id": "database-cloud-optimization-cost-optimize",
+      "name": "database-cloud-optimization-cost-optimize",
+      "description": "\"You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and implement cost-effective architectures across AWS, Azure, and GCP.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database-cloud-optimization-cost-optimize\\SKILL.md"
+    },
+    {
+      "id": "deployment-engineer",
+      "name": "deployment-engineer",
+      "description": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\deployment-engineer\\SKILL.md"
+    },
+    {
+      "id": "deployment-pipeline-design",
+      "name": "deployment-pipeline-design",
+      "description": "\"Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\deployment-pipeline-design\\SKILL.md"
+    },
+    {
+      "id": "deployment-procedures",
+      "name": "deployment-procedures",
+      "description": "\"Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\deployment-procedures\\SKILL.md"
+    },
+    {
+      "id": "deployment-validation-config-validate",
+      "name": "deployment-validation-config-validate",
+      "description": "\"You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations. Create comprehensive validation schemas, implement configurat\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\deployment-validation-config-validate\\SKILL.md"
+    },
+    {
+      "id": "devops-deploy",
+      "name": "devops-deploy",
+      "description": "\"DevOps e deploy de aplicacoes \u2014 Docker, CI/CD com GitHub Actions, AWS Lambda, SAM, Terraform, infraestrutura como codigo e monitoramento.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\devops-deploy\\SKILL.md"
+    }
+  ]
+}

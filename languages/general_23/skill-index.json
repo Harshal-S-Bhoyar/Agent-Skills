@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_23",
+  "skills": [
+    {
+      "id": "macos-spm-app-packaging",
+      "name": "macos-spm-app-packaging",
+      "description": "Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\macos-spm-app-packaging\\SKILL.md"
+    },
+    {
+      "id": "magic-animator",
+      "name": "magic-animator",
+      "description": "AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\magic-animator\\SKILL.md"
+    },
+    {
+      "id": "mailchimp-automation",
+      "name": "mailchimp-automation",
+      "description": "\"Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mailchimp-automation\\SKILL.md"
+    },
+    {
+      "id": "make-automation",
+      "name": "make-automation",
+      "description": "\"Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\make-automation\\SKILL.md"
+    },
+    {
+      "id": "makepad-basics",
+      "name": "makepad-basics",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-basics\\SKILL.md"
+    },
+    {
+      "id": "makepad-event-action",
+      "name": "makepad-event-action",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-event-action\\SKILL.md"
+    },
+    {
+      "id": "makepad-reference",
+      "name": "makepad-reference",
+      "description": "\"This category provides reference materials for debugging, code quality, and advanced layout patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-reference\\SKILL.md"
+    },
+    {
+      "id": "makepad-skills",
+      "name": "makepad-skills",
+      "description": "\"Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-skills\\SKILL.md"
+    },
+    {
+      "id": "makepad-widgets",
+      "name": "makepad-widgets",
+      "description": "\"Version: makepad-widgets (dev branch) | Last Updated: 2026-01-19 > > Check for updates: https://crates.io/crates/makepad-widgets\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\makepad-widgets\\SKILL.md"
+    },
+    {
+      "id": "malware-analyst",
+      "name": "malware-analyst",
+      "description": "Expert malware analyst specializing in defensive malware research, threat intelligence, and incident response. Masters sandbox analysis, behavioral analysis, and malware family identification.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\malware-analyst\\SKILL.md"
+    },
+    {
+      "id": "manifest",
+      "name": "manifest",
+      "description": "\"Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\manifest\\SKILL.md"
+    },
+    {
+      "id": "market-sizing-analysis",
+      "name": "market-sizing-analysis",
+      "description": "\"Comprehensive market sizing methodologies for calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for startup opportunities.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\market-sizing-analysis\\SKILL.md"
+    },
+    {
+      "id": "marketing-ideas",
+      "name": "marketing-ideas",
+      "description": "\"Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\marketing-ideas\\SKILL.md"
+    },
+    {
+      "id": "marketing-psychology",
+      "name": "marketing-psychology",
+      "description": "\"Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\marketing-psychology\\SKILL.md"
+    },
+    {
+      "id": "matematico-tao",
+      "name": "matematico-tao",
+      "description": "\"Matem\u00e1tico ultra-avan\u00e7ado inspirado em Terence Tao. An\u00e1lise rigorosa de c\u00f3digo e arquitetura com teoria matem\u00e1tica profunda: teoria da informa\u00e7\u00e3o, teoria dos grafos, complexidade computacional, \u00e1lgebra linear, an\u00e1lise estoc\u00e1stica, teoria das categorias, probabilidade bayesiana e l\u00f3gica formal.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\matematico-tao\\SKILL.md"
+    },
+    {
+      "id": "matplotlib",
+      "name": "matplotlib",
+      "description": "\"Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\matplotlib\\SKILL.md"
+    },
+    {
+      "id": "mcp-builder",
+      "name": "mcp-builder",
+      "description": "\"Create MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. The quality of an MCP server is measured by how well it enables LLMs to accomplish real-world tasks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mcp-builder\\SKILL.md"
+    },
+    {
+      "id": "mcp-builder-ms",
+      "name": "mcp-builder-ms",
+      "description": "\"Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mcp-builder-ms\\SKILL.md"
+    },
+    {
+      "id": "memory-forensics",
+      "name": "memory-forensics",
+      "description": "\"Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\memory-forensics\\SKILL.md"
+    },
+    {
+      "id": "memory-safety-patterns",
+      "name": "memory-safety-patterns",
+      "description": "\"Cross-language patterns for memory-safe programming including RAII, ownership, smart pointers, and resource management.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\memory-safety-patterns\\SKILL.md"
+    },
+    {
+      "id": "mermaid-expert",
+      "name": "mermaid-expert",
+      "description": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mermaid-expert\\SKILL.md"
+    },
+    {
+      "id": "metasploit-framework",
+      "name": "metasploit-framework",
+      "description": "\"\u26a0\ufe0f AUTHORIZED USE ONLY > This skill is for educational purposes or authorized security assessments only. > You must have explicit, written permission from the system owner before using this tool. > Misuse of this tool is illegal and strictly prohibited.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\metasploit-framework\\SKILL.md"
+    },
+    {
+      "id": "micro-saas-launcher",
+      "name": "micro-saas-launcher",
+      "description": "Expert in launching small, focused SaaS products fast - the indie",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\micro-saas-launcher\\SKILL.md"
+    },
+    {
+      "id": "microservices-patterns",
+      "name": "microservices-patterns",
+      "description": "\"Master microservices architecture patterns including service boundaries, inter-service communication, data management, and resilience patterns for building distributed systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\microservices-patterns\\SKILL.md"
+    },
+    {
+      "id": "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+      "name": "microsoft-azure-webjobs-extensions-authentication-events-dotnet",
+      "description": "Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\microsoft-azure-webjobs-extensions-authentication-events-dotnet\\SKILL.md"
+    },
+    {
+      "id": "microsoft-teams-automation",
+      "name": "microsoft-teams-automation",
+      "description": "\"Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\microsoft-teams-automation\\SKILL.md"
+    },
+    {
+      "id": "minecraft-bukkit-pro",
+      "name": "minecraft-bukkit-pro",
+      "description": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\minecraft-bukkit-pro\\SKILL.md"
+    },
+    {
+      "id": "miro-automation",
+      "name": "miro-automation",
+      "description": "\"Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\miro-automation\\SKILL.md"
+    },
+    {
+      "id": "mixpanel-automation",
+      "name": "mixpanel-automation",
+      "description": "\"Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\mixpanel-automation\\SKILL.md"
+    },
+    {
+      "id": "ml-engineer",
+      "name": "ml-engineer",
+      "description": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ml-engineer\\SKILL.md"
+    }
+  ]
+}

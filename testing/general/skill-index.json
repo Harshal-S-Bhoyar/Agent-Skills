@@ -1,0 +1,89 @@
+{
+  "sub_category": "general",
+  "skills": [
+    {
+      "id": "api-testing-observability-api-mock",
+      "name": "api-testing-observability-api-mock",
+      "description": "\"You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\api-testing-observability-api-mock\\SKILL.md"
+    },
+    {
+      "id": "azure-resource-manager-playwright-dotnet",
+      "name": "azure-resource-manager-playwright-dotnet",
+      "description": "Azure Resource Manager SDK for Microsoft Playwright Testing in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-resource-manager-playwright-dotnet\\SKILL.md"
+    },
+    {
+      "id": "data-engineering-data-driven-feature",
+      "name": "data-engineering-data-driven-feature",
+      "description": "\"Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\data-engineering-data-driven-feature\\SKILL.md"
+    },
+    {
+      "id": "debugger",
+      "name": "debugger",
+      "description": "'Debugging specialist for errors, test failures, and unexpected",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\debugger\\SKILL.md"
+    },
+    {
+      "id": "e2e-testing",
+      "name": "e2e-testing",
+      "description": "\"End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\e2e-testing\\SKILL.md"
+    },
+    {
+      "id": "framework-migration-deps-upgrade",
+      "name": "framework-migration-deps-upgrade",
+      "description": "\"You are a dependency management expert specializing in safe, incremental upgrades of project dependencies. Plan and execute dependency updates with minimal risk, proper testing, and clear migration pa\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\framework-migration-deps-upgrade\\SKILL.md"
+    },
+    {
+      "id": "odoo-automated-tests",
+      "name": "odoo-automated-tests",
+      "description": "\"Write and run Odoo automated tests using TransactionCase, HttpCase, and browser tour tests. Covers test data setup, mocking, and CI integration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\odoo-automated-tests\\SKILL.md"
+    },
+    {
+      "id": "performance-testing-review-ai-review",
+      "name": "performance-testing-review-ai-review",
+      "description": "\"You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\performance-testing-review-ai-review\\SKILL.md"
+    },
+    {
+      "id": "playwright-skill",
+      "name": "playwright-skill",
+      "description": "\"IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific). Before executing any commands, determine the skill directory based on where you loaded this SKILL.md file, and use that path in all commands below.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\playwright-skill\\SKILL.md"
+    },
+    {
+      "id": "ruby-pro",
+      "name": "ruby-pro",
+      "description": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ruby-pro\\SKILL.md"
+    },
+    {
+      "id": "semgrep-rule-variant-creator",
+      "name": "semgrep-rule-variant-creator",
+      "description": "Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified target languages. Takes an existing rule and target languages as input, produces independent rule+test directories for each language.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\semgrep-rule-variant-creator\\SKILL.md"
+    },
+    {
+      "id": "tdd-orchestrator",
+      "name": "tdd-orchestrator",
+      "description": "Master TDD orchestrator specializing in red-green-refactor discipline, multi-agent workflow coordination, and comprehensive test-driven development practices.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tdd-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "testing-patterns",
+      "name": "testing-patterns",
+      "description": "\"Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\testing-patterns\\SKILL.md"
+    },
+    {
+      "id": "unit-testing-test-generate",
+      "name": "unit-testing-test-generate",
+      "description": "\"Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\unit-testing-test-generate\\SKILL.md"
+    }
+  ]
+}

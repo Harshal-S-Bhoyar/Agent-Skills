@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_30",
+  "skills": [
+    {
+      "id": "search-specialist",
+      "name": "search-specialist",
+      "description": "\"Expert web researcher using advanced search techniques and\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\search-specialist\\SKILL.md"
+    },
+    {
+      "id": "security-audit",
+      "name": "security-audit",
+      "description": "\"Comprehensive security auditing workflow covering web application testing, API security, penetration testing, vulnerability scanning, and security hardening.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-audit\\SKILL.md"
+    },
+    {
+      "id": "security-auditor",
+      "name": "security-auditor",
+      "description": "Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-auditor\\SKILL.md"
+    },
+    {
+      "id": "security-bluebook-builder",
+      "name": "security-bluebook-builder",
+      "description": "\"Build a minimal but real security policy for sensitive apps. The output is a single, coherent Blue Book document using MUST/SHOULD/CAN language, with explicit assumptions, scope, and security gates.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-bluebook-builder\\SKILL.md"
+    },
+    {
+      "id": "security-compliance-compliance-check",
+      "name": "security-compliance-compliance-check",
+      "description": "\"You are a compliance expert specializing in regulatory requirements for software systems including GDPR, HIPAA, SOC2, PCI-DSS, and other industry standards. Perform comprehensive compliance audits and provide implementation guidance for achieving and maintaining compliance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-compliance-compliance-check\\SKILL.md"
+    },
+    {
+      "id": "security-requirement-extraction",
+      "name": "security-requirement-extraction",
+      "description": "\"Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-requirement-extraction\\SKILL.md"
+    },
+    {
+      "id": "security-scanning-security-dependencies",
+      "name": "security-scanning-security-dependencies",
+      "description": "\"You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and supply chain security. Scan project dependencies across multiple ecosystems to identify vulnerabilities, assess risks, and provide automated remediation strategies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-scanning-security-dependencies\\SKILL.md"
+    },
+    {
+      "id": "security-scanning-security-hardening",
+      "name": "security-scanning-security-hardening",
+      "description": "\"Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-scanning-security-hardening\\SKILL.md"
+    },
+    {
+      "id": "security-scanning-security-sast",
+      "name": "security-scanning-security-sast",
+      "description": "'Static Application Security Testing (SAST) for code vulnerability",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\security-scanning-security-sast\\SKILL.md"
+    },
+    {
+      "id": "segment-automation",
+      "name": "segment-automation",
+      "description": "\"Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\segment-automation\\SKILL.md"
+    },
+    {
+      "id": "segment-cdp",
+      "name": "segment-cdp",
+      "description": "Expert patterns for Segment Customer Data Platform including",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\segment-cdp\\SKILL.md"
+    },
+    {
+      "id": "semgrep-rule-creator",
+      "name": "semgrep-rule-creator",
+      "description": "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns. Use when writing Semgrep rules or building custom static analysis detections.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\semgrep-rule-creator\\SKILL.md"
+    },
+    {
+      "id": "sendgrid-automation",
+      "name": "sendgrid-automation",
+      "description": "\"Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sendgrid-automation\\SKILL.md"
+    },
+    {
+      "id": "senior-architect",
+      "name": "senior-architect",
+      "description": "\"Complete toolkit for senior architect with modern tools and best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\senior-architect\\SKILL.md"
+    },
+    {
+      "id": "senior-fullstack",
+      "name": "senior-fullstack",
+      "description": "\"Complete toolkit for senior fullstack with modern tools and best practices.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\senior-fullstack\\SKILL.md"
+    },
+    {
+      "id": "sentry-automation",
+      "name": "sentry-automation",
+      "description": "\"Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sentry-automation\\SKILL.md"
+    },
+    {
+      "id": "seo",
+      "name": "seo",
+      "description": "\"Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-content-cluster",
+      "name": "seo-aeo-content-cluster",
+      "description": "\"Builds a topical authority map with a pillar page, prioritised cluster articles, content types, internal link map, and content gap analysis. Activate when the user wants to build a content cluster, topic map, or content strategy.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-content-cluster\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-content-quality-auditor",
+      "name": "seo-aeo-content-quality-auditor",
+      "description": "\"Audits content for SEO and AEO performance with scored reports, severity-ranked fix lists, and projected scores after fixes. Activate when the user wants to audit, review, or score content for SEO or AEO compliance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-content-quality-auditor\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-internal-linking",
+      "name": "seo-aeo-internal-linking",
+      "description": "\"Maps internal link opportunities between pages with anchor text, placement instructions, orphan page detection, and cannibalization checks. Activate when the user wants to build an internal linking strategy or find link opportunities.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-internal-linking\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-keyword-research",
+      "name": "seo-aeo-keyword-research",
+      "description": "\"Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms, or build a keyword strategy.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-keyword-research\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-landing-page-writer",
+      "name": "seo-aeo-landing-page-writer",
+      "description": "\"Writes complete, structured landing pages optimized for SEO ranking, AEO citation, and visitor conversion. Activate when the user wants to write or generate a landing page for a product, service, or offer.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-landing-page-writer\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-meta-description-generator",
+      "name": "seo-aeo-meta-description-generator",
+      "description": "\"Writes 3 title tag variants and 3 meta description variants per page with SERP preview, OG tags, and Twitter Card tags. Activate when the user wants to write meta tags, title tags, or social sharing tags for any page.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-meta-description-generator\\SKILL.md"
+    },
+    {
+      "id": "seo-aeo-schema-generator",
+      "name": "seo-aeo-schema-generator",
+      "description": "\"Generates valid JSON-LD structured data for 10 schema types with rich result eligibility validation and implementation-ready script blocks. Activate when the user wants to generate schema markup, JSON-LD, or structured data for any page.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-aeo-schema-generator\\SKILL.md"
+    },
+    {
+      "id": "seo-authority-builder",
+      "name": "seo-authority-builder",
+      "description": "'Analyzes content for E-E-A-T signals and suggests improvements to",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-authority-builder\\SKILL.md"
+    },
+    {
+      "id": "seo-cannibalization-detector",
+      "name": "seo-cannibalization-detector",
+      "description": "Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-cannibalization-detector\\SKILL.md"
+    },
+    {
+      "id": "seo-competitor-pages",
+      "name": "seo-competitor-pages",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-competitor-pages\\SKILL.md"
+    },
+    {
+      "id": "seo-content",
+      "name": "seo-content",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-content\\SKILL.md"
+    },
+    {
+      "id": "seo-content-auditor",
+      "name": "seo-content-auditor",
+      "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-content-auditor\\SKILL.md"
+    },
+    {
+      "id": "seo-content-planner",
+      "name": "seo-content-planner",
+      "description": "'Creates comprehensive content outlines and topic clusters for SEO.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-content-planner\\SKILL.md"
+    }
+  ]
+}

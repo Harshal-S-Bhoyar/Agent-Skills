@@ -1,0 +1,17 @@
+{
+  "sub_category": "data_observability",
+  "skills": [
+    {
+      "id": "monte-carlo-push-ingestion",
+      "name": "monte-carlo-push-ingestion",
+      "description": "\"Expert guide for pushing metadata, lineage, and query logs to Monte Carlo from any data warehouse.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\monte-carlo-push-ingestion\\SKILL.md"
+    },
+    {
+      "id": "monte-carlo-validation-notebook",
+      "name": "monte-carlo-validation-notebook",
+      "description": "\"Generates SQL validation notebooks for dbt PR changes with before/after comparison queries.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\monte-carlo-validation-notebook\\SKILL.md"
+    }
+  ]
+}

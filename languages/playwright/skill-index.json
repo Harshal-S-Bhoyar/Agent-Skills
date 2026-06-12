@@ -1,0 +1,11 @@
+{
+  "sub_category": "playwright",
+  "skills": [
+    {
+      "id": "playwright-java",
+      "name": "playwright-java",
+      "description": "\"Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\playwright-java\\SKILL.md"
+    }
+  ]
+}

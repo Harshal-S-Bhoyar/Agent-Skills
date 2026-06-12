@@ -1,0 +1,17 @@
+{
+  "sub_category": "mcp",
+  "skills": [
+    {
+      "id": "clarvia-aeo-check",
+      "name": "clarvia-aeo-check",
+      "description": "\"Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Search 15,400+ indexed tools before adding them to your workflow.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\clarvia-aeo-check\\SKILL.md"
+    },
+    {
+      "id": "global-chat-agent-discovery",
+      "name": "global-chat-agent-discovery",
+      "description": "\"Discover and search 18K+ MCP servers and AI agents across 6+ registries using Global Chat's cross-protocol directory and MCP server.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\global-chat-agent-discovery\\SKILL.md"
+    }
+  ]
+}

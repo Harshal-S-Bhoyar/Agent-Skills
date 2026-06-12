@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_13",
+  "skills": [
+    {
+      "id": "documentation-templates",
+      "name": "documentation-templates",
+      "description": "\"Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\documentation-templates\\SKILL.md"
+    },
+    {
+      "id": "docusign-automation",
+      "name": "docusign-automation",
+      "description": "\"Automate DocuSign tasks via Rube MCP (Composio): templates, envelopes, signatures, document management. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\docusign-automation\\SKILL.md"
+    },
+    {
+      "id": "docx-official",
+      "name": "docx-official",
+      "description": "\"A user may ask you to create, edit, or analyze the contents of a .docx file. A .docx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\docx-official\\SKILL.md"
+    },
+    {
+      "id": "domain-driven-design",
+      "name": "domain-driven-design",
+      "description": "\"Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\domain-driven-design\\SKILL.md"
+    },
+    {
+      "id": "dotnet-architect",
+      "name": "dotnet-architect",
+      "description": "Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dotnet-architect\\SKILL.md"
+    },
+    {
+      "id": "dotnet-backend",
+      "name": "dotnet-backend",
+      "description": "\"Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dotnet-backend\\SKILL.md"
+    },
+    {
+      "id": "dotnet-backend-patterns",
+      "name": "dotnet-backend-patterns",
+      "description": "\"Master C#/.NET patterns for building production-grade APIs, MCP servers, and enterprise backends with modern best practices (2024/2025).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dotnet-backend-patterns\\SKILL.md"
+    },
+    {
+      "id": "drizzle-orm-expert",
+      "name": "drizzle-orm-expert",
+      "description": "\"Expert in Drizzle ORM for TypeScript \u2014 schema design, relational queries, migrations, and serverless database integration. Use when building type-safe database layers with Drizzle.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\drizzle-orm-expert\\SKILL.md"
+    },
+    {
+      "id": "dropbox-automation",
+      "name": "dropbox-automation",
+      "description": "\"Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dropbox-automation\\SKILL.md"
+    },
+    {
+      "id": "dwarf-expert",
+      "name": "dwarf-expert",
+      "description": "Provides expertise for analyzing DWARF debug files and understanding the DWARF debug format/standard (v3-v5). Triggers when understanding DWARF information, interacting with DWARF files, answering DWARF-related questions, or working with code that parses DWARF data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dwarf-expert\\SKILL.md"
+    },
+    {
+      "id": "dx-optimizer",
+      "name": "dx-optimizer",
+      "description": "Developer Experience specialist. Improves tooling, setup, and workflows. Use PROACTIVELY when setting up new projects, after team feedback, or when development friction is noticed.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\dx-optimizer\\SKILL.md"
+    },
+    {
+      "id": "e2e-testing-patterns",
+      "name": "e2e-testing-patterns",
+      "description": "\"Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\e2e-testing-patterns\\SKILL.md"
+    },
+    {
+      "id": "earllm-build",
+      "name": "earllm-build",
+      "description": "\"Build, maintain, and extend the EarLLM One Android project \u2014 a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\earllm-build\\SKILL.md"
+    },
+    {
+      "id": "electron-development",
+      "name": "electron-development",
+      "description": "\"Master Electron desktop app development with secure IPC, contextIsolation, preload scripts, multi-process architecture, electron-builder packaging, code signing, and auto-update.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\electron-development\\SKILL.md"
+    },
+    {
+      "id": "elixir-pro",
+      "name": "elixir-pro",
+      "description": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\elixir-pro\\SKILL.md"
+    },
+    {
+      "id": "email-sequence",
+      "name": "email-sequence",
+      "description": "\"You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people toward conversion.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\email-sequence\\SKILL.md"
+    },
+    {
+      "id": "email-systems",
+      "name": "email-systems",
+      "description": "Email has the highest ROI of any marketing channel. $36 for every",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\email-systems\\SKILL.md"
+    },
+    {
+      "id": "emblemai-crypto-wallet",
+      "name": "emblemai-crypto-wallet",
+      "description": "\"Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API. Balance checks, token swaps, portfolio analysis, and transaction execution for Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\emblemai-crypto-wallet\\SKILL.md"
+    },
+    {
+      "id": "emergency-card",
+      "name": "emergency-card",
+      "description": "\u751f\u6210\u7d27\u6025\u60c5\u51b5\u4e0b\u5feb\u901f\u8bbf\u95ee\u7684\u533b\u7597\u4fe1\u606f\u6458\u8981\u5361\u7247\u3002\u5f53\u7528\u6237\u9700\u8981\u65c5\u884c\u3001\u5c31\u8bca\u51c6\u5907\u3001\u7d27\u6025\u60c5\u51b5\u6216\u8be2\u95ee\"\u7d27\u6025\u4fe1\u606f\"\u3001\"\u533b\u7597\u5361\u7247\"\u3001\"\u6025\u6551\u4fe1\u606f\"\u65f6\u4f7f\u7528\u6b64\u6280\u80fd\u3002\u63d0\u53d6\u5173\u952e\u4fe1\u606f\uff08\u8fc7\u654f\u3001\u7528\u836f\u3001\u6025\u75c7\u3001\u690d\u5165\u7269\uff09\uff0c\u652f\u6301\u591a\u683c\u5f0f\u8f93\u51fa\uff08JSON\u3001\u6587\u672c\u3001\u4e8c\u7ef4\u7801\uff09\uff0c\u7528\u4e8e\u6025\u6551\u6216\u5feb\u901f\u5c31\u533b\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\emergency-card\\SKILL.md"
+    },
+    {
+      "id": "emotional-arc-designer",
+      "name": "emotional-arc-designer",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\emotional-arc-designer\\SKILL.md"
+    },
+    {
+      "id": "employment-contract-templates",
+      "name": "employment-contract-templates",
+      "description": "\"Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\employment-contract-templates\\SKILL.md"
+    },
+    {
+      "id": "energy-procurement",
+      "name": "energy-procurement",
+      "description": "Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy cost management.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\energy-procurement\\SKILL.md"
+    },
+    {
+      "id": "enhance-prompt",
+      "name": "enhance-prompt",
+      "description": "Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures output for better generation results.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\enhance-prompt\\SKILL.md"
+    },
+    {
+      "id": "environment-setup-guide",
+      "name": "environment-setup-guide",
+      "description": "\"Guide developers through setting up development environments with proper tools, dependencies, and configurations\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\environment-setup-guide\\SKILL.md"
+    },
+    {
+      "id": "error-debugging-error-analysis",
+      "name": "error-debugging-error-analysis",
+      "description": "\"You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-debugging-error-analysis\\SKILL.md"
+    },
+    {
+      "id": "error-debugging-error-trace",
+      "name": "error-debugging-error-trace",
+      "description": "\"You are an error tracking and observability expert specializing in implementing comprehensive error monitoring solutions. Set up error tracking systems, configure alerts, implement structured logging, and ensure teams can quickly identify and resolve production issues.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-debugging-error-trace\\SKILL.md"
+    },
+    {
+      "id": "error-detective",
+      "name": "error-detective",
+      "description": "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-detective\\SKILL.md"
+    },
+    {
+      "id": "error-diagnostics-error-analysis",
+      "name": "error-diagnostics-error-analysis",
+      "description": "\"You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-diagnostics-error-analysis\\SKILL.md"
+    },
+    {
+      "id": "error-diagnostics-error-trace",
+      "name": "error-diagnostics-error-trace",
+      "description": "\"You are an error tracking and observability expert specializing in implementing comprehensive error monitoring solutions. Set up error tracking systems, configure alerts, implement structured logging,\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-diagnostics-error-trace\\SKILL.md"
+    },
+    {
+      "id": "error-diagnostics-smart-debug",
+      "name": "error-diagnostics-smart-debug",
+      "description": "\"Use when working with error diagnostics smart debug\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\error-diagnostics-smart-debug\\SKILL.md"
+    }
+  ]
+}

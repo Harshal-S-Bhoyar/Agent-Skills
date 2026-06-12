@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_32",
+  "skills": [
+    {
+      "id": "skill-improver",
+      "name": "skill-improver",
+      "description": "\"Iteratively improve a Claude Code skill using the skill-reviewer agent until it meets quality standards. Use when improving a skill with multiple quality issues, iterating on a new skill until it meets standards, or automated fix-review cycles instead of manual editing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-improver\\SKILL.md"
+    },
+    {
+      "id": "skill-installer",
+      "name": "skill-installer",
+      "description": "Instala, valida, registra e verifica novas skills no ecossistema. 10 checks de seguranca, copia, registro no orchestrator e verificacao pos-instalacao.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-installer\\SKILL.md"
+    },
+    {
+      "id": "skill-optimizer",
+      "name": "skill-optimizer",
+      "description": "\"Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-optimizer\\SKILL.md"
+    },
+    {
+      "id": "skill-router",
+      "name": "skill-router",
+      "description": "\"Use when routing user tasks to the correct skill out of the entire library using a token-efficient 2-stage lookup.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-router\\SKILL.md"
+    },
+    {
+      "id": "skill-scanner",
+      "name": "skill-scanner",
+      "description": "\"Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-scanner\\SKILL.md"
+    },
+    {
+      "id": "skill-seekers",
+      "name": "skill-seekers",
+      "description": "\"-Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-seekers\\SKILL.md"
+    },
+    {
+      "id": "skill-sentinel",
+      "name": "skill-sentinel",
+      "description": "Auditoria e evolucao do ecossistema de skills. Qualidade de codigo, seguranca, custos, gaps, duplicacoes, dependencias e relatorios de saude.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-sentinel\\SKILL.md"
+    },
+    {
+      "id": "skill-writer",
+      "name": "skill-writer",
+      "description": "Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-writer\\SKILL.md"
+    },
+    {
+      "id": "skin-health-analyzer",
+      "name": "skin-health-analyzer",
+      "description": "Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skin-health-analyzer\\SKILL.md"
+    },
+    {
+      "id": "slack-automation",
+      "name": "slack-automation",
+      "description": "\"Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\slack-automation\\SKILL.md"
+    },
+    {
+      "id": "slack-bot-builder",
+      "name": "slack-bot-builder",
+      "description": "Build Slack apps using the Bolt framework across Python,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\slack-bot-builder\\SKILL.md"
+    },
+    {
+      "id": "slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "\"A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\slack-gif-creator\\SKILL.md"
+    },
+    {
+      "id": "slo-implementation",
+      "name": "slo-implementation",
+      "description": "\"Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\slo-implementation\\SKILL.md"
+    },
+    {
+      "id": "social-content",
+      "name": "social-content",
+      "description": "\"You are an expert social media strategist with direct access to a scheduling platform that publishes to all major social networks. Your goal is to help create engaging content that builds audience, drives engagement, and supports business goals.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\social-content\\SKILL.md"
+    },
+    {
+      "id": "social-orchestrator",
+      "name": "social-orchestrator",
+      "description": "\"Orquestrador unificado de canais sociais \u2014 coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por formato, agendamento sincronizado e gestao centralizada de campanhas em todos os canais simultaneamente.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\social-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "social-post-writer-seo",
+      "name": "social-post-writer-seo",
+      "description": "\"Social Media Strategist and Content Writer. Creates clear, engaging social media posts for Instagram, LinkedIn, and Facebook.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\social-post-writer-seo\\SKILL.md"
+    },
+    {
+      "id": "social-proof-architect",
+      "name": "social-proof-architect",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\social-proof-architect\\SKILL.md"
+    },
+    {
+      "id": "software-architecture",
+      "name": "software-architecture",
+      "description": "\"Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\software-architecture\\SKILL.md"
+    },
+    {
+      "id": "solidity-security",
+      "name": "solidity-security",
+      "description": "\"Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\solidity-security\\SKILL.md"
+    },
+    {
+      "id": "spark-optimization",
+      "name": "spark-optimization",
+      "description": "\"Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\spark-optimization\\SKILL.md"
+    },
+    {
+      "id": "spec-to-code-compliance",
+      "name": "spec-to-code-compliance",
+      "description": "Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\spec-to-code-compliance\\SKILL.md"
+    },
+    {
+      "id": "speckit-updater",
+      "name": "speckit-updater",
+      "description": "SpecKit Safe Update",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\speckit-updater\\SKILL.md"
+    },
+    {
+      "id": "speed",
+      "name": "speed",
+      "description": "Launch RSVP speed reader for text",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\speed\\SKILL.md"
+    },
+    {
+      "id": "spline-3d-integration",
+      "name": "spline-3d-integration",
+      "description": "\"Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\spline-3d-integration\\SKILL.md"
+    },
+    {
+      "id": "sql-injection-testing",
+      "name": "sql-injection-testing",
+      "description": "\"Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sanitization mechanisms.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sql-injection-testing\\SKILL.md"
+    },
+    {
+      "id": "sqlmap-database-pentesting",
+      "name": "sqlmap-database-pentesting",
+      "description": "\"Provide systematic methodologies for automated SQL injection detection and exploitation using SQLMap.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sqlmap-database-pentesting\\SKILL.md"
+    },
+    {
+      "id": "square-automation",
+      "name": "square-automation",
+      "description": "\"Automate Square tasks via Rube MCP (Composio): payments, orders, invoices, locations. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\square-automation\\SKILL.md"
+    },
+    {
+      "id": "sred-project-organizer",
+      "name": "sred-project-organizer",
+      "description": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sred-project-organizer\\SKILL.md"
+    },
+    {
+      "id": "sred-work-summary",
+      "name": "sred-work-summary",
+      "description": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sred-work-summary\\SKILL.md"
+    },
+    {
+      "id": "ssh-penetration-testing",
+      "name": "ssh-penetration-testing",
+      "description": "\"Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ssh-penetration-testing\\SKILL.md"
+    }
+  ]
+}

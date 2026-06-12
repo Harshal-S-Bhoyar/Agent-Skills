@@ -1,0 +1,174 @@
+{
+  "_comment": "Pre-seed registry for skills the orchestrator should always know about. Add entries here so new agents don't need a cold-start discovery cycle. The orchestrator still performs live discovery — this file only accelerates the first turn.",
+  "version": "2.0.0",
+  "baseline_skills": [
+    "prompt-engineering",
+    "prompt-library",
+    "prompt-lookup",
+    "agent-memory"
+  ],
+  "known_skills": [
+    {
+      "skill_id": "prompt-engineering",
+      "display_name": "Prompt Engineering",
+      "description": "Reformulates and clarifies user requests before routing. Always runs first.",
+      "tags": ["baseline", "prompt", "preprocessing"],
+      "keywords": ["prompt", "instruction", "clarify", "reformat", "intent"],
+      "priority": 90,
+      "dependencies": [],
+      "fallback": null
+    },
+    {
+      "skill_id": "prompt-library",
+      "display_name": "Prompt Library",
+      "description": "Checks the prompt template library for matching reusable prompts.",
+      "tags": ["baseline", "prompt", "template"],
+      "keywords": ["template", "library", "reuse", "pattern", "prompt"],
+      "priority": 85,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+    {
+      "skill_id": "prompt-lookup",
+      "display_name": "Prompt Lookup",
+      "description": "Retrieves context from conversation prompt history.",
+      "tags": ["baseline", "memory", "history"],
+      "keywords": ["history", "previous", "past", "lookup", "context"],
+      "priority": 80,
+      "dependencies": [],
+      "fallback": null
+    },
+    {
+      "skill_id": "agent-memory",
+      "display_name": "Agent Memory",
+      "description": "Loads relevant memories from prior sessions into current context.",
+      "tags": ["baseline", "memory", "context"],
+      "keywords": ["memory", "remember", "recall", "session", "persist"],
+      "priority": 85,
+      "dependencies": [],
+      "fallback": null
+    },
+    {
+      "skill_id": "ai-agents-architect",
+      "display_name": "AI Agents Architect",
+      "description": "Designs and architects AI agent systems, multi-agent pipelines, and agentic workflows.",
+      "tags": ["agents", "architecture", "design"],
+      "keywords": ["agent", "architect", "design", "pipeline", "workflow", "multi-agent", "agentic"],
+      "priority": 70,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+    {
+      "skill_id": "recallmax",
+      "display_name": "RecallMax",
+      "description": "Advanced memory retrieval, knowledge graph traversal, and long-term recall.",
+      "tags": ["memory", "recall", "knowledge-graph"],
+      "keywords": ["recall", "remember", "knowledge", "graph", "retrieve", "long-term"],
+      "priority": 65,
+      "dependencies": ["agent-memory"],
+      "fallback": null
+    },
+    {
+      "skill_id": "security-review",
+      "display_name": "Security Review",
+      "description": "Performs security audits, vulnerability assessments, and threat modeling on code or systems.",
+      "tags": ["security", "audit", "code"],
+      "keywords": ["security", "audit", "vulnerability", "threat", "review", "CVE", "penetration", "hardening"],
+      "priority": 70,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+    {
+      "skill_id": "gdb-cli",
+      "display_name": "GDB CLI",
+      "description": "Debugging assistance using GDB, breakpoints, stack traces, and memory inspection.",
+      "tags": ["debugging", "gdb", "cli", "c", "cpp"],
+      "keywords": ["gdb", "debug", "breakpoint", "stack", "trace", "memory", "segfault", "crash"],
+      "priority": 60,
+      "dependencies": [],
+      "fallback": null
+    },
+    {
+      "skill_id": "skill-creator-ms",
+      "display_name": "Skill Creator (Master)",
+      "description": "Creates new skills from scratch, writes SKILL.md, registers them in the SRI.",
+      "tags": ["meta", "skill-creation", "orchestrator"],
+      "keywords": ["create skill", "new skill", "add skill", "build skill", "skill creator"],
+      "priority": 75,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+    {
+      "skill_id": "subagent-orchestrator",
+      "display_name": "Subagent Orchestrator",
+      "description": "Spawns and coordinates subagents for parallelized or specialized task execution.",
+      "tags": ["agents", "orchestration", "parallel"],
+      "keywords": ["subagent", "orchestrate", "coordinate", "parallel", "spawn", "delegate"],
+      "priority": 65,
+      "dependencies": ["ai-agents-architect"],
+      "fallback": null
+    },
+    {
+      "skill_id": "agent-memory-mcp",
+      "display_name": "Agent Memory MCP",
+      "description": "Integrates agent memory with MCP (Model Context Protocol) servers for persistent storage.",
+      "tags": ["memory", "mcp", "agents"],
+      "keywords": ["mcp", "model context protocol", "persistent memory", "memory server", "context server"],
+      "priority": 65,
+      "dependencies": ["agent-memory"],
+      "fallback": null
+    },
+    {
+      "skill_id": "mesh-memory",
+      "display_name": "Mesh Memory",
+      "description": "Distributed mesh-based memory system for multi-agent knowledge sharing.",
+      "tags": ["memory", "mesh", "distributed"],
+      "keywords": ["mesh", "distributed memory", "shared memory", "multi-agent memory", "knowledge mesh"],
+      "priority": 60,
+      "dependencies": ["agent-memory", "recallmax"],
+      "fallback": null
+    },
+    {
+      "skill_id": "agent-tool-builder",
+      "display_name": "Agent Tool Builder",
+      "description": "Builds, registers, and tests custom tools for AI agents.",
+      "tags": ["tools", "agents", "builder"],
+      "keywords": ["tool", "build tool", "custom tool", "function", "plugin", "agent tool"],
+      "priority": 65,
+      "dependencies": ["ai-agents-architect"],
+      "fallback": null
+    },
+    {
+      "skill_id": "andrej-karpathy",
+      "display_name": "Andrej Karpathy Mode",
+      "description": "Deep technical ML/AI explanations in the style of first-principles pedagogy.",
+      "tags": ["ml", "ai", "pedagogy", "deep-learning"],
+      "keywords": ["neural network", "backprop", "gradient", "transformer", "llm", "training", "karpathy", "first principles"],
+      "priority": 60,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+    {
+      "skill_id": "caveman",
+      "display_name": "Caveman",
+      "description": "Simplifies complex technical concepts for non-technical audiences using plain language.",
+      "tags": ["explanation", "simplification", "communication"],
+      "keywords": ["simple", "explain", "beginner", "non-technical", "plain language", "easy", "layman"],
+      "priority": 55,
+      "dependencies": ["prompt-engineering"],
+      "fallback": null
+    },
+
+  ],
+  "match_thresholds": {
+    "HIGH_CONFIDENCE": 15,
+    "LOW_CONFIDENCE": 5,
+    "NO_MATCH": 0
+  },
+  "scoring_weights": {
+    "keyword_match": 1,
+    "tag_bonus": 10,
+    "explicit_mention_bonus": 100,
+    "priority_multiplier_base": 50
+  }
+}

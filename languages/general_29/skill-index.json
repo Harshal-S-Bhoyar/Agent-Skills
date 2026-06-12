@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_29",
+  "skills": [
+    {
+      "id": "render-automation",
+      "name": "render-automation",
+      "description": "\"Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\render-automation\\SKILL.md"
+    },
+    {
+      "id": "requesting-code-review",
+      "name": "requesting-code-review",
+      "description": "\"Use when completing tasks, implementing major features, or before merging to verify work meets requirements\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\requesting-code-review\\SKILL.md"
+    },
+    {
+      "id": "returns-reverse-logistics",
+      "name": "returns-reverse-logistics",
+      "description": "Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\returns-reverse-logistics\\SKILL.md"
+    },
+    {
+      "id": "reverse-engineer",
+      "name": "reverse-engineer",
+      "description": "Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and modern RE toolchains.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\reverse-engineer\\SKILL.md"
+    },
+    {
+      "id": "revops",
+      "name": "revops",
+      "description": "\"Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\revops\\SKILL.md"
+    },
+    {
+      "id": "risk-manager",
+      "name": "risk-manager",
+      "description": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\risk-manager\\SKILL.md"
+    },
+    {
+      "id": "risk-metrics-calculation",
+      "name": "risk-metrics-calculation",
+      "description": "\"Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\risk-metrics-calculation\\SKILL.md"
+    },
+    {
+      "id": "robius-app-architecture",
+      "name": "robius-app-architecture",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\robius-app-architecture\\SKILL.md"
+    },
+    {
+      "id": "robius-event-action",
+      "name": "robius-event-action",
+      "description": "|",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\robius-event-action\\SKILL.md"
+    },
+    {
+      "id": "rust-async-patterns",
+      "name": "rust-async-patterns",
+      "description": "\"Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rust-async-patterns\\SKILL.md"
+    },
+    {
+      "id": "rust-pro",
+      "name": "rust-pro",
+      "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\rust-pro\\SKILL.md"
+    },
+    {
+      "id": "saas-mvp-launcher",
+      "name": "saas-mvp-launcher",
+      "description": "\"Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\saas-mvp-launcher\\SKILL.md"
+    },
+    {
+      "id": "saga-orchestration",
+      "name": "saga-orchestration",
+      "description": "\"Patterns for managing distributed transactions and long-running business processes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\saga-orchestration\\SKILL.md"
+    },
+    {
+      "id": "sales-automator",
+      "name": "sales-automator",
+      "description": "'Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing. '",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sales-automator\\SKILL.md"
+    },
+    {
+      "id": "sales-enablement",
+      "name": "sales-enablement",
+      "description": "\"Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates. Use when a sales team needs assets that help reps move deals forward and close.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sales-enablement\\SKILL.md"
+    },
+    {
+      "id": "salesforce-automation",
+      "name": "salesforce-automation",
+      "description": "\"Automate Salesforce tasks via Rube MCP (Composio): leads, contacts, accounts, opportunities, SOQL queries. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\salesforce-automation\\SKILL.md"
+    },
+    {
+      "id": "salesforce-development",
+      "name": "salesforce-development",
+      "description": "Expert patterns for Salesforce platform development including",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\salesforce-development\\SKILL.md"
+    },
+    {
+      "id": "sam-altman",
+      "name": "sam-altman",
+      "description": "\"Agente que simula Sam Altman \u2014 CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sam-altman\\SKILL.md"
+    },
+    {
+      "id": "sast-configuration",
+      "name": "sast-configuration",
+      "description": "\"Static Application Security Testing (SAST) tool setup, configuration, and custom rule creation for comprehensive security scanning across multiple programming languages.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sast-configuration\\SKILL.md"
+    },
+    {
+      "id": "scala-pro",
+      "name": "scala-pro",
+      "description": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scala-pro\\SKILL.md"
+    },
+    {
+      "id": "scanning-tools",
+      "name": "scanning-tools",
+      "description": "\"Master essential security scanning tools for network discovery, vulnerability assessment, web application testing, wireless security, and compliance validation. This skill covers tool selection, configuration, and practical usage across different scanning categories.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scanning-tools\\SKILL.md"
+    },
+    {
+      "id": "scanpy",
+      "name": "scanpy",
+      "description": "\"Scanpy is a scalable Python toolkit for analyzing single-cell RNA-seq data, built on AnnData. Apply this skill for complete single-cell workflows including quality control, normalization, dimensionality reduction, clustering, marker gene identification, visualization, and trajectory analysis.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scanpy\\SKILL.md"
+    },
+    {
+      "id": "scarcity-urgency-psychologist",
+      "name": "scarcity-urgency-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scarcity-urgency-psychologist\\SKILL.md"
+    },
+    {
+      "id": "schema-markup",
+      "name": "schema-markup",
+      "description": "Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\schema-markup\\SKILL.md"
+    },
+    {
+      "id": "scientific-writing",
+      "name": "scientific-writing",
+      "description": "\"This is the core skill for the deep research and writing tool\u2014combining AI-driven deep research with well-formatted written outputs. Every document produced is backed by comprehensive literature search and verified citations through the research-lookup skill.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scientific-writing\\SKILL.md"
+    },
+    {
+      "id": "scikit-learn",
+      "name": "scikit-learn",
+      "description": "Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scikit-learn\\SKILL.md"
+    },
+    {
+      "id": "screen-reader-testing",
+      "name": "screen-reader-testing",
+      "description": "\"Practical guide to testing web applications with screen readers for comprehensive accessibility validation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\screen-reader-testing\\SKILL.md"
+    },
+    {
+      "id": "screenshots",
+      "name": "screenshots",
+      "description": "\"Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or documentation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\screenshots\\SKILL.md"
+    },
+    {
+      "id": "scroll-experience",
+      "name": "scroll-experience",
+      "description": "Expert in building immersive scroll-driven experiences - parallax",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\scroll-experience\\SKILL.md"
+    },
+    {
+      "id": "seaborn",
+      "name": "seaborn",
+      "description": "\"Seaborn is a Python visualization library for creating publication-quality statistical graphics. Use this skill for dataset-oriented plotting, multivariate analysis, automatic statistical estimation, and complex multi-panel figures with minimal code.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seaborn\\SKILL.md"
+    }
+  ]
+}

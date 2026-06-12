@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "categories": {
+    "languages": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\languages\\category-index.json",
+      "description": "Core language syntax, idioms, standard libraries",
+      "keywords": ["python", "java", "go", "rust", "cpp", "c", "typescript", "syntax"]
+    },
+    "frontend": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\frontend\\category-index.json",
+      "description": "Browser-side rendering, UI components, CSS, frameworks",
+      "keywords": ["react", "vue", "angular", "component", "UI", "CSS", "DOM", "next", "svelte", "tailwind"]
+    },
+    "backend": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\backend\\category-index.json",
+      "description": "Servers, APIs, routes, middleware",
+      "keywords": ["endpoint", "route", "REST", "server", "auth", "node", "express", "fastapi"]
+    },
+    "database": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\category-index.json",
+      "description": "Queries, schema, ORM, migrations",
+      "keywords": ["query", "table", "migrate", "index", "model", "sql", "postgres", "prisma", "orm"]
+    },
+    "devops": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\devops\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\devops\\category-index.json",
+      "description": "Deploy, infra, containers, cloud",
+      "keywords": ["deploy", "Docker", "CI", "pipeline", "cloud", "aws", "gcp", "azure", "kubernetes"]
+    },
+    "testing": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\testing\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\testing\\category-index.json",
+      "description": "Unit, integration, E2E, mocking",
+      "keywords": ["test", "assert", "mock", "coverage", "spec", "jest", "cypress", "playwright"]
+    },
+    "automation": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\automation\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\automation\\category-index.json",
+      "description": "Scripts, workflows, scheduled jobs",
+      "keywords": ["automate", "script", "cron", "trigger", "pipeline", "bash", "powershell", "python"]
+    },
+    "ai_ml": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai_ml\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai_ml\\category-index.json",
+      "description": "Models, embeddings, RAG, inference",
+      "keywords": ["LLM", "embed", "RAG", "fine-tune", "vector", "openai", "claude", "pytorch"]
+    },
+    "agent_reasoning": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent_reasoning\\category-index.json",
+      "description": "Critical thinking, planning, chain-of-thought, tool use, memory, multi-agent",
+      "keywords": ["plan", "reason", "think", "tool", "memory", "reflect", "agent", "multi-step", "CoT"]
+    },
+    "utilities": {
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\utilities\\",
+      "index": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\utilities\\category-index.json",
+      "description": "Git, CLI, data formats, auth helpers",
+      "keywords": ["git", "regex", "YAML", "OAuth", "CLI", "json", "tools", "helpers"]
+    }
+  }
+}

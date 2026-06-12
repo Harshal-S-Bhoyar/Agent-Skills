@@ -1,0 +1,30 @@
+{
+  "category": "database",
+  "sub_categories": [
+    {
+      "sub_category": "general_1",
+      "count": 30,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\general_1\\skill-index.json"
+    },
+    {
+      "sub_category": "general_2",
+      "count": 12,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\general_2\\skill-index.json"
+    },
+    {
+      "sub_category": "ai",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\ai\\skill-index.json"
+    },
+    {
+      "sub_category": "jq",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\jq\\skill-index.json"
+    },
+    {
+      "sub_category": "data_observability",
+      "count": 1,
+      "index_path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\database\\data_observability\\skill-index.json"
+    }
+  ]
+}

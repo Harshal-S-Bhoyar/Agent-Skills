@@ -1,0 +1,11 @@
+{
+  "sub_category": "validation",
+  "skills": [
+    {
+      "id": "skill-check",
+      "name": "skill-check",
+      "description": "\"Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-check\\SKILL.md"
+    }
+  ]
+}

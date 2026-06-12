@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_19",
+  "skills": [
+    {
+      "id": "gsd-verify-work",
+      "name": "gsd-verify-work",
+      "description": "\"Validate built features through conversational UAT\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-verify-work\\SKILL.md"
+    },
+    {
+      "id": "gsd-workspace",
+      "name": "gsd-workspace",
+      "description": "\"Manage GSD workspaces \u2014 create, list, or remove isolated workspace environments\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-workspace\\SKILL.md"
+    },
+    {
+      "id": "gsd-workstreams",
+      "name": "gsd-workstreams",
+      "description": "\"Manage parallel workstreams \u2014 list, create, switch, status, progress, complete, and resume\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gsd-workstreams\\SKILL.md"
+    },
+    {
+      "id": "haskell-pro",
+      "name": "haskell-pro",
+      "description": "\"Expert Haskell engineer specializing in advanced type systems, pure\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\haskell-pro\\SKILL.md"
+    },
+    {
+      "id": "headline-psychologist",
+      "name": "headline-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\headline-psychologist\\SKILL.md"
+    },
+    {
+      "id": "health-trend-analyzer",
+      "name": "health-trend-analyzer",
+      "description": "\u5206\u6790\u4e00\u6bb5\u65f6\u95f4\u5185\u5065\u5eb7\u6570\u636e\u7684\u8d8b\u52bf\u548c\u6a21\u5f0f\u3002\u5173\u8054\u836f\u7269\u3001\u75c7\u72b6\u3001\u751f\u547d\u4f53\u5f81\u3001\u5316\u9a8c\u7ed3\u679c\u548c\u5176\u4ed6\u5065\u5eb7\u6307\u6807\u7684\u53d8\u5316\u3002\u8bc6\u522b\u4ee4\u4eba\u62c5\u5fe7\u7684\u8d8b\u52bf\u3001\u6539\u5584\u60c5\u51b5\uff0c\u5e76\u63d0\u4f9b\u6570\u636e\u9a71\u52a8\u7684\u6d1e\u5bdf\u3002\u5f53\u7528\u6237\u8be2\u95ee\u5065\u5eb7\u8d8b\u52bf\u3001\u6a21\u5f0f\u3001\u968f\u65f6\u95f4\u7684\u53d8\u5316\u6216\"\u6211\u7684\u5065\u5eb7\u72b6\u51b5\u6709\u4ec0\u4e48\u53d8\u5316\uff1f\"\u65f6\u4f7f\u7528\u3002\u652f\u6301\u591a\u7ef4\u5ea6\u5206\u6790\uff08\u4f53\u91cd/BMI\u3001\u75c7\u72b6\u3001\u836f\u7269\u4f9d\u4ece\u6027\u3001\u5316\u9a8c\u7ed3\u679c\u3001\u60c5\u7eea\u7761\u7720\uff09\uff0c\u76f8\u5173\u6027\u5206\u6790\uff0c\u53d8\u5316\u68c0\u6d4b\uff0c\u4ee5\u53ca\u4ea4\u4e92\u5f0fHTML\u53ef\u89c6\u5316\u62a5\u544a\uff08ECharts\u56fe\u8868\uff09\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\health-trend-analyzer\\SKILL.md"
+    },
+    {
+      "id": "helpdesk-automation",
+      "name": "helpdesk-automation",
+      "description": "\"Automate HelpDesk tasks via Rube MCP (Composio): list tickets, manage views, use canned responses, and configure custom fields. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\helpdesk-automation\\SKILL.md"
+    },
+    {
+      "id": "hig-components-controls",
+      "name": "hig-components-controls",
+      "description": "\"Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-controls\\SKILL.md"
+    },
+    {
+      "id": "hig-components-menus",
+      "name": "hig-components-menus",
+      "description": "\"Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-components-menus\\SKILL.md"
+    },
+    {
+      "id": "hig-foundations",
+      "name": "hig-foundations",
+      "description": "Apple Human Interface Guidelines design foundations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-foundations\\SKILL.md"
+    },
+    {
+      "id": "hig-inputs",
+      "name": "hig-inputs",
+      "description": "\"Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-inputs\\SKILL.md"
+    },
+    {
+      "id": "hig-patterns",
+      "name": "hig-patterns",
+      "description": "Apple Human Interface Guidelines interaction and UX patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-patterns\\SKILL.md"
+    },
+    {
+      "id": "hig-platforms",
+      "name": "hig-platforms",
+      "description": "Apple Human Interface Guidelines for platform-specific design.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-platforms\\SKILL.md"
+    },
+    {
+      "id": "hig-project-context",
+      "name": "hig-project-context",
+      "description": "Create or update a shared Apple design context document that other HIG skills use to tailor guidance.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-project-context\\SKILL.md"
+    },
+    {
+      "id": "hig-technologies",
+      "name": "hig-technologies",
+      "description": "\"Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hig-technologies\\SKILL.md"
+    },
+    {
+      "id": "hosted-agents",
+      "name": "hosted-agents",
+      "description": "Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hosted-agents\\SKILL.md"
+    },
+    {
+      "id": "hosted-agents-v2-py",
+      "name": "hosted-agents-v2-py",
+      "description": "\"Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hosted-agents-v2-py\\SKILL.md"
+    },
+    {
+      "id": "hr-pro",
+      "name": "hr-pro",
+      "description": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hr-pro\\SKILL.md"
+    },
+    {
+      "id": "html-injection-testing",
+      "name": "html-injection-testing",
+      "description": "\"Identify and exploit HTML injection vulnerabilities that allow attackers to inject malicious HTML content into web applications. This vulnerability enables attackers to modify page appearance, create phishing pages, and steal user credentials through injected forms.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\html-injection-testing\\SKILL.md"
+    },
+    {
+      "id": "hubspot-automation",
+      "name": "hubspot-automation",
+      "description": "\"Automate HubSpot CRM operations (contacts, companies, deals, tickets, properties) via Rube MCP using Composio integration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hubspot-automation\\SKILL.md"
+    },
+    {
+      "id": "hubspot-integration",
+      "name": "hubspot-integration",
+      "description": "Expert patterns for HubSpot CRM integration including OAuth",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hubspot-integration\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-cli",
+      "name": "hugging-face-cli",
+      "description": "\"Use the Hugging Face Hub CLI (`hf`) to download, upload, and manage models, datasets, and Spaces.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-cli\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-community-evals",
+      "name": "hugging-face-community-evals",
+      "description": "Run local evaluations for Hugging Face Hub models with inspect-ai or lighteval.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-community-evals\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-dataset-viewer",
+      "name": "hugging-face-dataset-viewer",
+      "description": "Query Hugging Face datasets through the Dataset Viewer API for splits, rows, search, filters, and parquet links.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-dataset-viewer\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-gradio",
+      "name": "hugging-face-gradio",
+      "description": "Build or edit Gradio apps, layouts, components, and chat interfaces in Python.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-gradio\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-jobs",
+      "name": "hugging-face-jobs",
+      "description": "Run workloads on Hugging Face Jobs with managed CPUs, GPUs, TPUs, secrets, and Hub persistence.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-jobs\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-model-trainer",
+      "name": "hugging-face-model-trainer",
+      "description": "Train or fine-tune TRL language models on Hugging Face Jobs, including SFT, DPO, GRPO, and GGUF export.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-model-trainer\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-paper-publisher",
+      "name": "hugging-face-paper-publisher",
+      "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-paper-publisher\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-papers",
+      "name": "hugging-face-papers",
+      "description": "Read and analyze Hugging Face paper pages or arXiv papers with markdown and papers API metadata.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-papers\\SKILL.md"
+    },
+    {
+      "id": "hugging-face-tool-builder",
+      "name": "hugging-face-tool-builder",
+      "description": "\"Your purpose is now is to create reusable command line scripts and utilities for using the Hugging Face API, allowing chaining, piping and intermediate processing where helpful. You can access the API directly, as well as use the hf command line tool.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\hugging-face-tool-builder\\SKILL.md"
+    }
+  ]
+}

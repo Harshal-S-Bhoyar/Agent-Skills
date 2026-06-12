@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_8",
+  "skills": [
+    {
+      "id": "broken-authentication",
+      "name": "broken-authentication",
+      "description": "\"Identify and exploit authentication and session management vulnerabilities in web applications. Broken authentication consistently ranks in the OWASP Top 10 and can lead to account takeover, identity theft, and unauthorized access to sensitive systems.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\broken-authentication\\SKILL.md"
+    },
+    {
+      "id": "browser-automation",
+      "name": "browser-automation",
+      "description": "Browser automation powers web testing, scraping, and AI agent",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\browser-automation\\SKILL.md"
+    },
+    {
+      "id": "bug-hunter",
+      "name": "bug-hunter",
+      "description": "\"Systematically finds and fixes bugs using proven debugging techniques. Traces from symptoms to root cause, implements fixes, and prevents regression.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bug-hunter\\SKILL.md"
+    },
+    {
+      "id": "bullmq-specialist",
+      "name": "bullmq-specialist",
+      "description": "BullMQ expert for Redis-backed job queues, background processing,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bullmq-specialist\\SKILL.md"
+    },
+    {
+      "id": "bun-development",
+      "name": "bun-development",
+      "description": "\"Fast, modern JavaScript/TypeScript development with the Bun runtime, inspired by [oven-sh/bun](https://github.com/oven-sh/bun).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\bun-development\\SKILL.md"
+    },
+    {
+      "id": "burp-suite-testing",
+      "name": "burp-suite-testing",
+      "description": "\"Execute comprehensive web application security testing using Burp Suite's integrated toolset, including HTTP traffic interception and modification, request analysis and replay, automated vulnerability scanning, and manual testing workflows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\burp-suite-testing\\SKILL.md"
+    },
+    {
+      "id": "burpsuite-project-parser",
+      "name": "burpsuite-project-parser",
+      "description": "Searches and explores Burp Suite project files (.burp) from the command line. Use when searching response headers or bodies with regex patterns, extracting security audit findings, dumping proxy history or site map data, or analyzing HTTP traffic captured in a Burp project.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\burpsuite-project-parser\\SKILL.md"
+    },
+    {
+      "id": "business-analyst",
+      "name": "business-analyst",
+      "description": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\business-analyst\\SKILL.md"
+    },
+    {
+      "id": "busybox-on-windows",
+      "name": "busybox-on-windows",
+      "description": "\"How to use a Win32 build of BusyBox to run many of the standard UNIX command line tools on Windows.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\busybox-on-windows\\SKILL.md"
+    },
+    {
+      "id": "c-pro",
+      "name": "c-pro",
+      "description": "\"Write efficient C code with proper memory management, pointer\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c-pro\\SKILL.md"
+    },
+    {
+      "id": "c4-architecture-c4-architecture",
+      "name": "c4-architecture-c4-architecture",
+      "description": "\"Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c4-architecture-c4-architecture\\SKILL.md"
+    },
+    {
+      "id": "c4-code",
+      "name": "c4-code",
+      "description": "Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c4-code\\SKILL.md"
+    },
+    {
+      "id": "c4-component",
+      "name": "c4-component",
+      "description": "Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Component-level architecture, defining component boundaries, interfaces, and relationships.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c4-component\\SKILL.md"
+    },
+    {
+      "id": "c4-container",
+      "name": "c4-container",
+      "description": "Expert C4 Container-level documentation specialist.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c4-container\\SKILL.md"
+    },
+    {
+      "id": "c4-context",
+      "name": "c4-context",
+      "description": "Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\c4-context\\SKILL.md"
+    },
+    {
+      "id": "cal-com-automation",
+      "name": "cal-com-automation",
+      "description": "\"Automate Cal.com tasks via Rube MCP (Composio): manage bookings, check availability, configure webhooks, and handle teams. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cal-com-automation\\SKILL.md"
+    },
+    {
+      "id": "calendly-automation",
+      "name": "calendly-automation",
+      "description": "\"Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\calendly-automation\\SKILL.md"
+    },
+    {
+      "id": "canva-automation",
+      "name": "canva-automation",
+      "description": "\"Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\canva-automation\\SKILL.md"
+    },
+    {
+      "id": "canvas-design",
+      "name": "canvas-design",
+      "description": "\"These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\canvas-design\\SKILL.md"
+    },
+    {
+      "id": "carrier-relationship-management",
+      "name": "carrier-relationship-management",
+      "description": "Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\carrier-relationship-management\\SKILL.md"
+    },
+    {
+      "id": "caveman",
+      "name": "caveman",
+      "description": "Ultra compressed response style. Reduces token usage by removing pleasantries, conclusions, and using shortest accurate wording.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\caveman\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-coding-standards",
+      "name": "cc-skill-coding-standards",
+      "description": "\"Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-coding-standards\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-continuous-learning",
+      "name": "cc-skill-continuous-learning",
+      "description": "\"Development skill from everything-claude-code\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-continuous-learning\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-project-guidelines-example",
+      "name": "cc-skill-project-guidelines-example",
+      "description": "\"Project Guidelines Skill (Example)\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-project-guidelines-example\\SKILL.md"
+    },
+    {
+      "id": "cc-skill-strategic-compact",
+      "name": "cc-skill-strategic-compact",
+      "description": "\"Development skill from everything-claude-code\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cc-skill-strategic-compact\\SKILL.md"
+    },
+    {
+      "id": "cdk-patterns",
+      "name": "cdk-patterns",
+      "description": "\"Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\cdk-patterns\\SKILL.md"
+    },
+    {
+      "id": "change-traker",
+      "name": "change-traker",
+      "description": ">-",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\change-traker\\SKILL.md"
+    },
+    {
+      "id": "changelog-automation",
+      "name": "changelog-automation",
+      "description": "\"Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\changelog-automation\\SKILL.md"
+    },
+    {
+      "id": "chat-widget",
+      "name": "chat-widget",
+      "description": "Build a real-time support chat system with a floating widget for users and an admin dashboard for support staff. Use when the user wants live chat, customer support chat, real-time messaging, or in-app support.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\chat-widget\\SKILL.md"
+    },
+    {
+      "id": "chrome-extension-developer",
+      "name": "chrome-extension-developer",
+      "description": "\"Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, and cross-context communication.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\chrome-extension-developer\\SKILL.md"
+    }
+  ]
+}

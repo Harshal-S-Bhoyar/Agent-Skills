@@ -1,0 +1,11 @@
+{
+  "sub_category": "typescript",
+  "skills": [
+    {
+      "id": "trpc-fullstack",
+      "name": "trpc-fullstack",
+      "description": "\"Build end-to-end type-safe APIs with tRPC \u2014 routers, procedures, middleware, subscriptions, and Next.js/React integration patterns.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\trpc-fullstack\\SKILL.md"
+    }
+  ]
+}

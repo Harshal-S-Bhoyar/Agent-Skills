@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_31",
+  "skills": [
+    {
+      "id": "seo-content-refresher",
+      "name": "seo-content-refresher",
+      "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-content-refresher\\SKILL.md"
+    },
+    {
+      "id": "seo-content-writer",
+      "name": "seo-content-writer",
+      "description": "Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-content-writer\\SKILL.md"
+    },
+    {
+      "id": "seo-dataforseo",
+      "name": "seo-dataforseo",
+      "description": "\"Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-dataforseo\\SKILL.md"
+    },
+    {
+      "id": "seo-forensic-incident-response",
+      "name": "seo-forensic-incident-response",
+      "description": "\"Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-forensic-incident-response\\SKILL.md"
+    },
+    {
+      "id": "seo-fundamentals",
+      "name": "seo-fundamentals",
+      "description": "Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations, content quality, and how modern search engines evaluate pages.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-fundamentals\\SKILL.md"
+    },
+    {
+      "id": "seo-geo",
+      "name": "seo-geo",
+      "description": "\"Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-geo\\SKILL.md"
+    },
+    {
+      "id": "seo-image-gen",
+      "name": "seo-image-gen",
+      "description": "\"Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-image-gen\\SKILL.md"
+    },
+    {
+      "id": "seo-keyword-strategist",
+      "name": "seo-keyword-strategist",
+      "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-keyword-strategist\\SKILL.md"
+    },
+    {
+      "id": "seo-meta-optimizer",
+      "name": "seo-meta-optimizer",
+      "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-meta-optimizer\\SKILL.md"
+    },
+    {
+      "id": "seo-programmatic",
+      "name": "seo-programmatic",
+      "description": "\"Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-programmatic\\SKILL.md"
+    },
+    {
+      "id": "seo-schema",
+      "name": "seo-schema",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-schema\\SKILL.md"
+    },
+    {
+      "id": "seo-snippet-hunter",
+      "name": "seo-snippet-hunter",
+      "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-snippet-hunter\\SKILL.md"
+    },
+    {
+      "id": "seo-structure-architect",
+      "name": "seo-structure-architect",
+      "description": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-structure-architect\\SKILL.md"
+    },
+    {
+      "id": "seo-technical",
+      "name": "seo-technical",
+      "description": "\"Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\seo-technical\\SKILL.md"
+    },
+    {
+      "id": "sequence-psychologist",
+      "name": "sequence-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sequence-psychologist\\SKILL.md"
+    },
+    {
+      "id": "server-management",
+      "name": "server-management",
+      "description": "\"Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\server-management\\SKILL.md"
+    },
+    {
+      "id": "service-mesh-observability",
+      "name": "service-mesh-observability",
+      "description": "\"Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\service-mesh-observability\\SKILL.md"
+    },
+    {
+      "id": "shader-programming-glsl",
+      "name": "shader-programming-glsl",
+      "description": "\"Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shader-programming-glsl\\SKILL.md"
+    },
+    {
+      "id": "shellcheck-configuration",
+      "name": "shellcheck-configuration",
+      "description": "\"Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shellcheck-configuration\\SKILL.md"
+    },
+    {
+      "id": "shodan-reconnaissance",
+      "name": "shodan-reconnaissance",
+      "description": "\"Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shodan-reconnaissance\\SKILL.md"
+    },
+    {
+      "id": "shopify-apps",
+      "name": "shopify-apps",
+      "description": "Expert patterns for Shopify app development including Remix/React",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shopify-apps\\SKILL.md"
+    },
+    {
+      "id": "shopify-automation",
+      "name": "shopify-automation",
+      "description": "\"Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shopify-automation\\SKILL.md"
+    },
+    {
+      "id": "shopify-development",
+      "name": "shopify-development",
+      "description": "Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\shopify-development\\SKILL.md"
+    },
+    {
+      "id": "signup-flow-cro",
+      "name": "signup-flow-cro",
+      "description": "\"You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\signup-flow-cro\\SKILL.md"
+    },
+    {
+      "id": "similarity-search-patterns",
+      "name": "similarity-search-patterns",
+      "description": "\"Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\similarity-search-patterns\\SKILL.md"
+    },
+    {
+      "id": "simplify-code",
+      "name": "simplify-code",
+      "description": "\"Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\simplify-code\\SKILL.md"
+    },
+    {
+      "id": "site-architecture",
+      "name": "site-architecture",
+      "description": "\"Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\site-architecture\\SKILL.md"
+    },
+    {
+      "id": "skill-creator",
+      "name": "skill-creator",
+      "description": "\"To create new CLI skills following Anthropic's official best practices with zero manual configuration. This skill automates brainstorming, template application, validation, and installation processes while maintaining progressive disclosure patterns and writing style standards.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-creator\\SKILL.md"
+    },
+    {
+      "id": "skill-creator-ms",
+      "name": "skill-creator-ms",
+      "description": "\"Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating existing skills.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-creator-ms\\SKILL.md"
+    },
+    {
+      "id": "skill-developer",
+      "name": "skill-developer",
+      "description": "\"Comprehensive guide for creating and managing skills in Claude Code with auto-activation system, following Anthropic's official best practices including the 500-line rule and progressive disclosure pattern.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\skill-developer\\SKILL.md"
+    }
+  ]
+}

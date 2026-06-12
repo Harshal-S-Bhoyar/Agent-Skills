@@ -1,0 +1,35 @@
+{
+  "sub_category": "frontend",
+  "skills": [
+    {
+      "id": "gpt-taste",
+      "name": "gpt-taste",
+      "description": "\"Use when generating elite GSAP-heavy frontend pages with strict AIDA structure, wide hero typography, and gapless bento grids.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\gpt-taste\\SKILL.md"
+    },
+    {
+      "id": "high-end-visual-design",
+      "name": "high-end-visual-design",
+      "description": "\"Use when designing expensive agency-grade interfaces with premium fonts, spatial rhythm, soft depth, and fluid microinteractions.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\high-end-visual-design\\SKILL.md"
+    },
+    {
+      "id": "industrial-brutalist-ui",
+      "name": "industrial-brutalist-ui",
+      "description": "\"Use when creating raw industrial or tactical telemetry UIs with rigid grids, stark typography, CRT effects, and high-density data.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\industrial-brutalist-ui\\SKILL.md"
+    },
+    {
+      "id": "minimalist-ui",
+      "name": "minimalist-ui",
+      "description": "\"Use when creating clean editorial interfaces with warm monochrome palettes, crisp borders, restrained motion, and flat bento layouts.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\minimalist-ui\\SKILL.md"
+    },
+    {
+      "id": "redesign-existing-projects",
+      "name": "redesign-existing-projects",
+      "description": "\"Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\redesign-existing-projects\\SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_5",
+  "skills": [
+    {
+      "id": "azure-data-tables-java",
+      "name": "azure-data-tables-java",
+      "description": "\"Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-data-tables-java\\SKILL.md"
+    },
+    {
+      "id": "azure-data-tables-py",
+      "name": "azure-data-tables-py",
+      "description": "Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-data-tables-py\\SKILL.md"
+    },
+    {
+      "id": "azure-eventgrid-java",
+      "name": "azure-eventgrid-java",
+      "description": "\"Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventgrid-java\\SKILL.md"
+    },
+    {
+      "id": "azure-eventgrid-py",
+      "name": "azure-eventgrid-py",
+      "description": "Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventgrid-py\\SKILL.md"
+    },
+    {
+      "id": "azure-eventhub-java",
+      "name": "azure-eventhub-java",
+      "description": "\"Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventhub-java\\SKILL.md"
+    },
+    {
+      "id": "azure-eventhub-py",
+      "name": "azure-eventhub-py",
+      "description": "Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventhub-py\\SKILL.md"
+    },
+    {
+      "id": "azure-eventhub-rust",
+      "name": "azure-eventhub-rust",
+      "description": "Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-eventhub-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-functions",
+      "name": "azure-functions",
+      "description": "Expert patterns for Azure Functions development including isolated",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-functions\\SKILL.md"
+    },
+    {
+      "id": "azure-identity-java",
+      "name": "azure-identity-java",
+      "description": "\"Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD).\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-identity-java\\SKILL.md"
+    },
+    {
+      "id": "azure-identity-py",
+      "name": "azure-identity-py",
+      "description": "Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-identity-py\\SKILL.md"
+    },
+    {
+      "id": "azure-identity-rust",
+      "name": "azure-identity-rust",
+      "description": "Azure Identity SDK for Rust authentication. Use for DeveloperToolsCredential, ManagedIdentityCredential, ClientSecretCredential, and token-based authentication.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-identity-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-identity-ts",
+      "name": "azure-identity-ts",
+      "description": "\"Authenticate to Azure services with various credential types.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-identity-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-certificates-rust",
+      "name": "azure-keyvault-certificates-rust",
+      "description": "Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-certificates-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-keys-rust",
+      "name": "azure-keyvault-keys-rust",
+      "description": "'Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys. Triggers: \"keyvault keys rust\", \"KeyClient rust\", \"create key rust\", \"encrypt rust\", \"sign rust\".'",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-keys-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-keys-ts",
+      "name": "azure-keyvault-keys-ts",
+      "description": "\"Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-keys-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-py",
+      "name": "azure-keyvault-py",
+      "description": "Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-py\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-secrets-rust",
+      "name": "azure-keyvault-secrets-rust",
+      "description": "'Azure Key Vault Secrets SDK for Rust. Use for storing and retrieving secrets, passwords, and API keys. Triggers: \"keyvault secrets rust\", \"SecretClient rust\", \"get secret rust\", \"set secret rust\".'",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-secrets-rust\\SKILL.md"
+    },
+    {
+      "id": "azure-keyvault-secrets-ts",
+      "name": "azure-keyvault-secrets-ts",
+      "description": "\"Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-keyvault-secrets-ts\\SKILL.md"
+    },
+    {
+      "id": "azure-maps-search-dotnet",
+      "name": "azure-maps-search-dotnet",
+      "description": "Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map tiles, IP geolocation, and weather data.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-maps-search-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-messaging-webpubsub-java",
+      "name": "azure-messaging-webpubsub-java",
+      "description": "\"Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-messaging-webpubsub-java\\SKILL.md"
+    },
+    {
+      "id": "azure-messaging-webpubsubservice-py",
+      "name": "azure-messaging-webpubsubservice-py",
+      "description": "Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-messaging-webpubsubservice-py\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-apicenter-dotnet",
+      "name": "azure-mgmt-apicenter-dotnet",
+      "description": "Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-apicenter-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-apicenter-py",
+      "name": "azure-mgmt-apicenter-py",
+      "description": "Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-apicenter-py\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-apimanagement-dotnet",
+      "name": "azure-mgmt-apimanagement-dotnet",
+      "description": "Azure Resource Manager SDK for API Management in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-apimanagement-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-apimanagement-py",
+      "name": "azure-mgmt-apimanagement-py",
+      "description": "Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-apimanagement-py\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-applicationinsights-dotnet",
+      "name": "azure-mgmt-applicationinsights-dotnet",
+      "description": "Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-applicationinsights-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-arizeaiobservabilityeval-dotnet",
+      "name": "azure-mgmt-arizeaiobservabilityeval-dotnet",
+      "description": "Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-arizeaiobservabilityeval-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-botservice-dotnet",
+      "name": "azure-mgmt-botservice-dotnet",
+      "description": "Azure Resource Manager SDK for Bot Service in .NET. Management plane operations for creating and managing Azure Bot resources, channels (Teams, DirectLine, Slack), and connection settings.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-botservice-dotnet\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-botservice-py",
+      "name": "azure-mgmt-botservice-py",
+      "description": "Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-botservice-py\\SKILL.md"
+    },
+    {
+      "id": "azure-mgmt-fabric-dotnet",
+      "name": "azure-mgmt-fabric-dotnet",
+      "description": "Azure Resource Manager SDK for Fabric in .NET.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\azure-mgmt-fabric-dotnet\\SKILL.md"
+    }
+  ]
+}

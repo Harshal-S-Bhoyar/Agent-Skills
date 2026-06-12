@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_1",
+  "skills": [
+    {
+      "id": "007",
+      "name": "'007'",
+      "description": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\007\\SKILL.md"
+    },
+    {
+      "id": "10-andruia-skill-smith",
+      "name": "10-andruia-skill-smith",
+      "description": "\"Ingeniero de Sistemas de Andru.ia. Dise\u00f1a, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Est\u00e1ndar de Diamante.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\10-andruia-skill-smith\\SKILL.md"
+    },
+    {
+      "id": "ab-test-setup",
+      "name": "ab-test-setup",
+      "description": "\"Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ab-test-setup\\SKILL.md"
+    },
+    {
+      "id": "acceptance-orchestrator",
+      "name": "acceptance-orchestrator",
+      "description": "Use when a coding task should be driven end-to-end from issue intake through implementation, review, deployment, and acceptance verification with minimal human re-intervention.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\acceptance-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "accessibility-compliance-accessibility-audit",
+      "name": "accessibility-compliance-accessibility-audit",
+      "description": "\"You are an accessibility expert specializing in WCAG compliance, inclusive design, and assistive technology compatibility. Conduct audits, identify barriers, and provide remediation guidance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\accessibility-compliance-accessibility-audit\\SKILL.md"
+    },
+    {
+      "id": "active-directory-attacks",
+      "name": "active-directory-attacks",
+      "description": "\"Provide comprehensive techniques for attacking Microsoft Active Directory environments. Covers reconnaissance, credential harvesting, Kerberos attacks, lateral movement, privilege escalation, and domain dominance for red team operations and penetration testing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\active-directory-attacks\\SKILL.md"
+    },
+    {
+      "id": "ad-creative",
+      "name": "ad-creative",
+      "description": "\"Create, iterate, and scale paid ad creative for Google Ads, Meta, LinkedIn, TikTok, and similar platforms. Use when generating headlines, descriptions, primary text, or large sets of ad variations for testing and performance optimization.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ad-creative\\SKILL.md"
+    },
+    {
+      "id": "adhx",
+      "name": "adhx",
+      "description": "\"Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping or browser required.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\adhx\\SKILL.md"
+    },
+    {
+      "id": "advogado-criminal",
+      "name": "advogado-criminal",
+      "description": "Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\advogado-criminal\\SKILL.md"
+    },
+    {
+      "id": "advogado-especialista",
+      "name": "advogado-especialista",
+      "description": "'Advogado especialista em todas as areas do Direito brasileiro: familia, criminal, trabalhista, tributario, consumidor, imobiliario, empresarial, civil e constitucional.'",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\advogado-especialista\\SKILL.md"
+    },
+    {
+      "id": "aegisops-ai",
+      "name": "aegisops-ai",
+      "description": "\"Autonomous DevSecOps & FinOps Guardrails. Orchestrates Gemini 3 Flash to audit Linux Kernel patches, Terraform cost drifts, and K8s compliance.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\aegisops-ai\\SKILL.md"
+    },
+    {
+      "id": "agent-evaluation",
+      "name": "agent-evaluation",
+      "description": "Testing and benchmarking LLM agents including behavioral testing,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-evaluation\\SKILL.md"
+    },
+    {
+      "id": "agent-framework-azure-ai-py",
+      "name": "agent-framework-azure-ai-py",
+      "description": "\"Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-framework-azure-ai-py\\SKILL.md"
+    },
+    {
+      "id": "agent-manager-skill",
+      "name": "agent-manager-skill",
+      "description": "\"Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-manager-skill\\SKILL.md"
+    },
+    {
+      "id": "agent-orchestration-improve-agent",
+      "name": "agent-orchestration-improve-agent",
+      "description": "\"Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-orchestration-improve-agent\\SKILL.md"
+    },
+    {
+      "id": "agent-orchestration-multi-agent-optimize",
+      "name": "agent-orchestration-multi-agent-optimize",
+      "description": "\"Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-orchestration-multi-agent-optimize\\SKILL.md"
+    },
+    {
+      "id": "agent-orchestrator",
+      "name": "agent-orchestrator",
+      "description": "Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agent-orchestrator\\SKILL.md"
+    },
+    {
+      "id": "agentflow",
+      "name": "agentflow",
+      "description": "\"Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agentflow\\SKILL.md"
+    },
+    {
+      "id": "agentic-actions-auditor",
+      "name": "agentic-actions-auditor",
+      "description": ">",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agentic-actions-auditor\\SKILL.md"
+    },
+    {
+      "id": "agentmail",
+      "name": "agentmail",
+      "description": "Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agentmail\\SKILL.md"
+    },
+    {
+      "id": "agentphone",
+      "name": "agentphone",
+      "description": "Build AI phone agents with AgentPhone API. Use when the user wants to make phone calls, send/receive SMS, manage phone numbers, create voice agents, set up webhooks, or check usage \u2014 anything related to telephony, phone numbers, or voice AI.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agentphone\\SKILL.md"
+    },
+    {
+      "id": "agents-md",
+      "name": "agents-md",
+      "description": "This skill should be used when the user asks to \"create AGENTS.md\", \"update AGENTS.md\", \"maintain agent docs\", \"set up CLAUDE.md\", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agents-md\\SKILL.md"
+    },
+    {
+      "id": "agents-v2-py",
+      "name": "agents-v2-py",
+      "description": "\"Build container-based Foundry Agents with Azure AI Projects SDK (ImageBasedHostedAgentDefinition). Use when creating hosted agents with custom container images in Azure AI Foundry.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\agents-v2-py\\SKILL.md"
+    },
+    {
+      "id": "ai-agent-development",
+      "name": "ai-agent-development",
+      "description": "\"AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-agent-development\\SKILL.md"
+    },
+    {
+      "id": "ai-product",
+      "name": "ai-product",
+      "description": "Every product will be AI-powered. The question is whether you'll",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-product\\SKILL.md"
+    },
+    {
+      "id": "ai-studio-image",
+      "name": "ai-studio-image",
+      "description": "Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-studio-image\\SKILL.md"
+    },
+    {
+      "id": "ai-wrapper-product",
+      "name": "ai-wrapper-product",
+      "description": "Expert in building products that wrap AI APIs (OpenAI, Anthropic,",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\ai-wrapper-product\\SKILL.md"
+    },
+    {
+      "id": "airtable-automation",
+      "name": "airtable-automation",
+      "description": "\"Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views. Always search tools first for current schemas.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\airtable-automation\\SKILL.md"
+    },
+    {
+      "id": "akf-trust-metadata",
+      "name": "akf-trust-metadata",
+      "description": "\"The AI native file format. EXIF for AI \u2014 stamps every file with trust scores, source provenance, and compliance metadata. Embeds into 20+ formats (DOCX, PDF, images, code). EU AI Act, SOX, HIPAA auditing.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\akf-trust-metadata\\SKILL.md"
+    },
+    {
+      "id": "algolia-search",
+      "name": "algolia-search",
+      "description": "Expert patterns for Algolia search implementation, indexing",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\algolia-search\\SKILL.md"
+    }
+  ]
+}

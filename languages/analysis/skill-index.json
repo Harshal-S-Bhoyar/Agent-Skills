@@ -1,0 +1,11 @@
+{
+  "sub_category": "analysis",
+  "skills": [
+    {
+      "id": "analyze-project",
+      "name": "analyze-project",
+      "description": "Forensic root cause analyzer for Antigravity sessions. Classifies scope deltas, rework patterns, root causes, hotspots, and auto-improves prompts/health.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\analyze-project\\SKILL.md"
+    }
+  ]
+}

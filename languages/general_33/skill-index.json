@@ -1,0 +1,185 @@
+{
+  "sub_category": "general_33",
+  "skills": [
+    {
+      "id": "stability-ai",
+      "name": "stability-ai",
+      "description": "Geracao de imagens via Stability AI (SD3.5, Ultra, Core). Text-to-image, img2img, inpainting, upscale, remove-bg, search-replace. 15 estilos artisticos.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\stability-ai\\SKILL.md"
+    },
+    {
+      "id": "startup-analyst",
+      "name": "startup-analyst",
+      "description": "Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\startup-analyst\\SKILL.md"
+    },
+    {
+      "id": "startup-business-analyst-business-case",
+      "name": "startup-business-analyst-business-case",
+      "description": "'Generate comprehensive investor-ready business case document with",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\startup-business-analyst-business-case\\SKILL.md"
+    },
+    {
+      "id": "startup-business-analyst-financial-projections",
+      "name": "startup-business-analyst-financial-projections",
+      "description": "'Create detailed 3-5 year financial model with revenue, costs, cash",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\startup-business-analyst-financial-projections\\SKILL.md"
+    },
+    {
+      "id": "startup-business-analyst-market-opportunity",
+      "name": "startup-business-analyst-market-opportunity",
+      "description": "'Generate comprehensive market opportunity analysis with TAM/SAM/SOM",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\startup-business-analyst-market-opportunity\\SKILL.md"
+    },
+    {
+      "id": "startup-financial-modeling",
+      "name": "startup-financial-modeling",
+      "description": "\"Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\startup-financial-modeling\\SKILL.md"
+    },
+    {
+      "id": "statsmodels",
+      "name": "statsmodels",
+      "description": "\"Statsmodels is Python's premier library for statistical modeling, providing tools for estimation, inference, and diagnostics across a wide range of statistical methods.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\statsmodels\\SKILL.md"
+    },
+    {
+      "id": "steve-jobs",
+      "name": "steve-jobs",
+      "description": "\"Agente que simula Steve Jobs \u2014 cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\steve-jobs\\SKILL.md"
+    },
+    {
+      "id": "stitch-loop",
+      "name": "stitch-loop",
+      "description": "Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\stitch-loop\\SKILL.md"
+    },
+    {
+      "id": "stitch-ui-design",
+      "name": "stitch-ui-design",
+      "description": "\"Expert guidance for crafting effective prompts in Google Stitch, the AI-powered UI design tool by Google Labs. This skill helps create precise, actionable prompts that generate high-quality UI designs for web and mobile applications.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\stitch-ui-design\\SKILL.md"
+    },
+    {
+      "id": "stride-analysis-patterns",
+      "name": "stride-analysis-patterns",
+      "description": "\"Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\stride-analysis-patterns\\SKILL.md"
+    },
+    {
+      "id": "stripe-integration",
+      "name": "stripe-integration",
+      "description": "\"Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\stripe-integration\\SKILL.md"
+    },
+    {
+      "id": "subject-line-psychologist",
+      "name": "subject-line-psychologist",
+      "description": "\"One sentence - what this skill does and when to invoke it\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\subject-line-psychologist\\SKILL.md"
+    },
+    {
+      "id": "superpowers-lab",
+      "name": "superpowers-lab",
+      "description": "\"Lab environment for Claude superpowers\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\superpowers-lab\\SKILL.md"
+    },
+    {
+      "id": "supply-chain-risk-auditor",
+      "name": "supply-chain-risk-auditor",
+      "description": "\"Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\supply-chain-risk-auditor\\SKILL.md"
+    },
+    {
+      "id": "swift-concurrency-expert",
+      "name": "swift-concurrency-expert",
+      "description": "Review and fix Swift concurrency issues such as actor isolation and Sendable violations.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swift-concurrency-expert\\SKILL.md"
+    },
+    {
+      "id": "swiftui-expert-skill",
+      "name": "swiftui-expert-skill",
+      "description": "Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, and iOS 26+ Liquid Glass adoption. Use when building new SwiftUI features, refactoring existing views, reviewing code quality, or adopting modern SwiftUI patterns.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swiftui-expert-skill\\SKILL.md"
+    },
+    {
+      "id": "swiftui-liquid-glass",
+      "name": "swiftui-liquid-glass",
+      "description": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swiftui-liquid-glass\\SKILL.md"
+    },
+    {
+      "id": "swiftui-performance-audit",
+      "name": "swiftui-performance-audit",
+      "description": "Audit SwiftUI performance issues from code review and profiling evidence.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swiftui-performance-audit\\SKILL.md"
+    },
+    {
+      "id": "swiftui-ui-patterns",
+      "name": "swiftui-ui-patterns",
+      "description": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\swiftui-ui-patterns\\SKILL.md"
+    },
+    {
+      "id": "sympy",
+      "name": "sympy",
+      "description": "\"SymPy is a Python library for symbolic mathematics that enables exact computation using mathematical symbols rather than numerical approximations.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\sympy\\SKILL.md"
+    },
+    {
+      "id": "systematic-debugging",
+      "name": "systematic-debugging",
+      "description": "\"Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\systematic-debugging\\SKILL.md"
+    },
+    {
+      "id": "systems-programming-rust-project",
+      "name": "systems-programming-rust-project",
+      "description": "\"You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\systems-programming-rust-project\\SKILL.md"
+    },
+    {
+      "id": "task-intelligence",
+      "name": "task-intelligence",
+      "description": "\"Protocolo de Intelig\u00eancia Pr\u00e9-Tarefa \u2014 ativa TODOS os agentes relevantes do ecossistema ANTES de executar qualquer tarefa solicitada pelo usu\u00e1rio.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\task-intelligence\\SKILL.md"
+    },
+    {
+      "id": "tavily-web",
+      "name": "tavily-web",
+      "description": "\"Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tavily-web\\SKILL.md"
+    },
+    {
+      "id": "tcm-constitution-analyzer",
+      "name": "tcm-constitution-analyzer",
+      "description": "\u5206\u6790\u4e2d\u533b\u4f53\u8d28\u6570\u636e\u3001\u8bc6\u522b\u4f53\u8d28\u7c7b\u578b\u3001\u8bc4\u4f30\u4f53\u8d28\u7279\u5f81,\u5e76\u63d0\u4f9b\u4e2a\u6027\u5316\u517b\u751f\u5efa\u8bae\u3002\u652f\u6301\u4e0e\u8425\u517b\u3001\u8fd0\u52a8\u3001\u7761\u7720\u7b49\u5065\u5eb7\u6570\u636e\u7684\u5173\u8054\u5206\u6790\u3002",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tcm-constitution-analyzer\\SKILL.md"
+    },
+    {
+      "id": "tdd-workflow",
+      "name": "tdd-workflow",
+      "description": "\"Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tdd-workflow\\SKILL.md"
+    },
+    {
+      "id": "tdd-workflows-tdd-cycle",
+      "name": "tdd-workflows-tdd-cycle",
+      "description": "\"Use when working with tdd workflows tdd cycle\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tdd-workflows-tdd-cycle\\SKILL.md"
+    },
+    {
+      "id": "tdd-workflows-tdd-green",
+      "name": "tdd-workflows-tdd-green",
+      "description": "\"Implement the minimal code needed to make failing tests pass in the TDD green phase.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tdd-workflows-tdd-green\\SKILL.md"
+    },
+    {
+      "id": "tdd-workflows-tdd-red",
+      "name": "tdd-workflows-tdd-red",
+      "description": "\"Generate failing tests for the TDD red phase to define expected behavior and edge cases.\"",
+      "path": "C:\\Users\\harshal.bhoyar\\.gemini\\antigravity\\skills\\tdd-workflows-tdd-red\\SKILL.md"
+    }
+  ]
+}
