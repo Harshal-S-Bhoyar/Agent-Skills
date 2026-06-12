@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="assets/github_repo_cover.png" width="100%" alt="Autonomous Skill Architecture Topology">
+<img src="assets/github_hero_banner_cropped.png" width="100%" alt="Autonomous Skill Architecture Topology">
 
 </div>
 
