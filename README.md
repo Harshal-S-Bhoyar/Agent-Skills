@@ -54,11 +54,71 @@ Antigravity utilizes command symbols to directly hook into the file system index
 /defender-agent
 ```
 
-### Generic LLMs (ChatGPT / Claude Web)
-For standard chat interfaces, inject the skill directly via prompt context or system instructions.
-```text
-System: You are operating under the master-skill framework. 
-Retrieve and apply the instructions from [skills/master-skill/SKILL.md].
+### Skills — Tool × Local Skills Path × First Use
+
+| Tool | Local Skills Path | First Use |
+|:-----|:------------------|:----------|
+| **Claude Code** | `.claude/skills/` or `~/.claude/skills/` | `>> /brainstorming help me plan a feature` |
+| **Cursor** | `.cursor/skills/` (workspace-level) | `@brainstorming help me plan a feature` |
+| **Gemini CLI** | `~/.gemini/skills/` | `Use brainstorming to plan a feature` |
+| **Codex CLI** | `.codex/skills/` or `~/.codex/skills/` | `Use brainstorming to plan a feature` |
+| **Antigravity IDE** | Global: `~/.gemini/antigravity/skills/` · Workspace: `.agent/skills/` | `Use @brainstorming to plan a feature` |
+| **Antigravity CLI (agy)** | `~/.gemini/antigravity-cli/skills/` | `/brainstorming help me plan a feature` |
+| **Kiro CLI** | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/` | `Use brainstorming to plan a feature` |
+| **Kiro IDE** | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/` | `/skill-name` or `Use @brainstorming to plan a feature` |
+| **GitHub Copilot** | N/A — paste skills or rules manually | `Ask Copilot to use brainstorming to plan a feature` |
+| **OpenCode** | `.agents/skills/` | `opencode run @brainstorming help me plan a feature` |
+| **AdaL CLI** | `.adal/skills/` | `Use brainstorming to plan a feature` |
+| **Custom path** | `./my-skills` (any directory you choose via `--path`) | Depends on your tool |
+
+---
+
+## Notes
+
+- **Default path (no flag):** `~/.agents/skills` (Antigravity 2.0 global). Older versions defaulted to `~/.gemini/antigravity/skills`.
+- **Claude Code** also supports plugin marketplace install: `/plugin marketplace add sickn33/antigravity-awesome-skills`.
+- **Cursor** uses workspace-relative `.cursor/skills/`, not a global home directory.
+- **Antigravity IDE** has two paths — global (`~/.gemini/antigravity/skills/`) and workspace (`.agent/skills/`).
+- **Antigravity CLI (agy)** reads flat markdown skills from `~/.gemini/antigravity-cli/skills/<skill>/SKILL.md`.
+- **Kiro CLI / Kiro IDE** both support global (`~/.kiro/skills/`) and workspace (`.kiro/skills/`) paths. Skills load on-demand automatically.
+- **GitHub Copilot** has no installer — manual copy-paste of skill content or rules is required (Text Only).
+- **OpenCode** users should prefer a reduced install with `--category` / `--risk` / `--tags` filters to avoid context overload.
+- **AdaL CLI** reads skills from `.adal/skills/` at startup.
+
+<br><br><br>
+
+## Universal Manual Clone (all tools)
+
+```bash
+# Default (Global)
+git clone https://github.com/your-username/antigravity-skills.git ~/.agents/skills
+
+# Claude Code
+git clone https://github.com/your-username/antigravity-skills.git ~/.claude/skills
+
+# Gemini CLI
+git clone https://github.com/your-username/antigravity-skills.git ~/.gemini/skills
+
+# Codex CLI
+git clone https://github.com/your-username/antigravity-skills.git ~/.codex/skills
+
+# Antigravity IDE (Global)
+git clone https://github.com/your-username/antigravity-skills.git ~/.gemini/antigravity/skills
+
+# Antigravity CLI (agy)
+git clone https://github.com/your-username/antigravity-skills.git ~/.gemini/antigravity-cli/skills
+
+# Kiro CLI / IDE
+git clone https://github.com/your-username/antigravity-skills.git ~/.kiro/skills
+
+# OpenCode
+git clone https://github.com/your-username/antigravity-skills.git .agents/skills
+
+# AdaL CLI
+git clone https://github.com/your-username/antigravity-skills.git .adal/skills
+
+# Cursor (Workspace)
+git clone https://github.com/your-username/antigravity-skills.git .cursor/skills
 ```
 
 ### CLI Agents (Cursor, Aider, Cline)
