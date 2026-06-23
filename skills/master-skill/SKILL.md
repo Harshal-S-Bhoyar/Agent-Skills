@@ -32,17 +32,17 @@ Fixed, non-negotiable execution order:
 PHASE 0  [ALWAYS]   @prompt-refinement      ← Analyze, clarify, and improve the request
 PHASE 1  [ALWAYS]   @karpathy-guidelines    ← Engineering guardrails (4 Rules)
 PHASE 2  [AUTO]     @agent-memory-recall    ← Recall project context from memory
-PHASE 3  [ALWAYS]   @caveman               ← Compressed token-saving output
-PHASE 4  [AUTO]     @<domain-skill(s)>     ← Select best-matching skill(s) from registry
-PHASE 5  [ALWAYS]   @paul-workflow          ← Plan-Apply-Unify execution engine
-PHASE 6  [ALWAYS]   @agent-memory-save      ← Save context (FINALIZER — always last)
+PHASE 3  [AUTO]     @<domain-skill(s)>     ← Select best-matching skill(s) from registry
+PHASE 4  [ALWAYS]   @paul-workflow          ← Plan-Apply-Unify execution engine
+PHASE 5  [ALWAYS]   @agent-memory-save      ← Save context
+PHASE 6  [ALWAYS]   @caveman               ← Compressed token-saving output (FINALIZER — always last)
 ```
 
 ### Pipeline Rules
-- Phase 0, 1, 2, 3, 5, 6 are unconditional. Run on EVERY request.
+- Phase 0, 1, 2, 4, 5, 6 are unconditional. Run on EVERY request.
 - Phase 2 runs when the task involves code, debugging, architecture, or multi-file changes. Skip for trivial questions, typo fixes, and clarifications.
-- Phase 4 runs only if a domain skill matches (see Section 2). If none matches, use native reasoning with disclosure.
-- Phase 5 (@paul-workflow) ALWAYS runs. It uses the skill(s) selected in Phase 4 for execution.
+- Phase 3 runs only if a domain skill matches (see Section 2). If none matches, use native reasoning with disclosure.
+- Phase 4 (@paul-workflow) ALWAYS runs. It uses the skill(s) selected in Phase 3 for execution.
 - Order is strict. Never reorder, merge, or skip.
 - If a mandatory skill file is missing, apply its principles from memory. Do NOT halt.
 
@@ -168,8 +168,8 @@ Call `memory_recall` or `memory_smart_search` with:
 - Previous implementations of similar tasks
 
 **3. How to use retrieved context**
-- Feed into Phase 4 (skill selection) — memory may reveal which skills were used before
-- Feed into Phase 5 (PAUL workflow) — memory provides plan context, past approaches
+- Feed into Phase 3 (skill selection) — memory may reveal which skills were used before
+- Feed into Phase 4 (PAUL workflow) — memory provides plan context, past approaches
 - If memory returns "no results" → proceed normally (no blocking)
 
 ### Recall depth by task complexity
@@ -189,40 +189,47 @@ Call `memory_recall` or `memory_smart_search` with:
 
 ---
 
-## SECTION 2 — PHASE 4: DOMAIN SKILL SELECTION (3-TIER ROUTING)
+## SECTION 2 — PHASE 3: DOMAIN SKILL SELECTION
 
-### Hierarchical Lookup Algorithm (Max 4 Reads)
-The library contains 1500+ skills. **NEVER scan them flat.** You must use the 3-Tier index system.
+### Skills Root Path
+All skill paths resolve from: `C:\Users\harshal.bhoyar\.gemini\antigravity\skills\`
 
-**READ 1 (Tier 1): Classify Task Category**
-- Read `skills/manifest.json`.
-- Identify the single best-fit category key (e.g., `testing`, `frontend`).
-- *Rule:* If the task spans domains, pick the one where the *action* lives (e.g., "test a React app" → `testing`).
+### Lookup Strategy (Priority Order)
 
-**READ 2 (Tier 2): Find Sub-category**
-- Read `skills/{category_key}/category-index.json`.
-- Identify the sub-category key that matches the technology or workflow.
-- *Fallback:* If no match, check the `general` or `core` sub-category, or pick the closest match.
+Use the **first strategy that produces a match**. Do NOT fall through to lower strategies if a higher one succeeds.
 
-**READ 3 (Tier 3): Locate Exact Skill**
-- Read `skills/{category_key}/{sub_category_key}/skill-index.json`.
-- Select the 1 to 3 best-matching skills.
-- Extract their exact file paths.
+**STRATEGY 1 — Explicit Mention (0 reads)**
+If the user explicitly names a skill with `@skill-name`:
+- Resolve directly: `{skills_root}/{skill-name}/SKILL.md`
+- Load with `view_file`. Done.
 
-**READ 4 (Tier 4): Load the Skill(s)**
-- Use `view_file` on the exact `SKILL.md` paths extracted.
-- *Rule:* Read the full file. Never guess instructions.
+**STRATEGY 2 — Context Block Scan (0 reads)**
+The system injects a `<skills>` block into every conversation listing ALL available skills with their SKILL.md paths.
+- Scan the `<skills>` block for skill names matching the task domain.
+- Match by: skill name keywords, description text, or technology match.
+- Select the 1–3 best-matching skills by relevance.
+- Load with `view_file`. Done.
+- *This is the primary routing method.* It sees every skill regardless of index classification.
+
+**STRATEGY 3 — 3-Tier Index Lookup (2–3 reads, last resort)**
+Use ONLY when Strategy 2 returns no confident match (rare).
+- **READ 1**: Read `{skills_root}/manifest.json` → pick best category key.
+- **READ 2**: Read `{skills_root}/{category}/category-index.json` → pick sub-category.
+- **READ 3**: Read `{skills_root}/{category}/{sub_category}/skill-index.json` → extract skill paths.
+- **READ 4**: Load skill(s) with `view_file`.
+
+*Note:* The 3-tier index is auto-generated and may have classification errors. Always prefer Strategy 2.
 
 ### Edge Case: Multi-Domain Selection
-If a task strongly requires two distinct domains (e.g., "Secure my AWS deployment" -> `security` AND `cloud`):
-- You may perform the Read 2/3 lookup in **both** categories.
-- Combine the paths and load them all (up to 3 skills total).
-- Pass ALL selected skills to Phase 5 as the execution toolkit.
+If a task requires two distinct domains (e.g., "Secure my AWS deployment" → `security` AND `cloud`):
+- Select skills from **both** domains using Strategy 2.
+- Combine paths and load up to 3 skills total.
+- Pass ALL to Phase 4.
 
 ### Fallback Chain
-- If Tier 2 fails: Pick a secondary category from Tier 1.
-- If Tier 3 fails: The skill doesn't exist. Do not hallucinate paths.
-- If no skill fits: Proceed with `[NATIVE REASONING]` and disclose the absence of a skill.
+- If Strategy 2 finds no match AND Strategy 3 fails: Proceed with `[NATIVE REASONING]`.
+- Disclose the absence of a matching skill to the user.
+- **Never hallucinate skill paths or guess instructions.**
 
 ### Skills Excluded from Domain Matching
 These run via the mandatory pipeline, never as Phase 4:
@@ -230,35 +237,13 @@ These run via the mandatory pipeline, never as Phase 4:
 | Skill              | Pipeline Phase |
 |--------------------|----------------|
 | karpathy-guidelines | Phase 1       |
-| agent-memory        | Phase 2 / 6   |
-| caveman             | Phase 3       |
-| paul-workflow       | Phase 5       |
+| agent-memory        | Phase 2 / 5   |
+| caveman             | Phase 6       |
+| paul-workflow       | Phase 4       |
 
 ---
 
-## SECTION 2.5 — PHASE 3: @caveman (ALWAYS)
-
-Apply to ALL output:
-
-**Do:**
-- Bullets > paragraphs
-- Fragments > sentences
-- Facts > narrative
-- Shortest accurate wording
-
-**Never:**
-- Greetings, apologies, encouragement
-- Conclusions restating what was already said
-- Unnecessary context or transitions
-- Repeated information
-
-**Priority:** Accuracy > Compression > Grammar
-
-**Exception:** If the user asks for a detailed explanation, report, or tutorial — relax compression for that specific output only.
-
----
-
-## SECTION 3 — PHASE 5: @paul-workflow (ALWAYS — PLAN-APPLY-UNIFY EXECUTION)
+## SECTION 3 — PHASE 4: @paul-workflow (ALWAYS — PLAN-APPLY-UNIFY EXECUTION)
 
 The PAUL phase is the **execution engine**. It ensures quality through mandatory
 Plan-Apply-Unify loops and uses the skill(s) selected in Phase 4 to execute.
@@ -375,7 +360,7 @@ Create .paul/PLAN.md:
   - [ ] Task 2: [what] → verify: [how]
 
   ## Skills
-  - [list Phase 4 selected skills]
+  - [list Phase 3 selected skills]
 
 Update .paul/STATE.md:
   loop: plan
@@ -385,7 +370,7 @@ Update .paul/STATE.md:
 **STEP 5 — /paul:apply (EXECUTE WITH SKILLS — Execute/Qualify Loop)**
 ```
 FOR EACH task in PLAN.md:
-  1. EXECUTE: Apply Phase 4 domain skill(s)
+  1. EXECUTE: Apply Phase 3 domain skill(s)
   2. REPORT STATUS: DONE / DONE_WITH_CONCERNS / NEEDS_CONTEXT / BLOCKED
   3. QUALIFY (for DONE/DONE_WITH_CONCERNS):
      a. Re-read actual output (don't trust LLM memory)
@@ -423,13 +408,35 @@ Update .paul/STATE.md:
 - **Always route dynamically** — read state, pick action, execute.
 - **Never skip plan review** when `.paul/` exists.
 - **Never force plan creation** for trivial tasks — use INLINE mode.
-- **PAUL provides structure; Phase 4 skills provide expertise.** Combine both.
+- **PAUL provides structure; Phase 3 skills provide expertise.** Combine both.
 - **Status output is brief**: One line. Example: `PAUL: Phase 2 active → /paul:apply`
 - **Chain actions when logical**: After plan → apply. After apply → unify.
 
 ---
 
-## SECTION 4 — PHASE 6: @agent-memory-save (FINALIZER — ALWAYS LAST)
+## SECTION 4 — PHASE 5: @agent-memory-save
+
+---
+
+## SECTION 4.5 — PHASE 6: @caveman (FINALIZER — ALWAYS LAST)
+
+Apply to ALL output:
+
+**Do:**
+- Bullets > paragraphs
+- Fragments > sentences
+- Facts > narrative
+- Shortest accurate wording
+
+**Never:**
+- Greetings, apologies, encouragement
+- Conclusions restating what was already said
+- Unnecessary context or transitions
+- Repeated information
+
+**Priority:** Accuracy > Compression > Grammar
+
+**Exception:** If the user asks for a detailed explanation, report, or tutorial — relax compression for that specific output only.
 
 After ALL work is complete, call `memory_save` with:
 
@@ -499,12 +506,12 @@ Before submitting, verify ALL of these:
 Phase 0 (refinement)     : Request analyzed and clarified?
 Phase 1 (karpathy)       : Applied 4 rules? Self-check passed?
 Phase 2 (memory-recall)  : Recalled if code/project task? Skipped if trivial?
-Phase 3 (caveman)        : Output compressed? No filler?
-Phase 4 (domain)         : Skill(s) matched and loaded? Or [NATIVE REASONING] stated?
-Phase 5 (paul-workflow)  : State checked? PAUL action selected dynamically?
-                           Phase 4 skills used for execution?
+Phase 3 (domain)         : Skill(s) matched and loaded? Or [NATIVE REASONING] stated?
+Phase 4 (paul-workflow)  : State checked? PAUL action selected dynamically?
+                           Phase 3 skills used for execution?
                            UNIFY completed for planned tasks?
-Phase 6 (memory-save)    : memory_save called with content/concepts/files?
+Phase 5 (memory-save)    : memory_save called with content/concepts/files?
+Phase 6 (caveman)        : Output compressed? No filler?
 Scope                    : Every changed line traces to user's request?
 Additions                : Nothing added that wasn't asked for?
 ```
@@ -521,7 +528,7 @@ If user asks "how did you answer that?" — output this audit.
 4. **NEVER** skip @agent-memory-save at end of task.
 5. **NEVER** answer without checking the skill list first.
 6. **NEVER** replace a found domain skill with native reasoning without disclosure.
-7. **NEVER** run @agent-memory-save before the domain task is complete — it is always LAST.
+7. **NEVER** run @agent-memory-save before the domain task is complete.
 8. **NEVER** read a skill's contents by guessing — always view_file the SKILL.md first.
 9. **NEVER** write verbose narrative when @caveman is active.
 10. **NEVER** execute work without checking PAUL loop state first (Phase 5 gate).
