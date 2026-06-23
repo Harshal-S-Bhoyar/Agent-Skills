@@ -177,7 +177,6 @@ python generate_indexes.py
 
 <div align="center">
   
-## DEPLOYMENT READY
 
 The index is built. The pipeline is hardened. Initiate your first command.
 
